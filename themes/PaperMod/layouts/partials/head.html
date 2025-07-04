@@ -98,8 +98,14 @@
 <meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">
 <meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
 
+{{- /* Misc */}}
+{{- /* 简化环境判断逻辑 */}}
+{{- template "_internal/opengraph.html" . }}
+{{- template "_internal/twitter_cards.html" . }}
+{{- template "_internal/schema.html" . }}
+
 {{- /* RSS */}}
-{{ range .AlternativeOutputFormats -}}
+{{- range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 {{- range .AllTranslations -}}
@@ -147,11 +153,3 @@
 </noscript>
 
 {{- partial "extend_head.html" . -}}
-
-{{- /* Misc */}}
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- partial "google_analytics.html" . }}
-{{- partial "templates/opengraph.html" . }}
-{{- partial "templates/twitter_cards.html" . }}
-{{- partial "templates/schema_json.html" . }}
-{{- end -}}

@@ -1,7 +1,13 @@
-baseURL = 'https://admingit2025.github.io/www'
+baseURL = 'https://www3.git.edu.kg'
 languageCode = 'zh-cn'
-title = 'My Hugo Blog'
+title = '科技观察'
 theme = 'PaperMod'
+
+# 启用 emoji 支持
+enableEmoji = true
+
+# 启用 robots.txt
+enableRobotsTXT = true
 
 # 启用 Git Info
 enableGitInfo = true
@@ -11,39 +17,40 @@ summaryLength = 70
 
 [params]
   # 网站描述
-  description = "我的个人博客"
+  description = "关注前沿科技发展，分享最新科技突破"
   
-  # 作者信息
-  author = "Your Name"
+  # 作者设置
+  author = "科技观察团队"
   
-  # Analytics
-  googleAnalytics = ""
-  
-  # 默认主题模式
+  # 默认主题模式 (auto, light, dark)
   defaultTheme = "auto"
   
-  # 显示分享按钮
-  ShowShareButtons = true
-  
-  # 显示文章阅读时间
+  # 是否显示阅读时间
   ShowReadingTime = true
   
-  # 显示目录
+  # 是否显示分享按钮
+  ShowShareButtons = true
+  
+  # 是否显示文章目录
   ShowToc = true
   
-  # 显示面包屑导航
-  ShowBreadCrumbs = true
-  
-  # 显示代码复制按钮
-  ShowCodeCopyButtons = true
-  
-  # 显示文章字数统计
-  ShowWordCount = true
-  
-  # 显示最后修改时间
-  ShowPostNavLinks = true
-  
-  # 启用搜索功能
+  # 是否自动展开目录
+  TocOpen = true
+
+  # 主页设置
+  [params.homeInfoParams]
+    Title = "欢迎来到科技观察"
+    Content = "我们关注全球前沿科技发展，为您带来最新科技突破和创新资讯。"
+
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/your-github"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/your-twitter"
+
+  # 搜索功能
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
@@ -53,39 +60,23 @@ summaryLength = 70
     minMatchCharLength = 0
     keys = ["title", "permalink", "summary", "content"]
 
-# 社交链接
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/admingit2025"
-
-[[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/yourusername"
-
+# 菜单配置
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "文章"
-    url = "/posts/"
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
     weight = 10
-    
-  [[menu.main]]
-    identifier = "archives"
-    name = "归档"
-    url = "/archives/"
-    weight = 20
-    
   [[menu.main]]
     identifier = "tags"
     name = "标签"
     url = "/tags/"
-    weight = 30
-    
+    weight = 20
   [[menu.main]]
-    identifier = "about"
-    name = "关于"
-    url = "/about/"
-    weight = 40
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 30
 
 [markup]
   [markup.highlight]

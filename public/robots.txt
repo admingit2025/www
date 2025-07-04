@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www3.git.edu.kg/sitemap.xml

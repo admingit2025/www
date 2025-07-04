@@ -2,117 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/www/posts/medical_breakthroughs/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/posts/medical_breakthroughs/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/posts/ai_breakthroughs/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/posts/ai_breakthroughs/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/posts/mars_discoveries_2024/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/posts/mars_discoveries_2024/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/ai/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/ai/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/nasa/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/nasa/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/openai/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/openai/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/posts/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/posts/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E5%8C%BB%E7%96%97%E5%88%9B%E6%96%B0/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E5%8C%BB%E7%96%97%E5%88%9B%E6%96%B0/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E5%A4%AA%E7%A9%BA%E6%8E%A2%E7%B4%A2/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E6%8A%97%E8%A1%B0%E8%80%81/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E6%8A%97%E8%A1%B0%E8%80%81/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E6%8E%A2%E6%B5%8B%E5%99%A8/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E6%8E%A2%E6%B5%8B%E5%99%A8/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E6%9C%89%E6%9C%BA%E7%89%A9/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E6%9C%89%E6%9C%BA%E7%89%A9/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%81%AB%E5%B1%B1/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%81%AB%E5%B1%B1/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%81%AB%E6%98%9F/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%81%AB%E6%98%9F/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%94%9F%E5%91%BD%E8%B5%B7%E6%BA%90/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%94%9F%E5%91%BD%E8%B5%B7%E6%BA%90/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%B3%96%E5%B0%BF%E7%97%85/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%B3%96%E5%B0%BF%E7%97%85/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/categories/%E7%BA%B3%E7%B1%B3%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/categories/%E7%BA%B3%E7%B1%B3%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E7%BA%B3%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E7%BA%B3%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/tags/%E8%8A%82%E8%83%BD%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://www3.git.edu.kg/tags/%E8%8A%82%E8%83%BD%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/www/posts/nanorobot_article/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/www/tags/hugo/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/www/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/www/posts/my-first-post/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/www/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-07-04T08:58:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/www/posts/readme/</loc>
+    <loc>https://www3.git.edu.kg/posts/nanorobot_article/</loc>
+    <lastmod>2025-07-04T11:05:20+08:00</lastmod>
   </url>
 </urlset>
