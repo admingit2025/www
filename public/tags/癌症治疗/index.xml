@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>癌症治疗 on My Hugo Blog</title>
+    <link>http://localhost:1313/www/tags/%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97/</link>
+    <description>Recent content in 癌症治疗 on My Hugo Blog</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/www/tags/%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>隐藏武器的纳米机器人：癌症治疗的新希望</title>
+      <link>http://localhost:1313/www/posts/nanorobot_article/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/www/posts/nanorobot_article/</guid>
+      <description>瑞典科学家开发出创新纳米机器人，能够精确识别并杀死癌细胞，为癌症治疗带来新希望</description>
+    </item>
+  </channel>
+</rss>
