@@ -81,7 +81,7 @@ featured_image: "/images/cursorreg/autoreg.png"
 
 ### 2. 使用流程
 
-![输入注册码界面](/images/inputkey.png)
+![输入注册码界面](/images/cursorreg/inputkey.png)
 
 1. 运行程序，等待界面加载
 2. 输入注册码（支持自动填充）
