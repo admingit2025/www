@@ -39,8 +39,15 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+      # Add explicit artifact upload using v4
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-build
+          path: ./public
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public       # Hugo 默认输出目录
 
