@@ -17,6 +17,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  # Temporarily suppress the deprecation warning
+  ACTIONS_RUNNER_DEBUG: true
+  ACTIONS_STEP_DEBUG: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
