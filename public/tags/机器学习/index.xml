@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>机器学习 on 科技观察</title>
-    <link>http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <link>https://www.git.edu.kg/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
     <description>Recent content in 机器学习 on 科技观察</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 04 Jul 2025 11:05:20 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.git.edu.kg/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年人工智能重大突破：从通用智能到节能创新</title>
-      <link>http://localhost:1313/posts/ai_breakthroughs/</link>
+      <link>https://www.git.edu.kg/posts/ai_breakthroughs/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai_breakthroughs/</guid>
+      <guid>https://www.git.edu.kg/posts/ai_breakthroughs/</guid>
       <description>2024年AI领域的重大突破，包括OpenAI的o3系统、光驱动AI技术和突破性存储技术等创新发展</description>
     </item>
   </channel>
