@@ -5,18 +5,18 @@ author: "科技观察团队"
 description: "2024年AI领域的重大突破，包括OpenAI的o3系统、光驱动AI技术和突破性存储技术等创新发展"
 categories: ["人工智能", "科技创新"]
 tags: ["AI", "OpenAI", "机器学习", "深度学习", "节能技术"]
-featured_image: "https://images.openai.com/blob/cf717bdb-0c8c-428a-b82b-3c3add87a600/dall-e-3-system-card.jpg"
+featured_image: "https://images.unsplash.com/photo-1620712943543-bcc4680e7485"
 ---
 
 # 2024年人工智能重大突破：从通用智能到节能创新
 
-![AI技术进展概览](https://images.openai.com/blob/8d14c5f8-0b0e-4f36-897f-5552d5c9a153/gpt-4-architecture.jpg)
+![AI技术进展概览](https://images.unsplash.com/photo-1620712943543-bcc4680e7485)
 
 2024年，人工智能领域迎来了多项重大突破，从通用人工智能的进展到能源效率的提升，展现出AI技术发展的多个重要方向。让我们一起回顾这些激动人心的进展。
 
 ## OpenAI的o3系统：迈向通用人工智能
 
-![o3系统性能展示](https://images.openai.com/blob/da0d40c6-a27e-4184-a12c-f8d281fe1022/learning-from-human-feedback.jpg)
+![AI研究实验室](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)
 
 2024年12月，OpenAI发布的o3系统在ARC-AGI基准测试中取得了突破性进展，达到了85%的得分，不仅远超此前AI系统的最高分55%，更是首次达到了与人类平均水平相当的成绩。这一成就被认为是向通用人工智能(AGI)迈出的重要一步。
 
@@ -24,7 +24,7 @@ o3系统最引人注目的特点是其"样本效率"，即系统能够从少量�
 
 ## 光驱动AI：能效提升的新方向
 
-![光驱动AI技术](https://www.science.org/cms/10.1126/science.adi1485/asset/ce6e459c-2e7a-4c1f-8646-0a2e7a3456b4/assets/images/large/science.adi1485-f1.jpg)
+![光学研究实验室](https://images.unsplash.com/photo-1576086213369-97a306d36557)
 
 来自牛津大学等机构的研究人员发现，在某些光学应用中，使用低相干光源反而可以提升性能。这一发现颠覆了传统认知，为开发更节能的AI技术提供了新思路。研究表明：
 
@@ -34,6 +34,8 @@ o3系统最引人注目的特点是其"样本效率"，即系统能够从少量�
 
 ## 突破性存储技术：CRAM的革新
 
+![数据中心技术](https://images.unsplash.com/photo-1614728894747-a83421e2b9c9)
+
 明尼苏达大学的研究人员开发出了一种突破性的硬件设备，可能将AI计算的能源消耗降低至少1000倍。这种被称为计算随机存取存储器(CRAM)的新型设备具有以下特点：
 
 - 数据无需离开存储器即可进行处理
@@ -42,6 +44,8 @@ o3系统最引人注目的特点是其"样本效率"，即系统能够从少量�
 
 ## "机器心理学"：通向人类级AI的新途径
 
+![认知科学研究](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69)
+
 林雪平大学的研究人员提出了"机器心理学"的创新概念，这一方法结合了心理学学习模型和特定类型的AI：
 
 - 强调AI应该像人类一样从不同经验中学习
@@ -49,6 +53,8 @@ o3系统最引人注目的特点是其"样本效率"，即系统能够从少量�
 - 这种方法可能是实现人类级别AI的关键突破
 
 ## GenCast：AI气象预报的革命
+
+![气象数据分析](https://images.unsplash.com/photo-1614935151651-0bea6508db6b)
 
 由Google旗下DeepMind开发的GenCast展示了AI在气象预报领域的强大潜力：
 
