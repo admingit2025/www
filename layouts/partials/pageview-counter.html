@@ -7,14 +7,17 @@
     <span class="ga-pageview">-</span>
 </span>
 
+{{ with .Site.Params.googleAnalytics }}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     if (typeof gtag === 'function') {
         gtag('event', 'page_view', {
-            page_title: '{{ .Title }}',
-            page_location: window.location.href,
-            page_path: '{{ .RelPermalink }}'
+            'send_to': '{{ . }}',
+            'page_title': '{{ $.Title }}',
+            'page_location': window.location.href,
+            'page_path': '{{ $.RelPermalink }}'
         });
     }
 });
-</script> 
+</script>
+{{ end }} 

@@ -4,21 +4,7 @@
 {{- end }}
 <span title="{{ .Date }}">{{ $date }}</span>
 &nbsp;·&nbsp;{{ .ReadingTime }}&nbsp;min
-{{- if .Author }}&nbsp;·&nbsp;{{ .Author }}{{- end }}
+{{- if .Params.author }}&nbsp;·&nbsp;{{ .Params.author }}{{- end }}
 <!-- 添加访问统计 -->
 &nbsp;·&nbsp;
-{{ partial "pageview-counter.html" . }}
-
-<!-- 添加 GA4 页面访问量获取脚本 -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // 发送页面浏览事件
-    if (typeof gtag === 'function') {
-        gtag('event', 'page_view', {
-            page_title: '{{ .Title }}',
-            page_location: window.location.href,
-            page_path: '{{ .RelPermalink }}'
-        });
-    }
-});
-</script> 
+{{ partial "pageview-counter.html" . }} 
