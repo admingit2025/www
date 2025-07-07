@@ -56,4 +56,29 @@ iframe.giscus-frame {
     width: 100% !important;
     max-width: var(--main-width) !important;
     margin: 0 auto !important;
+}
+
+/* 访问统计样式 */
+.footer .post-stats {
+    margin-left: 1em;
+    font-size: 0.9em;
+    color: var(--secondary);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.footer .post-stats svg {
+    width: 14px;
+    height: 14px;
+    stroke: var(--secondary);
+}
+
+/* 适配深色模式 */
+[data-theme="dark"] .post-stats {
+    color: var(--secondary);
+}
+
+[data-theme="dark"] .post-stats svg {
+    stroke: var(--secondary);
 } 
