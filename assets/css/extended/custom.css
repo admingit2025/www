@@ -1,0 +1,29 @@
+.giscus, .giscus-frame {
+    width: 100% !important;
+    margin: 0;
+}
+
+.giscus-frame {
+    border: none;
+    color-scheme: auto;
+}
+
+/* 确保评论区和文章内容宽度一致 */
+.post-content ~ footer .giscus {
+    max-width: var(--post-width);
+    margin: auto;
+}
+
+/* 评论容器样式 */
+.giscus-container {
+    margin-top: 2rem;
+    width: 100%;
+    max-width: var(--post-width);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 深色模式适配 */
+[data-theme="dark"] .giscus-frame {
+    background-color: var(--theme);
+} 

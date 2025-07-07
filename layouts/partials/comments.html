@@ -1,18 +1,30 @@
 {{ if not .Params.disable_comments }}
-<script src="https://giscus.app/client.js"
-        data-repo="{{ .Site.Params.giscus.repo }}"
-        data-repo-id="{{ .Site.Params.giscus.repo_id }}"
-        data-category="{{ .Site.Params.giscus.category }}"
-        data-category-id="{{ .Site.Params.giscus.category_id }}"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="{{ .Site.Params.giscus.lang | default "zh-CN" }}"
-        crossorigin="anonymous"
-        async>
-</script>
-<div class="giscus"></div>
+<!-- Debug info -->
+<div style="display: none;">
+    Page Type: {{ .Type }}
+    Layout: {{ .Layout }}
+    Kind: {{ .Kind }}
+    Section: {{ .Section }}
+    Path: {{ .Path }}
+</div>
+<!-- End debug info -->
+
+<div class="giscus-container">
+    <script src="https://giscus.app/client.js"
+            data-repo="{{ .Site.Params.giscus.repo }}"
+            data-repo-id="{{ .Site.Params.giscus.repo_id }}"
+            data-category="{{ .Site.Params.giscus.category }}"
+            data-category-id="{{ .Site.Params.giscus.category_id }}"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="preferred_color_scheme"
+            data-lang="{{ .Site.Params.giscus.lang | default "zh-CN" }}"
+            crossorigin="anonymous"
+            async>
+    </script>
+    <div class="giscus"></div>
+</div>
 {{ end }} 
