@@ -5,6 +5,8 @@
 <span title="{{ .Date }}">{{ $date }}</span>
 &nbsp;·&nbsp;{{ .ReadingTime }}&nbsp;min
 {{- if .Params.author }}&nbsp;·&nbsp;{{ .Params.author }}{{- end }}
-<!-- 添加访问统计 -->
+<!-- 只在文章详情页显示访问统计 -->
+{{- if .IsPage }}
 &nbsp;·&nbsp;
-{{ partial "pageview-counter.html" . }} 
+{{ partial "pageview-counter.html" . }}
+{{- end }} 
