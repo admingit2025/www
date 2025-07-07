@@ -85,3 +85,10 @@ summaryLength = 70
     style = "monokai"
   [markup.goldmark.renderer]
     unsafe = true # 允许 HTML 标签 
+
+[params.giscus]
+repo = "admingit2025/www"  # 替换为你的GitHub仓库
+repo_id = "R_kgDOPGhD1A"           # 需要替换
+category = "Announcements"            # 讨论分类名称
+category_id = "DIC_kwDOPGhD1M4CskrC"           # 需要替换
+lang = "zh-CN"                  # 评论系统语言 
