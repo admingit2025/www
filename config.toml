@@ -92,3 +92,6 @@ repo_id = "R_kgDOPGhD1A"           # 需要替换
 category = "Announcements"            # 讨论分类名称
 category_id = "DIC_kwDOPGhD1M4CskrC"           # 需要替换
 lang = "zh-CN"                  # 评论系统语言 
+
+# Google Analytics 配置
+googleAnalytics = "G-Q1H0CCT633"  # 替换为你的测量 ID 
