@@ -37,6 +37,9 @@ summaryLength = 70
   # 是否自动展开目录
   TocOpen = true
 
+  # 启用评论
+  comments = true
+
   # 主页设置
   [params.homeInfoParams]
     Title = "欢迎来到科技观察"
