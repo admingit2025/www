@@ -74,6 +74,21 @@ iframe.giscus-frame {
     stroke: var(--secondary);
 }
 
+/* 文章列表中的访问统计样式 */
+.post-entry .post-stats {
+    color: var(--secondary);
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.post-entry .post-stats svg {
+    width: 16px;
+    height: 16px;
+    stroke: var(--secondary);
+}
+
 /* 适配深色模式 */
 [data-theme="dark"] .post-stats {
     color: var(--secondary);
