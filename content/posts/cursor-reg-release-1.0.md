@@ -69,7 +69,7 @@ featured_image: "/images/cursorreg/autoreg.png"
 ## Cursor Reg 特性介绍
 
 ### 1. 下载安装
-- 项目地址：[https://github.com/drmayolee/cusor-reg-pub](https://github.com/drmayolee/cusor-reg-pub)
+- 项目地址：[https://github.com/admingit2025/www/tree/main/releases/v1.11.03](https://github.com/admingit2025/www/tree/main/releases/v1.11.03)
 
 ![Cursor Reg 下载页面](/images/cursorreg/download.png)
 
@@ -171,11 +171,3 @@ featured_image: "/images/cursorreg/autoreg.png"
 
 ---
 *注：本文中的截图仅供参考，实际界面可能会随版本更新而变化。工具会持续更新以适配Cursor的最新版本。* 
-
-![软件开发工具](https://images.unsplash.com/photo-1620712943543-bcc4680e7485)
-
-![用户界面设计](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)
-
-![软件安全性](https://images.unsplash.com/photo-1614935151651-0bea6508db6b)
-
-![技术创新](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69)
