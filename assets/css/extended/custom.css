@@ -1,6 +1,7 @@
 .giscus, .giscus-frame {
     width: 100% !important;
-    margin: 0;
+    max-width: 100% !important;
+    margin: 0 !important;
 }
 
 .giscus-frame {
@@ -9,21 +10,50 @@
 }
 
 /* 确保评论区和文章内容宽度一致 */
-.post-content ~ footer .giscus {
-    max-width: var(--post-width);
-    margin: auto;
+.post-single .giscus {
+    max-width: 100% !important;
+    margin: 0 auto !important;
 }
 
 /* 评论容器样式 */
 .giscus-container {
     margin-top: 2rem;
     width: 100%;
-    max-width: var(--post-width);
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
+    padding: 0;
 }
 
 /* 深色模式适配 */
 [data-theme="dark"] .giscus-frame {
     background-color: var(--theme);
+}
+
+/* 修复评论区宽度 */
+.post-footer {
+    width: 100%;
+    max-width: inherit;
+}
+
+.post-footer .giscus-container,
+.post-footer .giscus,
+.post-footer .giscus-frame {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* 新增评论区容器样式 */
+.post-comments {
+    width: 100%;
+    max-width: var(--main-width);
+    margin: 0 auto;
+    padding: 0 var(--gap);
+}
+
+/* 确保iframe不会超出容器 */
+iframe.giscus-frame {
+    width: 100% !important;
+    max-width: var(--main-width) !important;
+    margin: 0 auto !important;
 } 
