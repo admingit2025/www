@@ -16,7 +16,7 @@ XianYu机器人Web管理系统是一款专门设计用于管理XianyuAutoAgent�
 
 ## 1. 系统特点与优势
 
-![系统界面](/images/goofish_bot_web_1.0/login.pngf)
+![系统界面](/images/goofish_bot_web_1.0/login.png)
 
 - 图形化Web界面，操作简单直观
 - 自动化token管理，无需手动提取
@@ -70,7 +70,7 @@ XianYu机器人Web管理系统是一款专门设计用于管理XianyuAutoAgent�
 
 ## 4. 常见问题与解决方案
 
-![技术支持]( (/images/goofish_bot_web_1.0/index.png))
+![技术支持](/images/goofish_bot_web_1.0/index.png)
 
 为了帮助用户更好地使用系统，我们提供了常见问题解答：
 
