@@ -1,6 +1,6 @@
 ---
 title: "Cursor Reg 1.0 发布公告"
-date: 2024-03-15
+date: 2025-07-07
 author: "科技观察"
 description: "Cursor Reg 1.0 工具发布公告，一款注重安全性、易用性和稳定性的 Cursor 注册工具"
 categories: ["工具发布", "软件开发"]

@@ -1,3 +1,5 @@
+googleAnalytics = "G-Q1H0CCT633"  # 你的 GA4 测量 ID
+
 baseURL = 'https://www.git.edu.kg'
 languageCode = 'zh-cn'
 title = '科技观察'
@@ -63,6 +65,14 @@ summaryLength = 70
     minMatchCharLength = 0
     keys = ["title", "permalink", "summary", "content"]
 
+  # Google Analytics 配置
+  # googleAnalytics = "G-Q1H0CCT633"  # GA4 测量 ID
+
+  # 启用 Google Analytics
+  [params.analytics]
+    [params.analytics.google]
+      SiteVerificationTag = ""  # 留空但必须保留此字段
+
 # 菜单配置
 [menu]
   [[menu.main]]
@@ -99,7 +109,4 @@ reactions_enabled = "1"            # 启用反应
 emit_metadata = "0"               # 不发送元数据
 input_position = "bottom"         # 评论框位置
 theme = "preferred_color_scheme"  # 使用系统主题
-lang = "zh-CN"                  # 评论系统语言
-
-# Google Analytics 配置
-googleAnalytics = "G-Q1H0CCT633"  # 替换为你的测量 ID 
+lang = "zh-CN"                  # 评论系统语言 

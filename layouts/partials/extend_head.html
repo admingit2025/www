@@ -1,41 +1,4 @@
-<!-- Google Analytics -->
-{{ partial "analytics.html" . }}
-
-<!-- 自定义样式 -->
-<style>
-    /* 文章页面的访问统计样式 */
-    .post-meta .post-stats {
-        color: var(--secondary);
-        font-size: 14px;
-        display: inline-flex;
-        align-items: center;
-        gap: 4px;
-    }
-    .post-meta .post-stats svg {
-        width: 16px;
-        height: 16px;
-        stroke: var(--secondary);
-    }
-
-    /* 页脚的访问统计样式 */
-    .footer-stats {
-        margin-top: 15px;
-        text-align: center;
-    }
-    .footer-stats .post-stats {
-        color: var(--secondary);
-        font-size: 14px;
-        display: inline-flex;
-        align-items: center;
-        gap: 4px;
-        opacity: 0.8;
-    }
-    .footer-stats .post-stats:hover {
-        opacity: 1;
-    }
-    .footer-stats .post-stats svg {
-        width: 16px;
-        height: 16px;
-        stroke: var(--secondary);
-    }
-</style> 
+{{- /* Head custom content area start */ -}}
+{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
+{{- template "_internal/google_analytics.html" . }}
+{{- /* Head custom content area end */ -}} 

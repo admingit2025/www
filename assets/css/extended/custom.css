@@ -59,19 +59,27 @@ iframe.giscus-frame {
 }
 
 /* 访问统计样式 */
-.footer .post-stats {
+.footer .post-stats,
+.post-meta .post-stats {  /* 添加文章页面的选择器 */
     margin-left: 1em;
     font-size: 0.9em;
     color: var(--secondary);
     display: inline-flex;
     align-items: center;
     gap: 4px;
+    vertical-align: middle;
+    flex-direction: row;  /* 强制水平布局 */
+    white-space: nowrap;  /* 防止换行 */
 }
 
-.footer .post-stats svg {
-    width: 14px;
-    height: 14px;
+.footer .post-stats svg,
+.post-meta .post-stats svg {  /* 添加文章页面的选择器 */
+    width: 16px;
+    height: 16px;
     stroke: var(--secondary);
+    vertical-align: middle;
+    margin-top: -2px;
+    flex-shrink: 0;  /* 防止图标缩小 */
 }
 
 /* 文章列表中的访问统计样式 */
@@ -81,12 +89,18 @@ iframe.giscus-frame {
     display: inline-flex;
     align-items: center;
     gap: 4px;
+    vertical-align: middle;
+    flex-direction: row;  /* 强制水平布局 */
+    white-space: nowrap;  /* 防止换行 */
 }
 
 .post-entry .post-stats svg {
     width: 16px;
     height: 16px;
     stroke: var(--secondary);
+    vertical-align: middle;
+    margin-top: -2px;
+    flex-shrink: 0;  /* 防止图标缩小 */
 }
 
 /* 适配深色模式 */

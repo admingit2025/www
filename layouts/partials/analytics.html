@@ -1,10 +1,12 @@
-{{ with .Site.Params.googleAnalytics }}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-<script>
+{{ if ne hugo.Environment "development" }}
+  {{ with .Site.GoogleAnalytics }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ . }}');
-</script>
+  </script>
+  {{ end }}
 {{ end }} 

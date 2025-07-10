@@ -1,6 +1,6 @@
 ---
 title: "XianYu机器人Web管理系统：简化自动化交易的部署与管理"
-date: 2024-03-15
+date: 2025-07-08
 author: "技术团队"
 description: "XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答"
 categories: ["软件工具", "自动化"]
