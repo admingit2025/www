@@ -94,7 +94,12 @@ repo = "admingit2025/www"  # 替换为你的GitHub仓库
 repo_id = "R_kgDOPGhD1A"           # 需要替换
 category = "Announcements"            # 讨论分类名称
 category_id = "DIC_kwDOPGhD1M4CskrC"           # 需要替换
-lang = "zh-CN"                  # 评论系统语言 
+mapping = "pathname"                # 使用页面路径作为讨论映射
+reactions_enabled = "1"            # 启用反应
+emit_metadata = "0"               # 不发送元数据
+input_position = "bottom"         # 评论框位置
+theme = "preferred_color_scheme"  # 使用系统主题
+lang = "zh-CN"                  # 评论系统语言
 
 # Google Analytics 配置
 googleAnalytics = "G-Q1H0CCT633"  # 替换为你的测量 ID 
