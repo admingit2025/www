@@ -13,6 +13,29 @@ enableRobotsTXT = true
 
 # 启用 Git Info
 enableGitInfo = true
+
+# 启用 sitemap
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest", "SearchIndex"]
+  section = ["HTML", "RSS", "JSON"]
+  taxonomy = ["HTML", "RSS", "JSON"]
+  term = ["HTML", "RSS", "JSON"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
 [pagination]
   pagerSize = 10
 summaryLength = 70
@@ -26,6 +49,32 @@ summaryLength = 70
   
   # 默认主题模式 (auto, light, dark)
   defaultTheme = "auto"
+  
+  # SEO 优化
+  keywords = ["科技", "创新", "人工智能", "区块链", "数字化转型"]
+  images = ["/images/site-feature-image.jpg"]
+  
+  # Open Graph 设置
+  [params.openGraph]
+    enable = true
+    locale = "zh_CN"
+    siteName = "科技观察"
+    description = "关注前沿科技发展，分享最新科技突破"
+    images = ["/images/site-feature-image.jpg"]
+  
+  # Twitter Card 设置
+  [params.twitter]
+    enable = true
+    card = "summary_large_image"
+    site = "@yourtwitterhandle"
+    creator = "@yourtwitterhandle"
+    images = ["/images/site-feature-image.jpg"]
+
+  # 百度统计
+  baiduAnalytics = "your-baidu-analytics-id"
+  
+  # 百度站长验证
+  baiduVerification = "your-baidu-verification-code"
   
   # 是否显示阅读时间
   ShowReadingTime = true
@@ -66,12 +115,9 @@ summaryLength = 70
     keys = ["title", "permalink", "summary", "content"]
 
   # Google Analytics 配置
-  # googleAnalytics = "G-Q1H0CCT633"  # GA4 测量 ID
-
-  # 启用 Google Analytics
   [params.analytics]
     [params.analytics.google]
-      SiteVerificationTag = ""  # 留空但必须保留此字段
+      SiteVerificationTag = ""  # Google Search Console 验证码
 
 # 菜单配置
 [menu]

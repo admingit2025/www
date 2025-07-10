@@ -1,4 +1,76 @@
 {{- /* Head custom content area start */ -}}
-{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
+<!-- SEO Meta Tags -->
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="bingbot" content="index, follow">
+
+<!-- Mobile Specific -->
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!-- Social Media Meta Tags -->
+{{- with .Params.keywords -}}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{- end }}
+
+<!-- Baidu Site Verification -->
+<meta name="baidu-site-verification" content="{{ .Site.Params.baiduVerification }}" />
+
+<!-- Alternate Language Versions -->
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}" />
+
+<!-- RSS Feed -->
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "headline": "{{ .Title }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+    "image": {{ with .Params.cover.image }}{{ . | absURL }}{{ end }},
+    "author": {
+        "@type": "Organization",
+        "name": "{{ .Site.Params.author }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ "logo.png" | absURL }}"
+        }
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}"
+}
+</script>
+
+<!-- Google Analytics -->
 {{- template "_internal/google_analytics.html" . }}
+
+<!-- Baidu Analytics -->
+{{ with .Site.Params.baiduAnalytics }}
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?{{ . }}";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+{{ end }}
+
 {{- /* Head custom content area end */ -}} 

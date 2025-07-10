@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# 禁止访问管理页面
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /draft/
+
+# 允许访问静态资源
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /fonts/
+
+# Sitemap
+Sitemap: {{ "sitemap.xml" | absURL }} 
