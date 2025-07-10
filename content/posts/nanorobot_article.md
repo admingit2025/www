@@ -5,7 +5,9 @@ author: "科技观察团队"
 description: "瑞典科学家开发出创新纳米机器人，能够精确识别并杀死癌细胞，为癌症治疗带来新希望"
 categories: ["医疗科技", "纳米技术"]
 tags: ["纳米机器人", "癌症治疗", "医疗创新", "生物技术"]
-featured_image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69"
+cover:
+    image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69"
+    alt: "纳米机器人技术"
 ---
 
 # 隐藏武器的纳米机器人：癌症治疗的新希望

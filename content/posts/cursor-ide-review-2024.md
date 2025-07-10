@@ -4,8 +4,11 @@ date: 2024-03-20
 description: "深入分析 Cursor IDE 的优缺点、使用体验及未来发展前景，帮助开发者做出选择。"
 tags: ["IDE", "AI编程", "开发工具", "Cursor"]
 cover:
-    image: "/images/cursor-ide-review/cover.png"
-    alt: "Cursor IDE Review Cover"
+    image: "https://images.unsplash.com/photo-1592609931095-54a2168ae893"
+    alt: "Cursor IDE 2024主界面"
+images: 
+    - "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+    - "https://images.unsplash.com/photo-1461749280684-dccba630e2f6"
 ---
 
 # Cursor IDE 2024深度评测：AI驱动的开发利器还是昙花一现？

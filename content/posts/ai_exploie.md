@@ -5,7 +5,9 @@ author: "科技前沿观察组"
 description: "深度解析2025年全球AI竞争格局：人形机器人量产落地、欧盟监管僵局、教育智能化重构及万亿低空经济崛起"
 categories: ["人工智能", "科技创新"]
 tags: ["AI监管", "人形机器人", "低空经济", "教育智能化", "生成式AI"]
-featured_image: "https://images.unsplash.com/photo-1620712943543-bcc4680e7485"
+cover:
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4680e7485"
+    alt: "AI爆发与监管博弈"
 ---
 
 # 2025年人工智能爆发：从监管博弈到教育革命

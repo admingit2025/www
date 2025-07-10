@@ -5,7 +5,9 @@ author: "教育科技洞察"
 description: "深入探讨2025年人工智能如何重塑教育格局，从个性化学习路径到未来技能培养，解锁AI赋能教育的无限可能。"
 categories: ["教育科技", "人工智能"]
 tags: ["AI教育", "个性化学习", "未来技能", "智能辅导", "教育公平", "AI伦理"]
-featured_image: "https://images.unsplash.com/photo-1546776100-3636f32e2d02"
+cover:
+    image: "https://images.unsplash.com/photo-1546776100-3636f32e2d02"
+    alt: "AI教育革新"
 ---
 
 # 2025年AI教育新篇章：个性化学习与未来技能培养

@@ -5,7 +5,9 @@ author: "科技观察团队"
 description: "2024年火星探索领域的重大发现，包括新火山、有机物分析和耐极端环境生物研究等突破性进展"
 categories: ["太空探索", "科学发现"]
 tags: ["火星", "NASA", "探测器", "火山", "有机物", "生命起源"]
-featured_image: "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9"
+cover:
+    image: "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9"
+    alt: "火星探索发现"
 ---
 
 # 2024年火星探索重大突破:从神秘晶体到生命起源

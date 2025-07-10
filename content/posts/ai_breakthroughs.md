@@ -5,7 +5,9 @@ author: "科技观察团队"
 description: "2024年AI领域的重大突破，包括OpenAI的o3系统、光驱动AI技术和突破性存储技术等创新发展"
 categories: ["人工智能", "科技创新"]
 tags: ["AI", "OpenAI", "机器学习", "深度学习", "节能技术"]
-featured_image: "https://images.unsplash.com/photo-1620712943543-bcc4680e7485"
+cover:
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4680e7485"
+    alt: "AI突破性进展"
 ---
 
 # 2024年人工智能重大突破：从通用智能到节能创新

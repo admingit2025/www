@@ -5,7 +5,9 @@ author: "全球事务观察"
 description: "深入解析2025年国际局势的最新动态，包括地缘政治冲突、大国关系演变、经济民族主义抬头及技术竞争等关键议题，展望全球秩序的未来走向。"
 categories: ["国际关系", "地缘政治"]
 tags: ["国际局势", "地缘冲突", "大国博弈", "经济民族主义", "AI竞争", "全球治理"]
-featured_image: "https://images.unsplash.com/photo-1579547621113-e4bc2358494e"
+cover:
+    image: "https://images.unsplash.com/photo-1579547621113-e4bc2358494e"
+    alt: "2027年全球展望"
 ---
 
 # 2025全球地缘政治前瞻：冲突、合作与新秩序的演变

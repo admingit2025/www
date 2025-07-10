@@ -5,7 +5,9 @@ author: "技术团队"
 description: "XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答"
 categories: ["软件工具", "自动化"]
 tags: ["XianYu", "自动化交易", "Web管理", "机器人","闲鱼","人工智能","AutoAgent"]
-featured_image: "/images/goofish_bot_web_1.0/login.png"
+cover:
+    image: "/images/goofish_bot_web_1.0/login.png"
+    alt: "咸鱼机器人Web界面"
 ---
 
 # XianYu机器人Web管理系统：简化自动化交易的部署与管理

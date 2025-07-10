@@ -5,7 +5,9 @@ author: "科技观察团队"
 description: "2024-2025年医疗科技领域的重大突破，包括基因治疗、口服胰岛素和抗衰老技术等创新进展"
 categories: ["医疗科技", "生物技术"]
 tags: ["基因治疗", "糖尿病", "抗衰老", "医疗创新"]
-featured_image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef"
+cover:
+    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef"
+    alt: "医疗突破"
 ---
 
 # 2024-2025年医疗科技重大突破：从基因治疗到智能药物

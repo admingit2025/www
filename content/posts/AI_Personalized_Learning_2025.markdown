@@ -5,7 +5,9 @@ author: "教育科技观察团队"
 description: "2025年AI个性化学习技术的突破，探讨如何通过人工智能优化教育体验、提升学习成果并缩小教育差距"
 categories: ["教育科技", "人工智能", "个性化学习"]
 tags: ["AI教育", "个性化学习", "教育技术", "EdTech", "学习分析"]
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+cover:
+    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+    alt: "AI个性化学习"
 ---
 
 # 2025年AI驱动的个性化学习：重塑教育的未来
