@@ -1,0 +1,27 @@
+{{/* Initialize empty array */}}
+{{ $images := slice }}
+
+{{/* Try to get cover image first */}}
+{{ with .Params.cover.image }}
+  {{ $img := dict "Permalink" (. | absURL) }}
+  {{ $images = $images | append $img }}
+{{ end }}
+
+{{/* Try to get images from page params */}}
+{{ with .Params.images }}
+  {{ range . }}
+    {{ $img := dict "Permalink" (. | absURL) }}
+    {{ $images = $images | append $img }}
+  {{ end }}
+{{ end }}
+
+{{/* Try to get site default images */}}
+{{ with .Site.Params.images }}
+  {{ range . }}
+    {{ $img := dict "Permalink" (. | absURL) }}
+    {{ $images = $images | append $img }}
+  {{ end }}
+{{ end }}
+
+{{/* Return the array of images */}}
+{{ return $images }} 
