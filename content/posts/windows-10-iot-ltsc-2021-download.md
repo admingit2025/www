@@ -11,7 +11,7 @@ keywords: ["Windows 10 IoT LTSC下载", "LTSC 2021下载", "Windows LTSC", "IoT 
 
 # Windows 10 IoT LTSC/LTSC 2021的下载渠道
 
-![](https://i0.hdslb.com/bfs/article/22122ec7dd4c5a3684b375cdc314a138434359407.jpg@1192w.webp)
+![图片](https://i0.hdslb.com/bfs/article/22122ec7dd4c5a3684b375cdc314a138434359407.jpg@1192w.webp)
 
 最近有一些人问我，他们ltsc版本无法转换为iot ltsc版，也许可能是下载渠道或者版本不对，今天我分享几个可靠的渠道下载
 
