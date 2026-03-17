@@ -1,20 +1,20 @@
 ---
 title: "GitHub 热门仓库精选 - 2026-03-17"
-date: 2026-03-17T12:14:35
+date: 2026-03-17T13:14:35
 author: "GitHub Trending Bot"
 description: "自动生成的 GitHub 热门仓库报告，包含今日最热门的开源项目"
 categories: ["技术资讯", "开源项目"]
 tags: ["github", "trending", "开源", "open-source", "热门仓库"]
 cover:
-    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200"
+    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
     alt: "GitHub Trending"
 ---
 # GitHub 热门仓库精选 - 2026-03-17
 
-![GitHub Trending](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200)
+![GitHub Trending](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200)
 
 > 自动生成的 GitHub 热门仓库报告
-> 生成时间：2026-03-17 12:14:35
+> 生成时间：2026-03-17 13:14:35
 
 本期精选了最近7天内 GitHub 上最热门的开源仓库，涵盖各种编程语言和领域。让我们一起来看看开发者们都在关注什么！
 
@@ -25,8 +25,8 @@ cover:
 
 - **作者**: [@garrytan](https://github.com/garrytan)
 - **语言**: TypeScript
-- **Stars**: 17,716 ⭐
-- **Forks**: 1,970 
+- **Stars**: 17,845 ⭐
+- **Forks**: 1,987 
 - **描述**: Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 ### 2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
@@ -34,8 +34,8 @@ cover:
 
 - **作者**: [@THU-MAIC](https://github.com/THU-MAIC)
 - **语言**: TypeScript
-- **Stars**: 2,432 ⭐
-- **Forks**: 310 
+- **Stars**: 2,538 ⭐
+- **Forks**: 322 
 - **描述**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 ### 3. [calesthio/Crucix](https://github.com/calesthio/Crucix)
 
@@ -43,8 +43,8 @@ cover:
 
 - **作者**: [@calesthio](https://github.com/calesthio)
 - **语言**: JavaScript
-- **Stars**: 2,102 ⭐
-- **Forks**: 255 
+- **Stars**: 2,160 ⭐
+- **Forks**: 261 
 - **描述**: Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 ### 4. [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
 
@@ -52,8 +52,8 @@ cover:
 
 - **作者**: [@davebcn87](https://github.com/davebcn87)
 - **语言**: TypeScript
-- **Stars**: 1,990 ⭐
-- **Forks**: 99 
+- **Stars**: 1,993 ⭐
+- **Forks**: 100 
 - **描述**: Autonomous experiment loop extension for pi
 ### 5. [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
 
@@ -61,8 +61,8 @@ cover:
 
 - **作者**: [@TianyiDataScience](https://github.com/TianyiDataScience)
 - **语言**: TypeScript
-- **Stars**: 1,922 ⭐
-- **Forks**: 263 
+- **Stars**: 1,925 ⭐
+- **Forks**: 264 
 - **描述**: Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 ### 6. [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
 
@@ -70,7 +70,7 @@ cover:
 
 - **作者**: [@pasky](https://github.com/pasky)
 - **语言**: JavaScript
-- **Stars**: 1,913 ⭐
+- **Stars**: 1,918 ⭐
 - **Forks**: 101 
 - **描述**: Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 ### 7. [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
@@ -79,8 +79,8 @@ cover:
 
 - **作者**: [@aiming-lab](https://github.com/aiming-lab)
 - **语言**: Python
-- **Stars**: 1,650 ⭐
-- **Forks**: 226 
+- **Stars**: 1,714 ⭐
+- **Forks**: 240 
 - **描述**: Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
 ### 8. [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 
@@ -88,7 +88,7 @@ cover:
 
 - **作者**: [@gsd-build](https://github.com/gsd-build)
 - **语言**: TypeScript
-- **Stars**: 1,566 ⭐
+- **Stars**: 1,571 ⭐
 - **Forks**: 133 
 - **描述**: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 ### 9. [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
@@ -97,8 +97,8 @@ cover:
 
 - **作者**: [@novatic14](https://github.com/novatic14)
 - **语言**: 未知
-- **Stars**: 1,409 ⭐
-- **Forks**: 363 
+- **Stars**: 1,416 ⭐
+- **Forks**: 366 
 - **描述**: 暂无描述
 ### 10. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
@@ -106,8 +106,8 @@ cover:
 
 - **作者**: [@NVIDIA](https://github.com/NVIDIA)
 - **语言**: TypeScript
-- **Stars**: 1,222 ⭐
-- **Forks**: 142 
+- **Stars**: 1,397 ⭐
+- **Forks**: 163 
 - **描述**: NVIDIA plugin for secure installation of OpenClaw
 ## 趋势分析
 
@@ -133,5 +133,5 @@ cover:
 
 ---
 
-*最后更新: 2026-03-17T12:14:35*
+*最后更新: 2026-03-17T13:14:35*
 *数据来源: [GitHub API](https://docs.github.com/en/rest)*
