@@ -14,7 +14,6 @@ tags: ["Cursor", "AI Programming", "Development Tools", "Registration Tool", "ID
 # Open Graph/Social Media Optimization
 images: ["/images/cursorreg/autoreg.png"]
 isCJKLanguage: false
-weight: 1
 cover:
     image: "/images/cursorreg/autoreg.png"
     alt: "Cursor Reg auto-registration tool interface showing the main functionality area and operation buttons"

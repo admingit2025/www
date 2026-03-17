@@ -13,7 +13,6 @@ tags: ["XianYu", "Automated Trading", "Web Management", "Robot", "Goofish", "AI"
 
 # Open Graph/Social Media Optimization
 images: ["/images/goofish_bot_web_1.0/login.png"]
-weight: 1
 cover:
     image: "/images/goofish_bot_web_1.0/login.png"
     alt: "XianYu Robot Web Management System login interface, showcasing clean modern UI design and user-friendly control panel"

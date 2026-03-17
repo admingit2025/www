@@ -1,6 +1,7 @@
 ---
 title: "GitHub 热门仓库精选 - 2026-03-17"
 date: 2026-03-17T14:14:35
+lastmod: 2026-03-17T14:14:35
 author: "GitHub Trending Bot"
 description: "自动生成的 GitHub 热门仓库报告，包含今日最热门的开源项目"
 categories: ["技术资讯", "开源项目"]
