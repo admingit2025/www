@@ -14,7 +14,6 @@ tags: ["XianYu", "自动化交易", "Web管理", "机器人", "闲鱼", "人工�
 # Open Graph/社交媒体优化
 images: ["/images/goofish_bot_web_1.0/login.png"]
 isCJKLanguage: true
-weight: 1
 cover:
     image: "/images/goofish_bot_web_1.0/login.png"
     alt: "XianYu机器人Web管理系统登录界面，展示了简洁现代的UI设计和用户友好的操作面板"
