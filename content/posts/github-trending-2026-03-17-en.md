@@ -1,20 +1,20 @@
 ---
 title: "GitHub Trending Repositories - 2026-03-17"
-date: 2026-03-17T13:14:35
+date: 2026-03-17T14:14:35
 author: "GitHub Trending Bot"
 description: "Auto-generated GitHub trending repositories report featuring today's hottest open source projects"
 categories: ["Tech News", "Open Source"]
 tags: ["github", "trending", "open-source", "repositories"]
 cover:
-    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
+    image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200"
     alt: "GitHub Trending"
 ---
 # GitHub Trending Repositories - 2026-03-17
 
-![GitHub Trending](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200)
+![GitHub Trending](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200)
 
 > Auto-generated GitHub Trending Report
-> Generated at: 2026-03-17 13:14:35
+> Generated at: 2026-03-17 14:14:35
 
 This edition features the hottest open source repositories on GitHub from the past 7 days, covering various programming languages and domains. Let's see what developers are focusing on!
 
@@ -25,8 +25,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@garrytan](https://github.com/garrytan)
 - **Language**: TypeScript
-- **Stars**: 17,845 ⭐
-- **Forks**: 1,987
+- **Stars**: 17,981 ⭐
+- **Forks**: 1,999
 - **Description**: Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 ### 2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
@@ -34,8 +34,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@THU-MAIC](https://github.com/THU-MAIC)
 - **Language**: TypeScript
-- **Stars**: 2,538 ⭐
-- **Forks**: 322
+- **Stars**: 2,658 ⭐
+- **Forks**: 341
 - **Description**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 ### 3. [calesthio/Crucix](https://github.com/calesthio/Crucix)
 
@@ -43,8 +43,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@calesthio](https://github.com/calesthio)
 - **Language**: JavaScript
-- **Stars**: 2,160 ⭐
-- **Forks**: 261
+- **Stars**: 2,221 ⭐
+- **Forks**: 266
 - **Description**: Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 ### 4. [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
 
@@ -52,7 +52,7 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@davebcn87](https://github.com/davebcn87)
 - **Language**: TypeScript
-- **Stars**: 1,993 ⭐
+- **Stars**: 1,999 ⭐
 - **Forks**: 100
 - **Description**: Autonomous experiment loop extension for pi
 ### 5. [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
@@ -61,8 +61,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@TianyiDataScience](https://github.com/TianyiDataScience)
 - **Language**: TypeScript
-- **Stars**: 1,925 ⭐
-- **Forks**: 264
+- **Stars**: 1,928 ⭐
+- **Forks**: 265
 - **Description**: Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 ### 6. [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
 
@@ -70,7 +70,7 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@pasky](https://github.com/pasky)
 - **Language**: JavaScript
-- **Stars**: 1,918 ⭐
+- **Stars**: 1,928 ⭐
 - **Forks**: 101
 - **Description**: Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 ### 7. [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
@@ -79,8 +79,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@aiming-lab](https://github.com/aiming-lab)
 - **Language**: Python
-- **Stars**: 1,714 ⭐
-- **Forks**: 240
+- **Stars**: 1,779 ⭐
+- **Forks**: 252
 - **Description**: Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
 ### 8. [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 
@@ -88,27 +88,27 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@gsd-build](https://github.com/gsd-build)
 - **Language**: TypeScript
-- **Stars**: 1,571 ⭐
-- **Forks**: 133
+- **Stars**: 1,580 ⭐
+- **Forks**: 134
 - **Description**: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
-### 9. [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
-
-![MANPADS-System-Launcher-and-Rocket](https://avatars.githubusercontent.com/u/219924819?v=4)
-
-- **Author**: [@novatic14](https://github.com/novatic14)
-- **Language**: Unknown
-- **Stars**: 1,416 ⭐
-- **Forks**: 366
-- **Description**: No description available
-### 10. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
+### 9. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
 ![NemoClaw](https://avatars.githubusercontent.com/u/1728152?v=4)
 
 - **Author**: [@NVIDIA](https://github.com/NVIDIA)
 - **Language**: TypeScript
-- **Stars**: 1,397 ⭐
-- **Forks**: 163
+- **Stars**: 1,566 ⭐
+- **Forks**: 183
 - **Description**: NVIDIA plugin for secure installation of OpenClaw
+### 10. [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+
+![MANPADS-System-Launcher-and-Rocket](https://avatars.githubusercontent.com/u/219924819?v=4)
+
+- **Author**: [@novatic14](https://github.com/novatic14)
+- **Language**: Unknown
+- **Stars**: 1,421 ⭐
+- **Forks**: 366
+- **Description**: No description available
 ## Trend Analysis
 
 ### Programming Language Distribution
@@ -133,5 +133,5 @@ This document is automatically generated hourly by a script that fetches data fr
 
 ---
 
-*Last updated: 2026-03-17T13:14:35*
+*Last updated: 2026-03-17T14:14:35*
 *Data source: [GitHub API](https://docs.github.com/en/rest)*
