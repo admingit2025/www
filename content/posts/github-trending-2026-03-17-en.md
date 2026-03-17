@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-03-17"
-date: 2026-03-17T17:14:35
+date: 2026-03-17T18:14:35
 author: "GitHub Trending Bot"
 description: "Auto-generated GitHub trending repositories report featuring today's hottest open source projects"
 categories: ["Tech News", "Open Source"]
@@ -14,7 +14,7 @@ cover:
 ![GitHub Trending](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200)
 
 > Auto-generated GitHub Trending Report
-> Generated at: 2026-03-17 17:14:35
+> Generated at: 2026-03-17 18:14:35
 
 This edition features the hottest open source repositories on GitHub from the past 7 days, covering various programming languages and domains. Let's see what developers are focusing on!
 
@@ -25,8 +25,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@garrytan](https://github.com/garrytan)
 - **Language**: TypeScript
-- **Stars**: 18,420 ⭐
-- **Forks**: 2,048
+- **Stars**: 18,565 ⭐
+- **Forks**: 2,060
 - **Description**: Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 ### 2. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
@@ -34,8 +34,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@THU-MAIC](https://github.com/THU-MAIC)
 - **Language**: TypeScript
-- **Stars**: 3,102 ⭐
-- **Forks**: 407
+- **Stars**: 3,241 ⭐
+- **Forks**: 426
 - **Description**: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 ### 3. [calesthio/Crucix](https://github.com/calesthio/Crucix)
 
@@ -43,8 +43,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@calesthio](https://github.com/calesthio)
 - **Language**: JavaScript
-- **Stars**: 2,471 ⭐
-- **Forks**: 295
+- **Stars**: 2,553 ⭐
+- **Forks**: 298
 - **Description**: Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 ### 4. [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
 
@@ -52,8 +52,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@NVIDIA](https://github.com/NVIDIA)
 - **Language**: TypeScript
-- **Stars**: 2,096 ⭐
-- **Forks**: 245
+- **Stars**: 2,238 ⭐
+- **Forks**: 258
 - **Description**: NVIDIA plugin for secure installation of OpenClaw
 ### 5. [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
 
@@ -61,7 +61,7 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@davebcn87](https://github.com/davebcn87)
 - **Language**: TypeScript
-- **Stars**: 2,014 ⭐
+- **Stars**: 2,019 ⭐
 - **Forks**: 100
 - **Description**: Autonomous experiment loop extension for pi
 ### 6. [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)
@@ -70,8 +70,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@aiming-lab](https://github.com/aiming-lab)
 - **Language**: Python
-- **Stars**: 1,963 ⭐
-- **Forks**: 277
+- **Stars**: 2,018 ⭐
+- **Forks**: 287
 - **Description**: Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞
 ### 7. [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)
 
@@ -79,7 +79,7 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@pasky](https://github.com/pasky)
 - **Language**: JavaScript
-- **Stars**: 1,959 ⭐
+- **Stars**: 1,966 ⭐
 - **Forks**: 101
 - **Description**: Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 ### 8. [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
@@ -88,8 +88,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@TianyiDataScience](https://github.com/TianyiDataScience)
 - **Language**: TypeScript
-- **Stars**: 1,949 ⭐
-- **Forks**: 271
+- **Stars**: 1,956 ⭐
+- **Forks**: 273
 - **Description**: Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 ### 9. [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
 
@@ -97,8 +97,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@gsd-build](https://github.com/gsd-build)
 - **Language**: TypeScript
-- **Stars**: 1,600 ⭐
-- **Forks**: 136
+- **Stars**: 1,609 ⭐
+- **Forks**: 135
 - **Description**: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 ### 10. [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 
@@ -106,8 +106,8 @@ This edition features the hottest open source repositories on GitHub from the pa
 
 - **Author**: [@novatic14](https://github.com/novatic14)
 - **Language**: Unknown
-- **Stars**: 1,439 ⭐
-- **Forks**: 371
+- **Stars**: 1,451 ⭐
+- **Forks**: 373
 - **Description**: No description available
 ## Trend Analysis
 
@@ -133,5 +133,5 @@ This document is automatically generated hourly by a script that fetches data fr
 
 ---
 
-*Last updated: 2026-03-17T17:14:35*
+*Last updated: 2026-03-17T18:14:35*
 *Data source: [GitHub API](https://docs.github.com/en/rest)*
