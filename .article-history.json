@@ -5,7 +5,8 @@
                          "webadderall-Recordly",
                          "pasky-chrome-cdp-skill",
                          "MoonshotAI-Attention-Residuals",
-                         "Narcooo-inkos"
+                         "Narcooo-inkos",
+                         "jackwener-opencli"
                      ],
     "usedImages":  [
                        "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200",
@@ -13,6 +14,7 @@
                        "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200",
                        "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
                        "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200",
-                       "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200"
+                       "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200",
+                       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200"
                    ]
 }
