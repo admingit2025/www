@@ -3,12 +3,14 @@
                          "NVIDIA-NemoClaw",
                          "aiming-lab-AutoResearchClaw",
                          "webadderall-Recordly",
-                         "pasky-chrome-cdp-skill"
+                         "pasky-chrome-cdp-skill",
+                         "MoonshotAI-Attention-Residuals"
                      ],
     "usedImages":  [
                        "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200",
                        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200",
                        "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200",
-                       "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200"
+                       "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
+                       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200"
                    ]
 }
