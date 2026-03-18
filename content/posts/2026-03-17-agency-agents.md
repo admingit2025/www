@@ -1,8 +1,8 @@
 ---
-title: "The Agency：拥有144个专业AI智能体的"梦之队"，GitHub星标数破5万"
+title: "The Agency：拥有144个专业AI智能体的\"梦之队\"，GitHub星标数破5万"
 date: 2026-03-17
 author: "科技观察团队"
-description: "深度解析GitHub最热门开源项目The Agency——一个包含144个专业AI智能体的"梦之队"，涵盖工程、设计、营销、销售等12个部门"
+description: "深度解析GitHub最热门开源项目The Agency——一个包含144个专业AI智能体的\"梦之队\"，涵盖工程、设计、营销、销售等12个部门"
 categories: ["人工智能", "开源项目", "开发工具"]
 tags: ["AI智能体", "Claude Code", "开源工具", "The Agency", "多智能体系统"]
 cover:
