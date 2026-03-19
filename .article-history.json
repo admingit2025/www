@@ -1,28 +1,29 @@
 {
-    "writtenRepos":  [
-                         "calesthio-Crucix",
-                         "webadderall-Recordly",
-                         "pasky-chrome-cdp-skill",
-                         "Narcooo-inkos",
-                         "karpathy-jobs",
-                         "NVIDIA-NemoClaw",
-                         "uditgoenka-autoresearch",
-                         "MoonshotAI-Attention-Residuals",
-                         "Lum1104-Understand-Anything",
-                         "HKUDS-ClawTeam",
-                         "Infatoshi-OpenSquirrel",
-                         "jackwener-opencli",
-                         "aiming-lab-AutoResearchClaw",
-                         "skernelx-tavily-key-generator",
-                         "VoltAgent-awesome-codex-subagents"
-                     ],
-    "usedImages":  [
-                       "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200",
-                       "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200",
-                       "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200",
-                       "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
-                       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200",
-                       "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200",
-                       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200"
-                   ]
+  "writtenRepos": [
+    "pasky-chrome-cdp-skill",
+    "uditgoenka-autoresearch",
+    "Narcooo-inkos",
+    "MoonshotAI-Attention-Residuals",
+    "HKUDS-ClawTeam",
+    "jackwener-opencli",
+    "NVIDIA-NemoClaw",
+    "skernelx-tavily-key-generator",
+    "VoltAgent-awesome-codex-subagents",
+    "upper-up-meta-lobbying-and-other-findings",
+    "webadderall-Recordly",
+    "Infatoshi-OpenSquirrel",
+    "karpathy-jobs",
+    "aiming-lab-AutoResearchClaw",
+    "Lum1104-Understand-Anything",
+    "calesthio-Crucix"
+  ],
+  "usedImages": [
+    "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200",
+    "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200",
+    "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200",
+    "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200",
+    "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200",
+    "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200",
+    "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200"
+  ]
 }
