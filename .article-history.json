@@ -1,18 +1,20 @@
 {
     "writtenRepos":  [
-                         "NVIDIA-NemoClaw",
-                         "aiming-lab-AutoResearchClaw",
+                         "calesthio-Crucix",
                          "webadderall-Recordly",
                          "pasky-chrome-cdp-skill",
-                         "MoonshotAI-Attention-Residuals",
                          "Narcooo-inkos",
-                         "jackwener-opencli",
+                         "karpathy-jobs",
+                         "NVIDIA-NemoClaw",
                          "uditgoenka-autoresearch",
-                         "skernelx-tavily-key-generator",
-                         "Infatoshi-OpenSquirrel",
-                         "HKUDS-ClawTeam",
+                         "MoonshotAI-Attention-Residuals",
                          "Lum1104-Understand-Anything",
-                         "karpathy-jobs"
+                         "HKUDS-ClawTeam",
+                         "Infatoshi-OpenSquirrel",
+                         "jackwener-opencli",
+                         "aiming-lab-AutoResearchClaw",
+                         "skernelx-tavily-key-generator",
+                         "VoltAgent-awesome-codex-subagents"
                      ],
     "usedImages":  [
                        "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=1200",
