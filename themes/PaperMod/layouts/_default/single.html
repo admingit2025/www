@@ -34,6 +34,16 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  <div class="post-ads post-ads--top">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-4431699228337677"
+         data-ad-slot="2848079138"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
@@ -41,6 +51,16 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+
+  <div class="post-ads post-ads--bottom">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-4431699228337677"
+         data-ad-slot="7796321871"
+         data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
