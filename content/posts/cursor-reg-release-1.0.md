@@ -14,7 +14,6 @@ tags: ["Cursor", "AI编程", "开发工具", "注册工具", "IDE", "软件发�
 # Open Graph/社交媒体优化
 images: ["/images/cursorreg/autoreg.png"]
 isCJKLanguage: true
-weight: 1
 cover:
     image: "/images/cursorreg/autoreg.png"
     alt: "Cursor Reg 自动注册工具界面，展示了简洁的操作界面和注册流程"

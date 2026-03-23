@@ -5,6 +5,20 @@ languageCode = 'zh-cn'
 title = '科技观察'
 theme = 'PaperMod'
 
+# 启用未来日期文章的构建
+buildFuture = true
+
+# 默认内容语言
+defaultContentLanguage = 'zh-cn'
+
+[languages]
+[languages.zh-cn]
+  languageCode = 'zh-cn'
+  title = '科技观察'
+[languages.en]
+  languageCode = 'en'
+  title = 'Tech Observation'
+
 # 启用 emoji 支持
 enableEmoji = true
 
