@@ -1,6 +1,6 @@
 ---
 title: "Loan_Analysis_Project"
-date: 2026-03-30T10:41:23
+date: 2026-03-30T10:43:23
 tags: ["github", "", "trending"]
 ---
 
