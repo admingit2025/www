@@ -1,6 +1,6 @@
 ---
 title: "cli: A command-line tool for Lark/Feishu Open Platform — built..."
-date: 2026-03-30T14:31:29
+date: 2026-03-30T20:31:29
 author: "GitHub Trending Bot"
 description: "Deep dive into the popular GitHub open source project cli, exploring its technical architecture and use cases"
 categories: ["Tech News", "Open Source"]
@@ -16,7 +16,7 @@ cover:
 
 > Deep dive into this week's trending GitHub open source project
 > Repository: [larksuite/cli](https://github.com/larksuite/cli)
-> Generated: 2026-03-30 14:31:29
+> Generated: 2026-03-30 20:31:29
 
 ## Project Overview
 
@@ -26,8 +26,8 @@ cover:
 
 - **Author**: [@larksuite](https://github.com/larksuite)
 - **Language**: Go
-- **Stars**: 3916 :star:
-- **Forks**: 171
+- **Stars**: 4420 :star:
+- **Forks**: 201
 - **Created**: 2026-03-25
 - **Last Updated**: 2026-03-30
 
@@ -39,8 +39,8 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 Based on README analysis, cli's core features include:
 - Based on project description: A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-- High star count (3916) indicates strong community interest
-- Active development with 171 forks
+- High star count (4420) indicates strong community interest
+- Active development with 201 forks
 - Created recently on 2026-03-25 and already gaining traction
 
 
@@ -49,8 +49,8 @@ Based on README analysis, cli's core features include:
 cli is built with the Go technology stack:
 
 1. **Programming Language**: Go - A modern solution in the ecosystem
-2. **Project Scale**: 3916 stars indicate wide recognition
-3. **Community Activity**: 171 forks show active developer participation
+2. **Project Scale**: 4420 stars indicate wide recognition
+3. **Community Activity**: 201 forks show active developer participation
 
 
 ## README Highlights
@@ -63,7 +63,11 @@ cli is built with the Go technology stack:
 
 Recent commits:
 
-- ****: 
+- **2026-03-30**: docs: add official badge to distinguish from third-party Lark CLI tools (#103)
+- **2026-03-30**: fix(base): use base history read scope for record history list (#96)
+- **2026-03-30**: fix: remove sensitive send scope from reply and forward shortcuts (#92)
+- **2026-03-30**: fix: resolve silent failure in `lark-cli api` error output (#39) (#85)
+- **2026-03-30**: ci: improve CI workflows and add golangci-lint config (#71)
 
 
 ## Use Cases
@@ -86,10 +90,10 @@ If you're interested in this project:
 
 ## Summary
 
-cli represents the latest trending project on GitHub with 3916 stars, reflecting developers' strong interest. Its rapid growth since 2026-03-25 shows this is a project worth watching.
+cli represents the latest trending project on GitHub with 4420 stars, reflecting developers' strong interest. Its rapid growth since 2026-03-25 shows this is a project worth watching.
 
 ---
 
 *This article was automatically generated based on GitHub API data analysis.*
 *Data source: [GitHub](https://github.com/larksuite/cli)*
-*Generated: 2026-03-30 14:31:29*
+*Generated: 2026-03-30 20:31:29*
