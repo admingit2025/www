@@ -1,7 +1,7 @@
 ---
 title: "awesome"
-date: 2026-03-30T10:46:25
-tags: ["github", "", "trending"]
+date: 2026-03-30T10:50:15
+tags: ["github", "Various", "trending"]
 ---
 
 # awesome
@@ -16,14 +16,14 @@ tags: ["github", "", "trending"]
 
 | Metric | Value |
 |--------|-------|
-| **Stars** | 449964 |
+| **Stars** | 449965 |
 | **Forks** | 33805 |
-| **Language** |  |
+| **Language** | Various |
 | **Owner** | [@sindresorhus](https://github.com/sindresorhus) |
 
 ## About This Project
 
-This trending repository from **[sindresorhus](https://github.com/sindresorhus)** has caught the attention of developers worldwide. Built with ****, it represents an interesting approach to solving real-world problems through code.
+This trending repository from **[sindresorhus](https://github.com/sindresorhus)** has caught the attention of developers worldwide. Built with **Various**, it represents an interesting approach to solving real-world problems through code.
 
 Interesting open source project worth exploring for developers and tech enthusiasts.
 
