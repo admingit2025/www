@@ -1,6 +1,6 @@
 ---
 title: "cli: A command-line tool for Lark/Feishu Open Platform — built..."
-date: 2026-03-30T14:03:37
+date: 2026-03-30T14:31:29
 author: "GitHub Trending Bot"
 description: "Deep dive into the popular GitHub open source project cli, exploring its technical architecture and use cases"
 categories: ["Tech News", "Open Source"]
@@ -16,7 +16,7 @@ cover:
 
 > Deep dive into this week's trending GitHub open source project
 > Repository: [larksuite/cli](https://github.com/larksuite/cli)
-> Generated: 2026-03-30 14:03:37
+> Generated: 2026-03-30 14:31:29
 
 ## Project Overview
 
@@ -26,7 +26,7 @@ cover:
 
 - **Author**: [@larksuite](https://github.com/larksuite)
 - **Language**: Go
-- **Stars**: 3821 :star:
+- **Stars**: 3916 :star:
 - **Forks**: 171
 - **Created**: 2026-03-25
 - **Last Updated**: 2026-03-30
@@ -39,7 +39,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 Based on README analysis, cli's core features include:
 - Based on project description: A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-- High star count (3821) indicates strong community interest
+- High star count (3916) indicates strong community interest
 - Active development with 171 forks
 - Created recently on 2026-03-25 and already gaining traction
 
@@ -49,7 +49,7 @@ Based on README analysis, cli's core features include:
 cli is built with the Go technology stack:
 
 1. **Programming Language**: Go - A modern solution in the ecosystem
-2. **Project Scale**: 3821 stars indicate wide recognition
+2. **Project Scale**: 3916 stars indicate wide recognition
 3. **Community Activity**: 171 forks show active developer participation
 
 
@@ -63,11 +63,7 @@ cli is built with the Go technology stack:
 
 Recent commits:
 
-- **2026-03-30**: ci: improve CI workflows and add golangci-lint config (#71)
-- **2026-03-28**: docs: rename user-facing Bitable references to Base (#11)
-- **2026-03-28**: docs: add star history chart to readmes (#12)
-- **2026-03-28**: docs: simplify installation steps by merging CLI and Skills into one section (#2
-- **2026-03-28**: docs: add npm version badge and improve AI agent tip wording (#23)
+- ****: 
 
 
 ## Use Cases
@@ -90,10 +86,10 @@ If you're interested in this project:
 
 ## Summary
 
-cli represents the latest trending project on GitHub with 3821 stars, reflecting developers' strong interest. Its rapid growth since 2026-03-25 shows this is a project worth watching.
+cli represents the latest trending project on GitHub with 3916 stars, reflecting developers' strong interest. Its rapid growth since 2026-03-25 shows this is a project worth watching.
 
 ---
 
 *This article was automatically generated based on GitHub API data analysis.*
 *Data source: [GitHub](https://github.com/larksuite/cli)*
-*Generated: 2026-03-30 14:03:37*
+*Generated: 2026-03-30 14:31:29*
