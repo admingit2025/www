@@ -1,6 +1,6 @@
 ---
-title: "cli: A command-line tool for Lark/Feishu Open Platfo..."
-date: 2026-03-31T09:57:00
+title: "cli: The official Lark/Feishu CLI tool, maintained b..."
+date: 2026-03-31T14:31:33
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 cli，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -10,13 +10,13 @@ cover:
     alt: "cli"
 ---
 
-# cli: A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+# cli: The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
 ![cli](https://opengraph.githubassets.com/1/larksuite/cli)
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [larksuite/cli](https://github.com/larksuite/cli)
-> 生成时间: 2026-03-31 09:57:00
+> 生成时间: 2026-03-31 14:31:33
 
 ## 项目概览
 
@@ -28,14 +28,14 @@ cover:
 |------|------|
 | **作者** | [@larksuite](https://github.com/larksuite) |
 | **编程语言** | Go |
-| **Star 数** | 4716 ⭐ |
-| **Fork 数** | 218 |
+| **Star 数** | 5007 ⭐ |
+| **Fork 数** | 239 |
 | **创建时间** | 2026-03-25 |
 | **最后更新** | 2026-03-31 |
 
 ## 项目简介
 
-A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
 Go 语言以高性能、高并发著称，是云原生和后端服务开发的热门选择。
 
@@ -43,8 +43,8 @@ Go 语言以高性能、高并发著称，是云原生和后端服务开发的�
 
 根据项目 README 分析，cli 的主要特点包括：
 
-- **高关注度**：4716 个 Star，说明开发者社区对此项目高度认可
-- **活跃开发**：218 个 Fork，社区参与度高
+- **高关注度**：5007 个 Star，说明开发者社区对此项目高度认可
+- **活跃开发**：239 个 Fork，社区参与度高
 - **快速成长**：自 2026-03-25 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
 
@@ -53,8 +53,8 @@ Go 语言以高性能、高并发著称，是云原生和后端服务开发的�
 cli 基于 **Go** 技术栈构建：
 
 1. **编程语言**：Go
-2. **项目规模**：4716 个 Star，获得广泛认可
-3. **社区活跃度**：218 个 Fork，开发者积极参与
+2. **项目规模**：5007 个 Star，获得广泛认可
+3. **社区活跃度**：239 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
@@ -88,11 +88,11 @@ The official [Lark/Feishu](https://www.larksuite.com/) CLI tool, maintained by t
 
 ## 最近更新记录
 
+- **2026-03-31**: feat: support auto extension for downloads (#16)
+- **2026-03-31**: docs: update Base description to include all capabilities (#61)
+- **2026-03-31**: feat:remove useless files (#131)
 - **2026-03-30**: feat:   normalize markdown message send/reply output (#28)
 - **2026-03-30**: feat: add auto-pagination to messages search and update lark-im docs (#30)
-- **2026-03-30**: docs: add official badge to distinguish from third-party Lark CLI tools (#103)
-- **2026-03-30**: fix(base): use base history read scope for record history list (#96)
-- **2026-03-30**: fix: remove sensitive send scope from reply and forward shortcuts (#92)
 
 
 ## 适用场景
@@ -102,7 +102,7 @@ cli 适合以下用户：
 - 云原生开发者、微服务架构师、高并发系统开发者
 - 希望提升开发效率的技术团队
 - 正在探索 Go 生态的开发者
-- 对 A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills. 感兴趣的工程师
+- 对 The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills. 感兴趣的工程师
 
 ## 如何开始
 
@@ -115,10 +115,10 @@ cli 适合以下用户：
 
 ## 总结
 
-cli 是本周 GitHub 上值得关注的热门项目，凭借 4716 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-03-25 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+cli 是本周 GitHub 上值得关注的热门项目，凭借 5007 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-03-25 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/larksuite/cli)*
-*生成时间: 2026-03-31 09:57:00*
+*生成时间: 2026-03-31 14:31:33*
