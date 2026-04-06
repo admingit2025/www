@@ -1,6 +1,6 @@
 ---
 title: "claw-code: The repo is finally unlocked. enjoy the party! ..."
-date: 2026-04-06T02:31:30
+date: 2026-04-06T08:31:38
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -16,7 +16,7 @@ cover:
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-> 生成时间: 2026-04-06 02:31:30
+> 生成时间: 2026-04-06 08:31:38
 
 ## 项目概览
 
@@ -28,10 +28,10 @@ cover:
 |------|------|
 | **作者** | [@ultraworkers](https://github.com/ultraworkers) |
 | **编程语言** | Rust |
-| **Star 数** | 170222 ⭐ |
-| **Fork 数** | 103289 |
+| **Star 数** | 170808 ⭐ |
+| **Fork 数** | 103604 |
 | **创建时间** | 2026-03-31 |
-| **最后更新** | 2026-04-05 |
+| **最后更新** | 2026-04-06 |
 
 ## 项目简介
 
@@ -43,8 +43,8 @@ Rust 以内存安全和零成本抽象闻名，是系统编程领域的新星。
 
 根据项目 README 分析，claw-code 的主要特点包括：
 
-- **高关注度**：170222 个 Star，说明开发者社区对此项目高度认可
-- **活跃开发**：103289 个 Fork，社区参与度高
+- **高关注度**：170808 个 Star，说明开发者社区对此项目高度认可
+- **活跃开发**：103604 个 Fork，社区参与度高
 - **快速成长**：自 2026-03-31 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
 
@@ -53,17 +53,65 @@ Rust 以内存安全和零成本抽象闻名，是系统编程领域的新星。
 claw-code 基于 **Rust** 技术栈构建：
 
 1. **编程语言**：Rust
-2. **项目规模**：170222 个 Star，获得广泛认可
-3. **社区活跃度**：103289 个 Fork，开发者积极参与
+2. **项目规模**：170808 个 Star，获得广泛认可
+3. **社区活跃度**：103604 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
 ```
+# Claw Code
 
+<p align="center">
+  <a href="https://github.com/ultraworkers/claw-code">ultraworkers/claw-code</a>
+  ·
+  <a href="./USAGE.md">Usage</a>
+  ·
+  <a href="./rust/README.md">Rust workspace</a>
+  ·
+  <a href="./PARITY.md">Parity</a>
+  ·
+  <a href="./ROADMAP.md">Roadmap</a>
+  ·
+  <a href="https://discord.gg/5TUQKqFWd">UltraWorkers Discord</a>
+</p>
+
+<p align="center">
+  <a href="https://star-history.com/#ultraworkers/claw-code&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" />
+      <img alt="Star history for ultraworkers/claw-code" src="https://api.star-history.com/svg?repos=ultraworkers/claw-code&type=Date" width="600" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/claw-hero.jpeg" alt="Claw Code" width="300" />
+</p>
+
+Claw Code is the public Rust implementation of the `claw` CLI agent harness.
+The canonical implementation lives in [`rust/`](./rust), and the current source of truth for this repository is **ultraworkers/claw-code**.
+
+> [!IMPORTANT]
+> Start with [`USAGE.md`](./USAGE.md) for build, auth, CLI, session, and parity-harness workflows. Make `claw doctor` your first health check after building, use [`rust/README.md`](./rust/README.md) for crate-level details, read [`PARITY.md`](./PARITY.md) for the current Rust-port checkpoint, and see [`docs/container.md`](./docs/container.md) for the container-first workflow.
+
+## Current repository shape
+
+- **`rust/`** — canonical Rust workspace and the `claw` CLI binary
+- **`USAGE.md`** — task-oriented usage guide for the current product surface
+- **`PARITY.md`** — Rust-port parity status and migration notes
+- **`ROADMAP.md`** — active roadmap and cleanup backlog
+- **`PHILOSOPHY.md`** — project intent and system-design framing
+- **`src/` + `tests/
 ```
 
 ## 最近更新记录
 
+- **2026-04-06**: Expose actionable ids for opaque provider failures
+- **2026-04-05**: Keep resumed /status JSON aligned with live status output
+- **2026-04-05**: docs: record doctor json structure gap
+- **2026-04-05**: Unify the clawability hardening backlog on main
+- **2026-04-05**: Classify quiet agent states before they look stale
 
 
 ## 适用场景
@@ -86,10 +134,10 @@ claw-code 适合以下用户：
 
 ## 总结
 
-claw-code 是本周 GitHub 上值得关注的热门项目，凭借 170222 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-03-31 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+claw-code 是本周 GitHub 上值得关注的热门项目，凭借 170808 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-03-31 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/ultraworkers/claw-code)*
-*生成时间: 2026-04-06 02:31:30*
+*生成时间: 2026-04-06 08:31:38*
