@@ -1,6 +1,6 @@
 ---
 title: "awesome-persona-distill-skills: 同事.skill, 女娲.skill, 前任.skill… Curated list of A..."
-date: 2026-04-12T08:31:40
+date: 2026-04-12T14:31:33
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 awesome-persona-distill-skills，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -16,7 +16,7 @@ cover:
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
-> 生成时间: 2026-04-12 08:31:40
+> 生成时间: 2026-04-12 14:31:33
 
 ## 项目概览
 
@@ -28,8 +28,8 @@ cover:
 |------|------|
 | **作者** | [@xixu-me](https://github.com/xixu-me) |
 | **编程语言** | JavaScript |
-| **Star 数** | 3168 ⭐ |
-| **Fork 数** | 358 |
+| **Star 数** | 3246 ⭐ |
+| **Fork 数** | 362 |
 | **创建时间** | 2026-04-06 |
 | **最后更新** | 2026-04-12 |
 
@@ -43,8 +43,8 @@ JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态�
 
 根据项目 README 分析，awesome-persona-distill-skills 的主要特点包括：
 
-- **高关注度**：3168 个 Star，说明开发者社区对此项目高度认可
-- **活跃开发**：358 个 Fork，社区参与度高
+- **高关注度**：3246 个 Star，说明开发者社区对此项目高度认可
+- **活跃开发**：362 个 Fork，社区参与度高
 - **快速成长**：自 2026-04-06 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
 
@@ -53,8 +53,8 @@ JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态�
 awesome-persona-distill-skills 基于 **JavaScript** 技术栈构建：
 
 1. **编程语言**：JavaScript
-2. **项目规模**：3168 个 Star，获得广泛认可
-3. **社区活跃度**：358 个 Fork，开发者积极参与
+2. **项目规模**：3246 个 Star，获得广泛认可
+3. **社区活跃度**：362 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
@@ -137,10 +137,10 @@ awesome-persona-distill-skills 适合以下用户：
 
 ## 总结
 
-awesome-persona-distill-skills 是本周 GitHub 上值得关注的热门项目，凭借 3168 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-04-06 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+awesome-persona-distill-skills 是本周 GitHub 上值得关注的热门项目，凭借 3246 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-04-06 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/xixu-me/awesome-persona-distill-skills)*
-*生成时间: 2026-04-12 08:31:40*
+*生成时间: 2026-04-12 14:31:33*
