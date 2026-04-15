@@ -12,8 +12,6 @@ cover:
 
 # hermes-agent-orange-book: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-![hermes-agent-orange-book](https://opengraph.githubassets.com/1/alchaincyf/hermes-agent-orange-book)
-
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
 > 生成时间: 2026-04-13 14:31:29

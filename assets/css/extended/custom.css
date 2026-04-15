@@ -111,3 +111,142 @@ iframe.giscus-frame {
 [data-theme="dark"] .post-stats svg {
     stroke: var(--secondary);
 } 
+
+/* 阅读舒适度优化：整体节奏、留白与层次 */
+:root {
+    --main-width: 860px;
+    --radius-lg: 16px;
+    --radius-md: 12px;
+    --shadow-soft: 0 10px 30px rgba(20, 24, 33, 0.08);
+}
+
+.main {
+    max-width: var(--main-width);
+}
+
+.header {
+    backdrop-filter: blur(10px);
+    background: color-mix(in srgb, var(--theme) 92%, #ffffff 8%);
+    border-bottom: 1px solid var(--border);
+}
+
+.list:not(.dark) {
+    background:
+        radial-gradient(1200px 400px at 10% -10%, rgba(60, 140, 255, 0.08), transparent 55%),
+        radial-gradient(900px 320px at 100% 0, rgba(0, 180, 140, 0.07), transparent 52%),
+        var(--theme);
+}
+
+.post-entry {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: none;
+    transition: transform .24s ease, box-shadow .24s ease, border-color .24s ease;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb, var(--primary) 25%, var(--border) 75%);
+    box-shadow: var(--shadow-soft);
+}
+
+.post-entry .entry-header h2 {
+    line-height: 1.35;
+    letter-spacing: .01em;
+}
+
+.entry-content {
+    color: var(--secondary);
+    line-height: 1.82;
+}
+
+.post-single {
+    border: 1px solid color-mix(in srgb, var(--border) 88%, transparent 12%);
+    border-radius: 18px;
+    padding: 26px 30px;
+    background: color-mix(in srgb, var(--theme) 97%, #ffffff 3%);
+}
+
+.post-title {
+    line-height: 1.3;
+    letter-spacing: .01em;
+}
+
+.post-content {
+    font-size: 1.08rem;
+    line-height: 1.9;
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+    margin-top: 1.9em;
+    margin-bottom: .7em;
+    line-height: 1.35;
+}
+
+.post-content p,
+.post-content ul,
+.post-content ol {
+    margin-bottom: 1.05em;
+}
+
+.post-content blockquote {
+    border-inline-start: 3px solid color-mix(in srgb, var(--primary) 45%, var(--border) 55%);
+    background: color-mix(in srgb, var(--entry) 88%, transparent 12%);
+    border-radius: var(--radius-md);
+    padding: .95em 1.15em;
+}
+
+.post-content pre,
+.post-content .highlight {
+    border-radius: var(--radius-md);
+}
+
+.toc {
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border);
+    background: color-mix(in srgb, var(--entry) 95%, #ffffff 5%);
+}
+
+.post-content a {
+    text-decoration-thickness: .09em;
+    text-underline-offset: .18em;
+}
+
+.post-content a:hover {
+    text-decoration-thickness: .12em;
+}
+
+/* 文章页舒适性修复：去掉顶部空广告位和重复大标题造成的额外留白 */
+.post-single .post-ads--top {
+    display: none;
+}
+
+.post-single .post-content > h1:first-child {
+    display: none;
+}
+
+.footer {
+    margin-top: 28px;
+    padding-top: 22px;
+    border-top: 1px solid var(--border);
+}
+
+@media (max-width: 900px) {
+    .post-single {
+        border: none;
+        border-radius: 0;
+        padding: 8px 0;
+        background: transparent;
+    }
+
+    .post-content {
+        font-size: 1.02rem;
+        line-height: 1.82;
+    }
+
+    .post-entry {
+        border-radius: 14px;
+    }
+}
