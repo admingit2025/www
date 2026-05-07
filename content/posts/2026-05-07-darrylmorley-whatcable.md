@@ -1,6 +1,6 @@
 ---
 title: "whatcable: macOS menu bar app that tells you, in plain Eng..."
-date: 2026-05-07T14:31:43
+date: 2026-05-07T20:31:31
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 whatcable，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -16,7 +16,7 @@ cover:
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
-> 生成时间: 2026-05-07 14:31:43
+> 生成时间: 2026-05-07 20:31:31
 
 ## 项目概览
 
@@ -28,7 +28,7 @@ cover:
 |------|------|
 | **作者** | [@darrylmorley](https://github.com/darrylmorley) |
 | **编程语言** | Swift |
-| **Star 数** | 2062 ⭐ |
+| **Star 数** | 2082 ⭐ |
 | **Fork 数** | 42 |
 | **创建时间** | 2026-05-01 |
 | **最后更新** | 2026-05-07 |
@@ -43,7 +43,7 @@ macOS menu bar app that tells you, in plain English, what each USB-C cable plugg
 
 根据项目 README 分析，whatcable 的主要特点包括：
 
-- **高关注度**：2062 个 Star，说明开发者社区对此项目高度认可
+- **高关注度**：2082 个 Star，说明开发者社区对此项目高度认可
 - **活跃开发**：42 个 Fork，社区参与度高
 - **快速成长**：自 2026-05-01 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
@@ -53,17 +53,46 @@ macOS menu bar app that tells you, in plain English, what each USB-C cable plugg
 whatcable 基于 **Swift** 技术栈构建：
 
 1. **编程语言**：Swift
-2. **项目规模**：2062 个 Star，获得广泛认可
+2. **项目规模**：2082 个 Star，获得广泛认可
 3. **社区活跃度**：42 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
 ```
+# WhatCable
 
+> **What can this USB-C cable actually do?**
+
+A small macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do, and **why your Mac might be charging slowly**.
+
+USB-C hides a lot under one connector. Anything from a USB 2.0 charge-only cable to a 240W / 40 Gbps Thunderbolt 4 cable, all looking identical in your drawer. macOS already exposes the relevant info via IOKit; WhatCable surfaces it as a friendly menu bar popover.
+
+[![Latest release](https://img.shields.io/github/v/release/darrylmorley/whatcable)](https://github.com/darrylmorley/whatcable/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-blue)](https://github.com/darrylmorley/whatcable)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+![WhatCable popover](docs/screenshot.png)
+
+> [!IMPORTANT]
+> **Upgrading from 0.5.x to 0.6.0?** WhatCable's bundle ID changed from `com.bitmoor.whatcable` to `uk.whatcable.whatcable` in 0.6.0 to match the new `whatcable.uk` domain. The in-app "Check for Updates" path in 0.5.x will refuse to install 0.6.0 because the downloaded bundle ID won't match what it expects. Upgrade through Homebrew (`brew upgrade --cask whatcable`) or by downloading [the latest release zip](https://github.com/darrylmorley/whatcable/releases/latest) and replacing `WhatCable.app` manually. Your preferences and notification permissions will reset on first launch of 0.6.0; re-enable launch-at-login from Settings if you had it on. This only affects the 0.5.x → 0.6.0 transition.
+
+## What it shows
+
+Per port, in plain English:
+
+- **At-a-glance headline:** Thunderbolt / USB4, USB device, Charging only, Slow USB / charge-only cable, Nothing connected
+- **Charging diagnostic:** when something's plugged in, a banner identifies the bottleneck:
+  - *"Cable is limiting charging speed"* (cable rated below the charger)
+  - *"Charging at 30W (charger can do up to 96W)"* (Mac is asking for less, e.
 ```
 
 ## 最近更新记录
 
+- **2026-05-07**: Add three trust flags from PD spec: H6, H7, H9a (#75)
+- **2026-05-07**: Render cable trust signals in CLI text output (#74)
+- **2026-05-07**: Add Mac App Store build path (Phase 1: code scaffolding) (#72)
+- **2026-05-06**: Bump version to 0.8.4 (build 37)
+- **2026-05-06**: Add font size slider to Settings (0.8x to 1.4x) (#70)
 
 
 ## 适用场景
@@ -86,10 +115,10 @@ whatcable 适合以下用户：
 
 ## 总结
 
-whatcable 是本周 GitHub 上值得关注的热门项目，凭借 2062 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-01 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+whatcable 是本周 GitHub 上值得关注的热门项目，凭借 2082 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-01 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/darrylmorley/whatcable)*
-*生成时间: 2026-05-07 14:31:43*
+*生成时间: 2026-05-07 20:31:31*
