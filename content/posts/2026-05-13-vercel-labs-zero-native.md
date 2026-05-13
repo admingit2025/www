@@ -1,6 +1,6 @@
 ---
 title: "zero-native: Build desktop + mobile apps with Zig and web UI"
-date: 2026-05-13T14:31:41
+date: 2026-05-13T20:31:36
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 zero-native，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -16,7 +16,7 @@ cover:
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
-> 生成时间: 2026-05-13 14:31:41
+> 生成时间: 2026-05-13 20:31:36
 
 ## 项目概览
 
@@ -28,7 +28,7 @@ cover:
 |------|------|
 | **作者** | [@vercel-labs](https://github.com/vercel-labs) |
 | **编程语言** | Zig |
-| **Star 数** | 3038 ⭐ |
+| **Star 数** | 3158 ⭐ |
 | **Fork 数** | 131 |
 | **创建时间** | 2026-05-08 |
 | **最后更新** | 2026-05-13 |
@@ -43,7 +43,7 @@ Build desktop + mobile apps with Zig and web UI
 
 根据项目 README 分析，zero-native 的主要特点包括：
 
-- **高关注度**：3038 个 Star，说明开发者社区对此项目高度认可
+- **高关注度**：3158 个 Star，说明开发者社区对此项目高度认可
 - **活跃开发**：131 个 Fork，社区参与度高
 - **快速成长**：自 2026-05-08 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
@@ -53,13 +53,67 @@ Build desktop + mobile apps with Zig and web UI
 zero-native 基于 **Zig** 技术栈构建：
 
 1. **编程语言**：Zig
-2. **项目规模**：3038 个 Star，获得广泛认可
+2. **项目规模**：3158 个 Star，获得广泛认可
 3. **社区活跃度**：131 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
 ```
+# zero-native
 
+Build native desktop apps with web UI. Tiny binaries. Minimal memory. Instant rebuilds.
+
+zero-native is a Zig desktop app shell for modern web frontends. Use the platform WebView when you want the smallest possible app, or bundle Chromium through CEF when rendering consistency matters.
+
+## Quick Start
+
+Install the CLI:
+
+````bash
+npm install -g zero-native
+````
+
+Create and run an app:
+
+````bash
+zero-native init my_app --frontend next
+cd my_app
+zig build run
+````
+
+The first run installs frontend dependencies, builds the generated native shell, and opens a desktop window rendering your web UI.
+
+Read the full guide at [zero-native.dev/quick-start](https://zero-native.dev/quick-start).
+
+## Why zero-native
+
+### Tiny and fast
+
+System WebView apps do not bundle a browser runtime, so the native shell stays small and starts quickly. Your app uses WKWebView on macOS and WebKitGTK on Linux.
+
+### Choose your web engine
+
+Pick the engine that fits the product. System WebView gives you a lightweight native footprint. Chromium through CEF gives you predictable rendering and a pinned web platform on supported targets.
+
+### Fast native rebuilds
+
+The native layer is Zig, so app logic, bridge commands, and platform integrations rebuild quickly. Your frontend can still use the web tooling you already know.
+
+### Native power without heavy glue
+
+Zig calls C directly, which keeps platform SDKs, native libraries, codecs, and local system integrations within reach when the WebView layer needs to do real native work.
+
+### Explicit security model
+
+The WebView is treated as untrusted by default. Native commands, permissions, navigation, external links, and window APIs are opt-in and policy controlled.
+
+## Status
+
+zero-native is pre-release. Desktop support now covers macOS 11+, Linux, and Windows build paths, with Chromium/CEF distributed as platform-specific runtimes.
+
+## Core Concepts
+
+`App` is the small Zig object that describes your application: name, WebView source, lifecycle hoo
 ```
 
 ## 最近更新记录
@@ -86,10 +140,10 @@ zero-native 适合以下用户：
 
 ## 总结
 
-zero-native 是本周 GitHub 上值得关注的热门项目，凭借 3038 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-08 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+zero-native 是本周 GitHub 上值得关注的热门项目，凭借 3158 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-08 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/vercel-labs/zero-native)*
-*生成时间: 2026-05-13 14:31:41*
+*生成时间: 2026-05-13 20:31:36*
