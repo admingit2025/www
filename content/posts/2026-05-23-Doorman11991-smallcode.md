@@ -1,6 +1,6 @@
 ---
 title: "smallcode: AI coding agent optimized for small LLMs. 87% b..."
-date: 2026-05-23T14:31:30
+date: 2026-05-23T20:31:33
 author: "GitHub Trending Bot"
 description: "深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景"
 categories: ["技术资讯", "开源项目"]
@@ -16,7 +16,7 @@ cover:
 
 > 本周 GitHub 最热门开源项目深度解析
 > 项目地址: [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)
-> 生成时间: 2026-05-23 14:31:30
+> 生成时间: 2026-05-23 20:31:33
 
 ## 项目概览
 
@@ -28,8 +28,8 @@ cover:
 |------|------|
 | **作者** | [@Doorman11991](https://github.com/Doorman11991) |
 | **编程语言** | JavaScript |
-| **Star 数** | 1246 ⭐ |
-| **Fork 数** | 89 |
+| **Star 数** | 1256 ⭐ |
+| **Fork 数** | 91 |
 | **创建时间** | 2026-05-18 |
 | **最后更新** | 2026-05-23 |
 
@@ -43,8 +43,8 @@ JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态�
 
 根据项目 README 分析，smallcode 的主要特点包括：
 
-- **高关注度**：1246 个 Star，说明开发者社区对此项目高度认可
-- **活跃开发**：89 个 Fork，社区参与度高
+- **高关注度**：1256 个 Star，说明开发者社区对此项目高度认可
+- **活跃开发**：91 个 Fork，社区参与度高
 - **快速成长**：自 2026-05-18 创建以来持续获得关注
 - **开源免费**：完全开源，可自由使用和二次开发
 
@@ -53,70 +53,17 @@ JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态�
 smallcode 基于 **JavaScript** 技术栈构建：
 
 1. **编程语言**：JavaScript
-2. **项目规模**：1246 个 Star，获得广泛认可
-3. **社区活跃度**：89 个 Fork，开发者积极参与
+2. **项目规模**：1256 个 Star，获得广泛认可
+3. **社区活跃度**：91 个 Fork，开发者积极参与
 
 ## README 原文摘要
 
 ```
-# SmallCode
 
-[简体中文](README_zh-CN.md) | [English](README.md)
-
----
-
-[![npm](https://img.shields.io/npm/v/smallcode)](https://www.npmjs.com/package/smallcode)
-
-**AI coding agent optimized for small LLMs (8B-35B parameters)**
-
-SmallCode is a terminal-native coding agent designed from the ground up to extract useful work from local models (8B-35B) running on consumer hardware. While tools like OpenCode assume frontier models with 128k+ context and perfect tool calling, SmallCode compensates for the limitations of small models through intelligent architecture.
-
-> **Recommended model size: 8B-35B parameters.** Smaller models (≤4B) struggle with multi-step tool use and lose context across turns. Larger models (>35B) don't need SmallCode's adaptations and are better served by tools designed for frontier models.
-
-## Why SmallCode?
-
-| | OpenCode | SmallCode |
-|---|----------|-----------|
-| **Target** | Frontier models (Claude, GPT-5) | 8B-35B local models |
-| **Context** | Dumps everything | Budget-managed, summarized |
-| **Tool calling** | Assumes reliable JSON | Forgiving multi-format parser |
-| **Planning** | Single-shot | TODO-file decomposed steps |
-| **Editing** | Full file write | Search-and-replace patch |
-| **Privacy** | API calls to cloud | Fully local, no network needed |
-
-## Quick Start
-
-````bash
-# Install globally via npm
-npm install -g smallcode
-
-# Or run directly with npx
-npx smallcode
-
-# Start in your project directory
-cd my-project
-smallcode
-````
-
-### Prebuilt Binaries (no Node.js needed)
-
-Pre-compiled tarballs for Windows, macOS, and Linux are built on every release — they bundle Node.js plus all native addons so you never need `node-gyp` or C++ build tools.
-
-| Platform | One‑line install |
-|---|---|
-| Linux / macOS | `bash <(curl -fsSL https://raw.githubusercontent.com/Doorman11991/smallcode/main/install.sh)` |
-| Windows | `iwr -Uri https://raw.githubusercontent.com/Doorman11991/smallcode/main/install.ps1 -UseBasicParsing \| iex` |
-
-The install script download
 ```
 
 ## 最近更新记录
 
-- **2026-05-23**: chore: bump to 1.0.2
-- **2026-05-23**: fix: omit tools key from request body when empty (fixes OpenWebUI 400 NoneType e
-- **2026-05-22**: fix: add ~/.smallcode/skills/ as global skill dir alongside ~/.config/smallcode/
-- **2026-05-22**: chore: bump to 1.0.1
-- **2026-05-22**: fix: /model command sends auth headers (fixes OpenWebUI and other authenticated 
 
 
 ## 适用场景
@@ -139,10 +86,10 @@ smallcode 适合以下用户：
 
 ## 总结
 
-smallcode 是本周 GitHub 上值得关注的热门项目，凭借 1246 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-18 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
+smallcode 是本周 GitHub 上值得关注的热门项目，凭借 1256 个 Star 的亮眼成绩，展示了开发者社区对该方向的强烈兴趣。自 2026-05-18 创建以来的快速增长，说明这是一个值得持续关注的优质开源项目。
 
 ---
 
 *本文由 OpenClaw 基于 GitHub API 数据自动生成*
 *数据来源: [GitHub](https://github.com/Doorman11991/smallcode)*
-*生成时间: 2026-05-23 14:31:30*
+*生成时间: 2026-05-23 20:31:33*
