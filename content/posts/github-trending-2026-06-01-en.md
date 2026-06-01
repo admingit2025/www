@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-01"
-date: "2026-06-01T04:04:39.936Z"
+date: "2026-06-01T07:05:00.219Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-01
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-01 12:04:39
+> Generated at: 2026-06-01 15:05:00
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,8 +18,8 @@ categories: ["Tech News"]
 
 - **Author**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **Language**: JavaScript
-- ⭐ **Stars**: 9,087
-- 🍴 **Forks**: 1,260
+- ⭐ **Stars**: 10,693
+- 🍴 **Forks**: 1,431
 - 📖 **Description**: Self-hosted AI workspace. 
 
 
@@ -28,8 +28,8 @@ categories: ["Tech News"]
 
 - **Author**: [@op7418](https://github.com/op7418)
 - **Language**: HTML
-- ⭐ **Stars**: 2,140
-- 🍴 **Forks**: 213
+- ⭐ **Stars**: 2,214
+- 🍴 **Forks**: 221
 - 📖 **Description**: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 
 
@@ -38,8 +38,8 @@ categories: ["Tech News"]
 
 - **Author**: [@helloianneo](https://github.com/helloianneo)
 - **Language**: Unknown
-- ⭐ **Stars**: 1,479
-- 🍴 **Forks**: 124
+- ⭐ **Stars**: 1,514
+- 🍴 **Forks**: 132
 - 📖 **Description**: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 
 
@@ -48,8 +48,8 @@ categories: ["Tech News"]
 
 - **Author**: [@GordenSun](https://github.com/GordenSun)
 - **Language**: Python
-- ⭐ **Stars**: 1,035
-- 🍴 **Forks**: 102
+- ⭐ **Stars**: 1,183
+- 🍴 **Forks**: 112
 - 📖 **Description**: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
 
@@ -58,8 +58,8 @@ categories: ["Tech News"]
 
 - **Author**: [@Sophomoresty](https://github.com/Sophomoresty)
 - **Language**: Python
-- ⭐ **Stars**: 935
-- 🍴 **Forks**: 238
+- ⭐ **Stars**: 957
+- 🍴 **Forks**: 244
 - 📖 **Description**: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
 
@@ -68,7 +68,7 @@ categories: ["Tech News"]
 
 - **Author**: [@MatinSenPai](https://github.com/MatinSenPai)
 - **Language**: Go
-- ⭐ **Stars**: 805
+- ⭐ **Stars**: 809
 - 🍴 **Forks**: 55
 - 📖 **Description**: A light-weight scanner for Cloudflare IPs, written in Golang
 
@@ -78,7 +78,7 @@ categories: ["Tech News"]
 
 - **Author**: [@withkynam](https://github.com/withkynam)
 - **Language**: JavaScript
-- ⭐ **Stars**: 671
+- ⭐ **Stars**: 679
 - 🍴 **Forks**: 162
 - 📖 **Description**: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
 
@@ -88,7 +88,7 @@ categories: ["Tech News"]
 
 - **Author**: [@Michaelliv](https://github.com/Michaelliv)
 - **Language**: TypeScript
-- ⭐ **Stars**: 639
+- ⭐ **Stars**: 646
 - 🍴 **Forks**: 37
 - 📖 **Description**: No description available
 
@@ -98,7 +98,7 @@ categories: ["Tech News"]
 
 - **Author**: [@2aronS](https://github.com/2aronS)
 - **Language**: TypeScript
-- ⭐ **Stars**: 580
+- ⭐ **Stars**: 586
 - 🍴 **Forks**: 16
 - 📖 **Description**: CLI, SDK, and IDE plugins for Duel Agents
 
@@ -108,8 +108,8 @@ categories: ["Tech News"]
 
 - **Author**: [@ace-trump-tech](https://github.com/ace-trump-tech)
 - **Language**: Python
-- ⭐ **Stars**: 505
-- 🍴 **Forks**: 492
+- ⭐ **Stars**: 516
+- 🍴 **Forks**: 499
 - 📖 **Description**: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.
 
 
