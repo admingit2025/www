@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-03"
-date: "2026-06-03T09:04:52.062Z"
+date: "2026-06-03T17:06:08.291Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-03
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-03 17:04:52
+> Generated at: 2026-06-03 01:06:08
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,8 +18,8 @@ categories: ["Tech News"]
 
 - **Author**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **Language**: JavaScript
-- ⭐ **Stars**: 36,644
-- 🍴 **Forks**: 4,303
+- ⭐ **Stars**: 40,862
+- 🍴 **Forks**: 4,758
 - 📖 **Description**: Self-hosted AI workspace. 
 
 
@@ -28,39 +28,39 @@ categories: ["Tech News"]
 
 - **Author**: [@Gloridust](https://github.com/Gloridust)
 - **Language**: TypeScript
-- ⭐ **Stars**: 1,757
-- 🍴 **Forks**: 495
+- ⭐ **Stars**: 1,890
+- 🍴 **Forks**: 529
 - 📖 **Description**: 云微WOC，云微信，自由连接
 
 
 
-### 3. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
-
-- **Author**: [@Sophomoresty](https://github.com/Sophomoresty)
-- **Language**: Python
-- ⭐ **Stars**: 1,304
-- 🍴 **Forks**: 336
-- 📖 **Description**: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-
-
-
-### 4. [aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
+### 3. [aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
 
 - **Author**: [@asz798838958](https://github.com/asz798838958)
 - **Language**: Python
-- ⭐ **Stars**: 1,204
-- 🍴 **Forks**: 583
+- ⭐ **Stars**: 1,350
+- 🍴 **Forks**: 638
 - 📖 **Description**: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 
 
-### 5. [goose](https://github.com/b-nnett/goose)
+### 4. [goose](https://github.com/b-nnett/goose)
 
 - **Author**: [@b-nnett](https://github.com/b-nnett)
 - **Language**: Rust
-- ⭐ **Stars**: 1,051
-- 🍴 **Forks**: 324
+- ⭐ **Stars**: 1,337
+- 🍴 **Forks**: 389
 - 📖 **Description**: Goose Swift proof-of-concept README
+
+
+
+### 5. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
+
+- **Author**: [@Sophomoresty](https://github.com/Sophomoresty)
+- **Language**: Python
+- ⭐ **Stars**: 1,336
+- 🍴 **Forks**: 341
+- 📖 **Description**: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
 
 
@@ -68,8 +68,8 @@ categories: ["Tech News"]
 
 - **Author**: [@MatinSenPai](https://github.com/MatinSenPai)
 - **Language**: Go
-- ⭐ **Stars**: 913
-- 🍴 **Forks**: 60
+- ⭐ **Stars**: 962
+- 🍴 **Forks**: 63
 - 📖 **Description**: A light-weight scanner for Cloudflare IPs, written in Golang
 
 
@@ -78,29 +78,29 @@ categories: ["Tech News"]
 
 - **Author**: [@Michaelliv](https://github.com/Michaelliv)
 - **Language**: TypeScript
-- ⭐ **Stars**: 752
-- 🍴 **Forks**: 38
+- ⭐ **Stars**: 763
+- 🍴 **Forks**: 39
 - 📖 **Description**: No description available
 
 
 
-### 8. [Duel-Agents](https://github.com/2aronS/Duel-Agents)
-
-- **Author**: [@2aronS](https://github.com/2aronS)
-- **Language**: TypeScript
-- ⭐ **Stars**: 697
-- 🍴 **Forks**: 20
-- 📖 **Description**: CLI, SDK, and IDE plugins for Duel Agents
-
-
-
-### 9. [memory-os](https://github.com/ClaudioDrews/memory-os)
+### 8. [memory-os](https://github.com/ClaudioDrews/memory-os)
 
 - **Author**: [@ClaudioDrews](https://github.com/ClaudioDrews)
 - **Language**: Python
-- ⭐ **Stars**: 686
-- 🍴 **Forks**: 62
+- ⭐ **Stars**: 722
+- 🍴 **Forks**: 68
 - 📖 **Description**: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
+
+
+
+### 9. [Duel-Agents](https://github.com/2aronS/Duel-Agents)
+
+- **Author**: [@2aronS](https://github.com/2aronS)
+- **Language**: TypeScript
+- ⭐ **Stars**: 695
+- 🍴 **Forks**: 19
+- 📖 **Description**: CLI, SDK, and IDE plugins for Duel Agents
 
 
 
@@ -108,7 +108,7 @@ categories: ["Tech News"]
 
 - **Author**: [@liyue-aigc](https://github.com/liyue-aigc)
 - **Language**: Unknown
-- ⭐ **Stars**: 492
+- ⭐ **Stars**: 502
 - 🍴 **Forks**: 74
 - 📖 **Description**: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 
@@ -130,9 +130,9 @@ Based on today's trending repositories, the following areas are gaining attentio
 
 - Self-hosted AI workspace. ...
 - 云微WOC，云微信，自由连接...
-- Convert Google Gemini web into OpenAI-compatible A...
 - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus...
 - Goose Swift proof-of-concept README...
+- Convert Google Gemini web into OpenAI-compatible A...
 
 *Data sourced from GitHub API, ranking repositories created in the last 7 days by stars.*
 

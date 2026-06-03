@@ -1,6 +1,6 @@
 ---
 title: "GitHub 热门仓库精选 - 2026-06-03"
-date: "2026-06-03T09:04:52.062Z"
+date: "2026-06-03T17:06:08.291Z"
 draft: false
 tags: ["github", "trending", "开源", "open-source"]
 categories: ["技术资讯"]
@@ -9,7 +9,7 @@ categories: ["技术资讯"]
 # GitHub 热门仓库精选 - 2026-06-03
 
 > 自动生成的 GitHub 热门仓库报告
-> 生成时间：2026-06-03 17:04:52
+> 生成时间：2026-06-03 01:06:08
 
 ## 今日热门仓库 Top 10
 
@@ -18,8 +18,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **语言**: JavaScript
-- ⭐ **Stars**: 36,644 
-- 🍴 **Forks**: 4,303
+- ⭐ **Stars**: 40,862 
+- 🍴 **Forks**: 4,758
 - 📖 **描述**: Self-hosted AI workspace. 
 
 
@@ -28,39 +28,39 @@ categories: ["技术资讯"]
 
 - **作者**: [@Gloridust](https://github.com/Gloridust)
 - **语言**: TypeScript
-- ⭐ **Stars**: 1,757 
-- 🍴 **Forks**: 495
+- ⭐ **Stars**: 1,890 
+- 🍴 **Forks**: 529
 - 📖 **描述**: 云微WOC，云微信，自由连接
 
 
 
-### 3. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
-
-- **作者**: [@Sophomoresty](https://github.com/Sophomoresty)
-- **语言**: Python
-- ⭐ **Stars**: 1,304 
-- 🍴 **Forks**: 336
-- 📖 **描述**: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-
-
-
-### 4. [aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
+### 3. [aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
 
 - **作者**: [@asz798838958](https://github.com/asz798838958)
 - **语言**: Python
-- ⭐ **Stars**: 1,204 
-- 🍴 **Forks**: 583
+- ⭐ **Stars**: 1,350 
+- 🍴 **Forks**: 638
 - 📖 **描述**: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 
 
-### 5. [goose](https://github.com/b-nnett/goose)
+### 4. [goose](https://github.com/b-nnett/goose)
 
 - **作者**: [@b-nnett](https://github.com/b-nnett)
 - **语言**: Rust
-- ⭐ **Stars**: 1,051 
-- 🍴 **Forks**: 324
+- ⭐ **Stars**: 1,337 
+- 🍴 **Forks**: 389
 - 📖 **描述**: Goose Swift proof-of-concept README
+
+
+
+### 5. [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)
+
+- **作者**: [@Sophomoresty](https://github.com/Sophomoresty)
+- **语言**: Python
+- ⭐ **Stars**: 1,336 
+- 🍴 **Forks**: 341
+- 📖 **描述**: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
 
 
@@ -68,8 +68,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@MatinSenPai](https://github.com/MatinSenPai)
 - **语言**: Go
-- ⭐ **Stars**: 913 
-- 🍴 **Forks**: 60
+- ⭐ **Stars**: 962 
+- 🍴 **Forks**: 63
 - 📖 **描述**: A light-weight scanner for Cloudflare IPs, written in Golang
 
 
@@ -78,29 +78,29 @@ categories: ["技术资讯"]
 
 - **作者**: [@Michaelliv](https://github.com/Michaelliv)
 - **语言**: TypeScript
-- ⭐ **Stars**: 752 
-- 🍴 **Forks**: 38
+- ⭐ **Stars**: 763 
+- 🍴 **Forks**: 39
 - 📖 **描述**: 暂无描述
 
 
 
-### 8. [Duel-Agents](https://github.com/2aronS/Duel-Agents)
-
-- **作者**: [@2aronS](https://github.com/2aronS)
-- **语言**: TypeScript
-- ⭐ **Stars**: 697 
-- 🍴 **Forks**: 20
-- 📖 **描述**: CLI, SDK, and IDE plugins for Duel Agents
-
-
-
-### 9. [memory-os](https://github.com/ClaudioDrews/memory-os)
+### 8. [memory-os](https://github.com/ClaudioDrews/memory-os)
 
 - **作者**: [@ClaudioDrews](https://github.com/ClaudioDrews)
 - **语言**: Python
-- ⭐ **Stars**: 686 
-- 🍴 **Forks**: 62
+- ⭐ **Stars**: 722 
+- 🍴 **Forks**: 68
 - 📖 **描述**: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
+
+
+
+### 9. [Duel-Agents](https://github.com/2aronS/Duel-Agents)
+
+- **作者**: [@2aronS](https://github.com/2aronS)
+- **语言**: TypeScript
+- ⭐ **Stars**: 695 
+- 🍴 **Forks**: 19
+- 📖 **描述**: CLI, SDK, and IDE plugins for Duel Agents
 
 
 
@@ -108,7 +108,7 @@ categories: ["技术资讯"]
 
 - **作者**: [@liyue-aigc](https://github.com/liyue-aigc)
 - **语言**: 未知
-- ⭐ **Stars**: 492 
+- ⭐ **Stars**: 502 
 - 🍴 **Forks**: 74
 - 📖 **描述**: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 
@@ -130,9 +130,9 @@ categories: ["技术资讯"]
 
 - Self-hosted AI workspace. ...
 - 云微WOC，云微信，自由连接...
-- Convert Google Gemini web into OpenAI-compatible A...
 - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus...
 - Goose Swift proof-of-concept README...
+- Convert Google Gemini web into OpenAI-compatible A...
 
 *数据来源于 GitHub API，统计最近7天内创建的仓库按 Star 数排序。*
 
