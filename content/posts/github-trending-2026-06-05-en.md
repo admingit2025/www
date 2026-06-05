@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-05"
-date: "2026-06-05T05:05:32.425Z"
+date: "2026-06-05T08:07:03.854Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-05
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-05 13:05:32
+> Generated at: 2026-06-05 16:07:03
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,8 +18,8 @@ categories: ["Tech News"]
 
 - **Author**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **Language**: Python
-- ⭐ **Stars**: 51,973
-- 🍴 **Forks**: 6,087
+- ⭐ **Stars**: 52,649
+- 🍴 **Forks**: 6,190
 - 📖 **Description**: Self-hosted AI workspace. 
 
 
@@ -28,8 +28,8 @@ categories: ["Tech News"]
 
 - **Author**: [@zgwl](https://github.com/zgwl)
 - **Language**: Unknown
-- ⭐ **Stars**: 2,885
-- 🍴 **Forks**: 443
+- ⭐ **Stars**: 3,023
+- 🍴 **Forks**: 465
 - 📖 **Description**: 美股指南
 
 
@@ -38,8 +38,8 @@ categories: ["Tech News"]
 
 - **Author**: [@b-nnett](https://github.com/b-nnett)
 - **Language**: Rust
-- ⭐ **Stars**: 1,926
-- 🍴 **Forks**: 469
+- ⭐ **Stars**: 1,997
+- 🍴 **Forks**: 474
 - 📖 **Description**: Goose Swift proof-of-concept README
 
 
@@ -48,8 +48,8 @@ categories: ["Tech News"]
 
 - **Author**: [@asz798838958](https://github.com/asz798838958)
 - **Language**: Python
-- ⭐ **Stars**: 1,489
-- 🍴 **Forks**: 686
+- ⭐ **Stars**: 1,499
+- 🍴 **Forks**: 692
 - 📖 **Description**: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 
@@ -58,8 +58,8 @@ categories: ["Tech News"]
 
 - **Author**: [@cpaczek](https://github.com/cpaczek)
 - **Language**: TypeScript
-- ⭐ **Stars**: 1,255
-- 🍴 **Forks**: 83
+- ⭐ **Stars**: 1,299
+- 🍴 **Forks**: 87
 - 📖 **Description**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
 
@@ -68,8 +68,8 @@ categories: ["Tech News"]
 
 - **Author**: [@ClaudioDrews](https://github.com/ClaudioDrews)
 - **Language**: Python
-- ⭐ **Stars**: 834
-- 🍴 **Forks**: 82
+- ⭐ **Stars**: 840
+- 🍴 **Forks**: 83
 - 📖 **Description**: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
 
@@ -78,13 +78,23 @@ categories: ["Tech News"]
 
 - **Author**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **Language**: Python
-- ⭐ **Stars**: 562
-- 🍴 **Forks**: 120
+- ⭐ **Stars**: 566
+- 🍴 **Forks**: 122
 - 📖 **Description**: No description available
 
 
 
-### 8. [female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)
+### 8. [rift](https://github.com/anomalyco/rift)
+
+- **Author**: [@anomalyco](https://github.com/anomalyco)
+- **Language**: Rust
+- ⭐ **Stars**: 513
+- 🍴 **Forks**: 8
+- 📖 **Description**: No description available
+
+
+
+### 9. [female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)
 
 - **Author**: [@liyue-aigc](https://github.com/liyue-aigc)
 - **Language**: Unknown
@@ -94,23 +104,13 @@ categories: ["Tech News"]
 
 
 
-### 9. [rift](https://github.com/anomalyco/rift)
+### 10. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
 
-- **Author**: [@anomalyco](https://github.com/anomalyco)
-- **Language**: Rust
-- ⭐ **Stars**: 509
-- 🍴 **Forks**: 7
-- 📖 **Description**: No description available
-
-
-
-### 10. [tab-labeler](https://github.com/SenhorH/tab-labeler)
-
-- **Author**: [@SenhorH](https://github.com/SenhorH)
-- **Language**: TypeScript
-- ⭐ **Stars**: 459
-- 🍴 **Forks**: 30
-- 📖 **Description**: Rename browser tabs locally and bring order to chaotic sessions.
+- **Author**: [@jd-opensource](https://github.com/jd-opensource)
+- **Language**: Python
+- ⭐ **Stars**: 471
+- 🍴 **Forks**: 29
+- 📖 **Description**: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 
 
@@ -118,10 +118,10 @@ categories: ["Tech News"]
 
 ### Programming Language Distribution
 
-- **Python**: 4 repositories
+- **Python**: 5 repositories
 - **Unknown**: 2 repositories
 - **Rust**: 2 repositories
-- **TypeScript**: 2 repositories
+- **TypeScript**: 1 repositories
 
 ### Hot Topics
 
