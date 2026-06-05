@@ -1,6 +1,6 @@
 ---
 title: "GitHub 热门仓库精选 - 2026-06-05"
-date: "2026-06-05T02:05:48.728Z"
+date: "2026-06-05T05:05:32.425Z"
 draft: false
 tags: ["github", "trending", "开源", "open-source"]
 categories: ["技术资讯"]
@@ -9,7 +9,7 @@ categories: ["技术资讯"]
 # GitHub 热门仓库精选 - 2026-06-05
 
 > 自动生成的 GitHub 热门仓库报告
-> 生成时间：2026-06-05 10:05:48
+> 生成时间：2026-06-05 13:05:32
 
 ## 今日热门仓库 Top 10
 
@@ -18,8 +18,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **语言**: Python
-- ⭐ **Stars**: 51,435 
-- 🍴 **Forks**: 5,995
+- ⭐ **Stars**: 51,973 
+- 🍴 **Forks**: 6,087
 - 📖 **描述**: Self-hosted AI workspace. 
 
 
@@ -28,8 +28,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@zgwl](https://github.com/zgwl)
 - **语言**: 未知
-- ⭐ **Stars**: 2,771 
-- 🍴 **Forks**: 427
+- ⭐ **Stars**: 2,885 
+- 🍴 **Forks**: 443
 - 📖 **描述**: 美股指南
 
 
@@ -38,8 +38,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@b-nnett](https://github.com/b-nnett)
 - **语言**: Rust
-- ⭐ **Stars**: 1,873 
-- 🍴 **Forks**: 466
+- ⭐ **Stars**: 1,926 
+- 🍴 **Forks**: 469
 - 📖 **描述**: Goose Swift proof-of-concept README
 
 
@@ -48,8 +48,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@asz798838958](https://github.com/asz798838958)
 - **语言**: Python
-- ⭐ **Stars**: 1,485 
-- 🍴 **Forks**: 685
+- ⭐ **Stars**: 1,489 
+- 🍴 **Forks**: 686
 - 📖 **描述**: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 
@@ -58,7 +58,7 @@ categories: ["技术资讯"]
 
 - **作者**: [@cpaczek](https://github.com/cpaczek)
 - **语言**: TypeScript
-- ⭐ **Stars**: 1,225 
+- ⭐ **Stars**: 1,255 
 - 🍴 **Forks**: 83
 - 📖 **描述**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
@@ -68,7 +68,7 @@ categories: ["技术资讯"]
 
 - **作者**: [@ClaudioDrews](https://github.com/ClaudioDrews)
 - **语言**: Python
-- ⭐ **Stars**: 829 
+- ⭐ **Stars**: 834 
 - 🍴 **Forks**: 82
 - 📖 **描述**: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
@@ -78,8 +78,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **语言**: Python
-- ⭐ **Stars**: 559 
-- 🍴 **Forks**: 118
+- ⭐ **Stars**: 562 
+- 🍴 **Forks**: 120
 - 📖 **描述**: 暂无描述
 
 
@@ -88,7 +88,7 @@ categories: ["技术资讯"]
 
 - **作者**: [@liyue-aigc](https://github.com/liyue-aigc)
 - **语言**: 未知
-- ⭐ **Stars**: 510 
+- ⭐ **Stars**: 511 
 - 🍴 **Forks**: 74
 - 📖 **描述**: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 
@@ -98,7 +98,7 @@ categories: ["技术资讯"]
 
 - **作者**: [@anomalyco](https://github.com/anomalyco)
 - **语言**: Rust
-- ⭐ **Stars**: 506 
+- ⭐ **Stars**: 509 
 - 🍴 **Forks**: 7
 - 📖 **描述**: 暂无描述
 

@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-05"
-date: "2026-06-05T02:05:48.728Z"
+date: "2026-06-05T05:05:32.425Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-05
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-05 10:05:48
+> Generated at: 2026-06-05 13:05:32
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,8 +18,8 @@ categories: ["Tech News"]
 
 - **Author**: [@pewdiepie-archdaemon](https://github.com/pewdiepie-archdaemon)
 - **Language**: Python
-- ⭐ **Stars**: 51,435
-- 🍴 **Forks**: 5,995
+- ⭐ **Stars**: 51,973
+- 🍴 **Forks**: 6,087
 - 📖 **Description**: Self-hosted AI workspace. 
 
 
@@ -28,8 +28,8 @@ categories: ["Tech News"]
 
 - **Author**: [@zgwl](https://github.com/zgwl)
 - **Language**: Unknown
-- ⭐ **Stars**: 2,771
-- 🍴 **Forks**: 427
+- ⭐ **Stars**: 2,885
+- 🍴 **Forks**: 443
 - 📖 **Description**: 美股指南
 
 
@@ -38,8 +38,8 @@ categories: ["Tech News"]
 
 - **Author**: [@b-nnett](https://github.com/b-nnett)
 - **Language**: Rust
-- ⭐ **Stars**: 1,873
-- 🍴 **Forks**: 466
+- ⭐ **Stars**: 1,926
+- 🍴 **Forks**: 469
 - 📖 **Description**: Goose Swift proof-of-concept README
 
 
@@ -48,8 +48,8 @@ categories: ["Tech News"]
 
 - **Author**: [@asz798838958](https://github.com/asz798838958)
 - **Language**: Python
-- ⭐ **Stars**: 1,485
-- 🍴 **Forks**: 685
+- ⭐ **Stars**: 1,489
+- 🍴 **Forks**: 686
 - 📖 **Description**: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
 
 
@@ -58,7 +58,7 @@ categories: ["Tech News"]
 
 - **Author**: [@cpaczek](https://github.com/cpaczek)
 - **Language**: TypeScript
-- ⭐ **Stars**: 1,225
+- ⭐ **Stars**: 1,255
 - 🍴 **Forks**: 83
 - 📖 **Description**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
@@ -68,7 +68,7 @@ categories: ["Tech News"]
 
 - **Author**: [@ClaudioDrews](https://github.com/ClaudioDrews)
 - **Language**: Python
-- ⭐ **Stars**: 829
+- ⭐ **Stars**: 834
 - 🍴 **Forks**: 82
 - 📖 **Description**: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 
@@ -78,8 +78,8 @@ categories: ["Tech News"]
 
 - **Author**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **Language**: Python
-- ⭐ **Stars**: 559
-- 🍴 **Forks**: 118
+- ⭐ **Stars**: 562
+- 🍴 **Forks**: 120
 - 📖 **Description**: No description available
 
 
@@ -88,7 +88,7 @@ categories: ["Tech News"]
 
 - **Author**: [@liyue-aigc](https://github.com/liyue-aigc)
 - **Language**: Unknown
-- ⭐ **Stars**: 510
+- ⭐ **Stars**: 511
 - 🍴 **Forks**: 74
 - 📖 **Description**: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 
@@ -98,7 +98,7 @@ categories: ["Tech News"]
 
 - **Author**: [@anomalyco](https://github.com/anomalyco)
 - **Language**: Rust
-- ⭐ **Stars**: 506
+- ⭐ **Stars**: 509
 - 🍴 **Forks**: 7
 - 📖 **Description**: No description available
 
