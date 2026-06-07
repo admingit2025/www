@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-07"
-date: "2026-06-07T00:08:17.179Z"
+date: "2026-06-07T06:05:32.647Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-07
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-07 08:08:17
+> Generated at: 2026-06-07 14:05:32
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,9 +18,9 @@ categories: ["Tech News"]
 
 - **Author**: [@b-nnett](https://github.com/b-nnett)
 - **Language**: Rust
-- â­ **Stars**: 2,167
-- ðŸ´ **Forks**: 505
-- ðŸ“– **Description**: Goose Swift proof-of-concept README
+- ⭐ **Stars**: 2,173
+- 🍴 **Forks**: 509
+- 📖 **Description**: Goose Swift proof-of-concept README
 
 
 
@@ -28,9 +28,9 @@ categories: ["Tech News"]
 
 - **Author**: [@cpaczek](https://github.com/cpaczek)
 - **Language**: TypeScript
-- â­ **Stars**: 2,066
-- ðŸ´ **Forks**: 196
-- ðŸ“– **Description**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR â€” with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
+- ⭐ **Stars**: 2,116
+- 🍴 **Forks**: 204
+- 📖 **Description**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
 
 
@@ -38,9 +38,9 @@ categories: ["Tech News"]
 
 - **Author**: [@jd-opensource](https://github.com/jd-opensource)
 - **Language**: Python
-- â­ **Stars**: 702
-- ðŸ´ **Forks**: 44
-- ðŸ“– **Description**: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+- ⭐ **Stars**: 746
+- 🍴 **Forks**: 45
+- 📖 **Description**: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 
 
@@ -48,9 +48,9 @@ categories: ["Tech News"]
 
 - **Author**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **Language**: Python
-- â­ **Stars**: 590
-- ðŸ´ **Forks**: 125
-- ðŸ“– **Description**: No description available
+- ⭐ **Stars**: 592
+- 🍴 **Forks**: 125
+- 📖 **Description**: No description available
 
 
 
@@ -58,9 +58,9 @@ categories: ["Tech News"]
 
 - **Author**: [@VAST-AI-Research](https://github.com/VAST-AI-Research)
 - **Language**: Python
-- â­ **Stars**: 492
-- ðŸ´ **Forks**: 47
-- ðŸ“– **Description**: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
+- ⭐ **Stars**: 500
+- 🍴 **Forks**: 47
+- 📖 **Description**: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 
 
 
@@ -68,49 +68,49 @@ categories: ["Tech News"]
 
 - **Author**: [@tastyeffectco](https://github.com/tastyeffectco)
 - **Language**: Go
-- â­ **Stars**: 469
-- ðŸ´ **Forks**: 10
-- ðŸ“– **Description**: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+- ⭐ **Stars**: 475
+- 🍴 **Forks**: 10
+- 📖 **Description**: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
 
 
-### 7. [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)
-
-- **Author**: [@Jane-xiaoer](https://github.com/Jane-xiaoer)
-- **Language**: JavaScript
-- â­ **Stars**: 452
-- ðŸ´ **Forks**: 70
-- ðŸ“– **Description**: One click on the toolbar grabs the current page's video into ~/Downloads â€” local yt-dlp daemon, 1800+ sites. å°è€³æŠ“è§†é¢‘ï¼šä¸€é”®æŠŠå½“å‰é¡µè§†é¢‘æŠ“åˆ°æœ¬åœ°ã€‚
-
-
-
-### 8. [reg-factory](https://github.com/tiantianGPU/reg-factory)
+### 7. [reg-factory](https://github.com/tiantianGPU/reg-factory)
 
 - **Author**: [@tiantianGPU](https://github.com/tiantianGPU)
 - **Language**: Python
-- â­ **Stars**: 443
-- ðŸ´ **Forks**: 215
-- ðŸ“– **Description**: No description available
+- ⭐ **Stars**: 465
+- 🍴 **Forks**: 227
+- 📖 **Description**: No description available
 
 
 
-### 9. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
+### 8. [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)
+
+- **Author**: [@Jane-xiaoer](https://github.com/Jane-xiaoer)
+- **Language**: JavaScript
+- ⭐ **Stars**: 456
+- 🍴 **Forks**: 71
+- 📖 **Description**: One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+
+
+
+### 9. [Anima](https://github.com/Fullive-AI/Anima)
+
+- **Author**: [@Fullive-AI](https://github.com/Fullive-AI)
+- **Language**: Python
+- ⭐ **Stars**: 389
+- 🍴 **Forks**: 9
+- 📖 **Description**: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
+
+
+
+### 10. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
 
 - **Author**: [@S-Sigdel](https://github.com/S-Sigdel)
 - **Language**: Python
-- â­ **Stars**: 384
-- ðŸ´ **Forks**: 6
-- ðŸ“– **Description**: learn vim from your terminal with spaced repetition
-
-
-
-### 10. [tab-labeler](https://github.com/SenhorH/tab-labeler)
-
-- **Author**: [@SenhorH](https://github.com/SenhorH)
-- **Language**: TypeScript
-- â­ **Stars**: 382
-- ðŸ´ **Forks**: 22
-- ðŸ“– **Description**: Rename browser tabs locally and bring order to chaotic sessions.
+- ⭐ **Stars**: 387
+- 🍴 **Forks**: 6
+- 📖 **Description**: learn vim from your terminal with spaced repetition
 
 
 
@@ -118,9 +118,9 @@ categories: ["Tech News"]
 
 ### Programming Language Distribution
 
-- **Python**: 5 repositories
-- **TypeScript**: 2 repositories
+- **Python**: 6 repositories
 - **Rust**: 1 repositories
+- **TypeScript**: 1 repositories
 - **Go**: 1 repositories
 - **JavaScript**: 1 repositories
 
