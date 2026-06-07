@@ -1,6 +1,6 @@
 ---
 title: "GitHub Trending Repositories - 2026-06-07"
-date: "2026-06-07T06:05:32.647Z"
+date: "2026-06-07T18:05:04.484Z"
 draft: false
 tags: ["github", "trending", "open-source"]
 categories: ["Tech News"]
@@ -9,7 +9,7 @@ categories: ["Tech News"]
 # GitHub Trending Repositories - 2026-06-07
 
 > Auto-generated GitHub Trending Repositories Report
-> Generated at: 2026-06-07 14:05:32
+> Generated at: 2026-06-07 02:05:04
 
 ## Today's Top 10 Trending Repositories
 
@@ -18,8 +18,8 @@ categories: ["Tech News"]
 
 - **Author**: [@b-nnett](https://github.com/b-nnett)
 - **Language**: Rust
-- ⭐ **Stars**: 2,173
-- 🍴 **Forks**: 509
+- ⭐ **Stars**: 2,227
+- 🍴 **Forks**: 517
 - 📖 **Description**: Goose Swift proof-of-concept README
 
 
@@ -28,8 +28,8 @@ categories: ["Tech News"]
 
 - **Author**: [@cpaczek](https://github.com/cpaczek)
 - **Language**: TypeScript
-- ⭐ **Stars**: 2,116
-- 🍴 **Forks**: 204
+- ⭐ **Stars**: 2,214
+- 🍴 **Forks**: 220
 - 📖 **Description**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
 
@@ -38,8 +38,8 @@ categories: ["Tech News"]
 
 - **Author**: [@jd-opensource](https://github.com/jd-opensource)
 - **Language**: Python
-- ⭐ **Stars**: 746
-- 🍴 **Forks**: 45
+- ⭐ **Stars**: 820
+- 🍴 **Forks**: 53
 - 📖 **Description**: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 
@@ -48,8 +48,8 @@ categories: ["Tech News"]
 
 - **Author**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **Language**: Python
-- ⭐ **Stars**: 592
-- 🍴 **Forks**: 125
+- ⭐ **Stars**: 599
+- 🍴 **Forks**: 126
 - 📖 **Description**: No description available
 
 
@@ -58,17 +58,17 @@ categories: ["Tech News"]
 
 - **Author**: [@VAST-AI-Research](https://github.com/VAST-AI-Research)
 - **Language**: Python
-- ⭐ **Stars**: 500
-- 🍴 **Forks**: 47
+- ⭐ **Stars**: 516
+- 🍴 **Forks**: 48
 - 📖 **Description**: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 
 
 
-### 6. [sandboxes](https://github.com/tastyeffectco/sandboxes)
+### 6. [sandboxd](https://github.com/tastyeffectco/sandboxd)
 
 - **Author**: [@tastyeffectco](https://github.com/tastyeffectco)
 - **Language**: Go
-- ⭐ **Stars**: 475
+- ⭐ **Stars**: 487
 - 🍴 **Forks**: 10
 - 📖 **Description**: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
@@ -78,8 +78,8 @@ categories: ["Tech News"]
 
 - **Author**: [@tiantianGPU](https://github.com/tiantianGPU)
 - **Language**: Python
-- ⭐ **Stars**: 465
-- 🍴 **Forks**: 227
+- ⭐ **Stars**: 475
+- 🍴 **Forks**: 232
 - 📖 **Description**: No description available
 
 
@@ -88,29 +88,29 @@ categories: ["Tech News"]
 
 - **Author**: [@Jane-xiaoer](https://github.com/Jane-xiaoer)
 - **Language**: JavaScript
-- ⭐ **Stars**: 456
-- 🍴 **Forks**: 71
+- ⭐ **Stars**: 462
+- 🍴 **Forks**: 74
 - 📖 **Description**: One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
 
 
 
-### 9. [Anima](https://github.com/Fullive-AI/Anima)
-
-- **Author**: [@Fullive-AI](https://github.com/Fullive-AI)
-- **Language**: Python
-- ⭐ **Stars**: 389
-- 🍴 **Forks**: 9
-- 📖 **Description**: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
-
-
-
-### 10. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
+### 9. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
 
 - **Author**: [@S-Sigdel](https://github.com/S-Sigdel)
 - **Language**: Python
-- ⭐ **Stars**: 387
+- ⭐ **Stars**: 398
 - 🍴 **Forks**: 6
 - 📖 **Description**: learn vim from your terminal with spaced repetition
+
+
+
+### 10. [Anima](https://github.com/Fullive-AI/Anima)
+
+- **Author**: [@Fullive-AI](https://github.com/Fullive-AI)
+- **Language**: Python
+- ⭐ **Stars**: 393
+- 🍴 **Forks**: 9
+- 📖 **Description**: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "GitHub 热门仓库精选 - 2026-06-07"
-date: "2026-06-07T06:05:32.647Z"
+date: "2026-06-07T18:05:04.484Z"
 draft: false
 tags: ["github", "trending", "开源", "open-source"]
 categories: ["技术资讯"]
@@ -9,7 +9,7 @@ categories: ["技术资讯"]
 # GitHub 热门仓库精选 - 2026-06-07
 
 > 自动生成的 GitHub 热门仓库报告
-> 生成时间：2026-06-07 14:05:32
+> 生成时间：2026-06-07 02:05:04
 
 ## 今日热门仓库 Top 10
 
@@ -18,8 +18,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@b-nnett](https://github.com/b-nnett)
 - **语言**: Rust
-- ⭐ **Stars**: 2,173 
-- 🍴 **Forks**: 509
+- ⭐ **Stars**: 2,227 
+- 🍴 **Forks**: 517
 - 📖 **描述**: Goose Swift proof-of-concept README
 
 
@@ -28,8 +28,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@cpaczek](https://github.com/cpaczek)
 - **语言**: TypeScript
-- ⭐ **Stars**: 2,116 
-- 🍴 **Forks**: 204
+- ⭐ **Stars**: 2,214 
+- 🍴 **Forks**: 220
 - 📖 **描述**: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
 
@@ -38,8 +38,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@jd-opensource](https://github.com/jd-opensource)
 - **语言**: Python
-- ⭐ **Stars**: 746 
-- 🍴 **Forks**: 45
+- ⭐ **Stars**: 820 
+- 🍴 **Forks**: 53
 - 📖 **描述**: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 
@@ -48,8 +48,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@qiuqiubuchongle-cloud](https://github.com/qiuqiubuchongle-cloud)
 - **语言**: Python
-- ⭐ **Stars**: 592 
-- 🍴 **Forks**: 125
+- ⭐ **Stars**: 599 
+- 🍴 **Forks**: 126
 - 📖 **描述**: 暂无描述
 
 
@@ -58,17 +58,17 @@ categories: ["技术资讯"]
 
 - **作者**: [@VAST-AI-Research](https://github.com/VAST-AI-Research)
 - **语言**: Python
-- ⭐ **Stars**: 500 
-- 🍴 **Forks**: 47
+- ⭐ **Stars**: 516 
+- 🍴 **Forks**: 48
 - 📖 **描述**: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 
 
 
-### 6. [sandboxes](https://github.com/tastyeffectco/sandboxes)
+### 6. [sandboxd](https://github.com/tastyeffectco/sandboxd)
 
 - **作者**: [@tastyeffectco](https://github.com/tastyeffectco)
 - **语言**: Go
-- ⭐ **Stars**: 475 
+- ⭐ **Stars**: 487 
 - 🍴 **Forks**: 10
 - 📖 **描述**: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 
@@ -78,8 +78,8 @@ categories: ["技术资讯"]
 
 - **作者**: [@tiantianGPU](https://github.com/tiantianGPU)
 - **语言**: Python
-- ⭐ **Stars**: 465 
-- 🍴 **Forks**: 227
+- ⭐ **Stars**: 475 
+- 🍴 **Forks**: 232
 - 📖 **描述**: 暂无描述
 
 
@@ -88,29 +88,29 @@ categories: ["技术资讯"]
 
 - **作者**: [@Jane-xiaoer](https://github.com/Jane-xiaoer)
 - **语言**: JavaScript
-- ⭐ **Stars**: 456 
-- 🍴 **Forks**: 71
+- ⭐ **Stars**: 462 
+- 🍴 **Forks**: 74
 - 📖 **描述**: One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
 
 
 
-### 9. [Anima](https://github.com/Fullive-AI/Anima)
-
-- **作者**: [@Fullive-AI](https://github.com/Fullive-AI)
-- **语言**: Python
-- ⭐ **Stars**: 389 
-- 🍴 **Forks**: 9
-- 📖 **描述**: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
-
-
-
-### 10. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
+### 9. [vimhjkl](https://github.com/S-Sigdel/vimhjkl)
 
 - **作者**: [@S-Sigdel](https://github.com/S-Sigdel)
 - **语言**: Python
-- ⭐ **Stars**: 387 
+- ⭐ **Stars**: 398 
 - 🍴 **Forks**: 6
 - 📖 **描述**: learn vim from your terminal with spaced repetition
+
+
+
+### 10. [Anima](https://github.com/Fullive-AI/Anima)
+
+- **作者**: [@Fullive-AI](https://github.com/Fullive-AI)
+- **语言**: Python
+- ⭐ **Stars**: 393 
+- 🍴 **Forks**: 9
+- 📖 **描述**: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
 
 
 
