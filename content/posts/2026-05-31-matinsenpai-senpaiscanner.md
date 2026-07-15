@@ -3,7 +3,8 @@ title: "SenPaiScanner：轻量级 Cloudflare IP 扫描器，让代理连接不�
 author: "GitHub Trending 深度解析"
 date: 2026-05-31
 draft: false
-cover: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
+cover:
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
 tags: ["Go", "Cloudflare", "网络工具", "代理", "VLESS", "Trojan", "xray"]
 categories: ["GitHub Trending"]
 ---
