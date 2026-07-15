@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TypeScript on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/typescript/</link>
+    <description>Recent content in TypeScript on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 20:31:51 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>performativeUI: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-vorpus-performativeui/</link>
+      <pubDate>Tue, 09 Jun 2026 20:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-vorpus-performativeui/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 performativeUI，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>lottie: Open-source skill and harness for generating pr...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-diffusionstudio-lottie/</link>
+      <pubDate>Tue, 09 Jun 2026 08:09:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-diffusionstudio-lottie/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 lottie，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>align-dev: AlignDev helps AI-assisted frontend teams gener...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-razr001-align-dev/</link>
+      <pubDate>Mon, 08 Jun 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-razr001-align-dev/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 align-dev，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>9drive: 9Drive is a storage gateway web app for connect...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-07-zenhosta-9drive/</link>
+      <pubDate>Sun, 07 Jun 2026 20:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-07-zenhosta-9drive/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 9drive，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>QMAI: 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-mochocyang-qmai/</link>
+      <pubDate>Sat, 06 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-mochocyang-qmai/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 QMAI，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>tab-labeler: Rename browser tabs locally and bring order to ...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-senhorh-tab-labeler/</link>
+      <pubDate>Thu, 04 Jun 2026 02:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-senhorh-tab-labeler/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 tab-labeler，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>skylight: Project the aircraft passing overhead onto your...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-cpaczek-skylight/</link>
+      <pubDate>Thu, 04 Jun 2026 01:07:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-cpaczek-skylight/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 skylight，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>WechatOnCloud: 云微WOC，云微信，自由连接</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-gloridust-wechatoncloud/</link>
+      <pubDate>Wed, 03 Jun 2026 08:31:52 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-gloridust-wechatoncloud/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 WechatOnCloud，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>specification.website: Website specification — HTML, accessibility, se...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-jdevalk-specification.website/</link>
+      <pubDate>Tue, 02 Jun 2026 14:31:38 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-jdevalk-specification.website/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 specification.website，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>pi-dynamic-workflows: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-michaelliv-pi-dynamic-workflows/</link>
+      <pubDate>Mon, 01 Jun 2026 16:04:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-michaelliv-pi-dynamic-workflows/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 pi-dynamic-workflows，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>weather-prediction-bot: polymarket trading bot polymarket trading bot p...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-signal-trade-core-weather-prediction-bot/</link>
+      <pubDate>Mon, 01 Jun 2026 15:05:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-signal-trade-core-weather-prediction-bot/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 weather-prediction-bot，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>forza-horizon-6-spotify-radio: forza horizon 6 spotify radio FH 6 spotify radi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-stellarwolf001-forza-horizon-6-spotify-radio/</link>
+      <pubDate>Mon, 01 Jun 2026 14:31:43 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-stellarwolf001-forza-horizon-6-spotify-radio/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 forza-horizon-6-spotify-radio，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Claude-Mythos-AI-Anthropic-App: claude mythos ai anthropic app github open sour...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-zhristophe-claude-mythos-ai-anthropic-app/</link>
+      <pubDate>Mon, 01 Jun 2026 12:05:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-zhristophe-claude-mythos-ai-anthropic-app/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Claude-Mythos-AI-Anthropic-App，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</link>
+      <pubDate>Sun, 31 May 2026 16:05:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Duel-Agents，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ADHD Agent: 让 AI 编程 Agent 拥有发散思维的技能框架</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</link>
+      <pubDate>Sun, 31 May 2026 08:03:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ADHD Agent，探索并行发散思维如何解决 AI Agent 的过早收敛问题</description>
+    </item>
+    <item>
+      <title>mike: OSS AI Legal Platform</title>
+      <link>https://www.git.edu.kg/posts/2026-05-05-willchen96-mike/</link>
+      <pubDate>Tue, 05 May 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-05-willchen96-mike/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mike，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-04-nexu-io-open-design/</link>
+      <pubDate>Mon, 04 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-04-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-03-nexu-io-open-design/</link>
+      <pubDate>Sun, 03 May 2026 20:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-03-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-02-nexu-io-open-design/</link>
+      <pubDate>Sat, 02 May 2026 20:31:25 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-02-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-01-nexu-io-open-design/</link>
+      <pubDate>Fri, 01 May 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-01-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-30-nexu-io-open-design/</link>
+      <pubDate>Thu, 30 Apr 2026 20:31:38 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-30-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-19-getagentseal-codeburn/</link>
+      <pubDate>Sun, 19 Apr 2026 20:31:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-19-getagentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-19-agentseal-codeburn/</link>
+      <pubDate>Sun, 19 Apr 2026 02:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-19-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-18-agentseal-codeburn/</link>
+      <pubDate>Sat, 18 Apr 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-18-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-17-agentseal-codeburn/</link>
+      <pubDate>Fri, 17 Apr 2026 20:31:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-17-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>openclaude: Open Claude Is Open-source coding-agent CLI for...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-07-gitlawb-openclaude/</link>
+      <pubDate>Tue, 07 Apr 2026 20:31:43 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-07-gitlawb-openclaude/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 openclaude，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>claude-code: An independent Python feature port of Claude Co...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-31-instructkr-claude-code/</link>
+      <pubDate>Tue, 31 Mar 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-31-instructkr-claude-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claude-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>clui-cc：Clui CC — Command Line User Interface for Claude 代码</title>
+      <link>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</guid>
+      <description>深度解析 GitHub 热门开源项目 clui-cc，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Understand-Anything: Claude code skills that turn any cod...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</link>
+      <pubDate>Thu, 19 Mar 2026 08:22:49 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</guid>
+      <description>Deep dive into popular GitHub open source project Understand-Anything</description>
+    </item>
+    <item>
+      <title>opencli：Make any website your 命令行工具. A powerful, 人工智能-nat...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</guid>
+      <description>深度解析 GitHub 热门开源项目 opencli，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>inkos：Autonomous novel writing 命令行工具 智能体 — 人工智能 agents wr...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</guid>
+      <description>深度解析 GitHub 热门开源项目 inkos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Recordly：A free, open-source Screen Studio alternative th...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</guid>
+      <description>深度解析 GitHub 热门开源项目 Recordly，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>NemoClaw：NVIDIA plugin for secure installation of OpenClaw</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</guid>
+      <description>深度解析 GitHub 热门开源项目 NemoClaw，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>OpenMAIC：Open Multi-智能体 Interactive Classroom — Get an im...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</guid>
+      <description>深度解析 GitHub 热门开源项目 OpenMAIC，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>gstack：Use Garry Tan&#39;s exact Claude Code setup: 10 opinio...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</guid>
+      <description>深度解析 GitHub 热门开源项目 gstack，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Open Source on 科技观察</title>
+    <link>https://www.git.edu.kg/categories/open-source/</link>
+    <description>Recent content in Open Source on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 09:06:54 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coreai-models: Model export recipes, Python primitives, a...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-apple-coreai-models/</link>
+      <pubDate>Wed, 10 Jun 2026 09:06:54 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-apple-coreai-models/</guid>
+      <description>Deep dive into popular GitHub open source project coreai-models</description>
+    </item>
+    <item>
+      <title>dots.tts: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-rednote-hilab-dots.tts/</link>
+      <pubDate>Wed, 10 Jun 2026 01:08:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-rednote-hilab-dots.tts/</guid>
+      <description>Deep dive into popular GitHub open source project dots.tts</description>
+    </item>
+    <item>
+      <title>noop: Offline WHOOP companion — pair your strap over Blue...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-noopapp-noop/</link>
+      <pubDate>Mon, 08 Jun 2026 17:21:13 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-noopapp-noop/</guid>
+      <description>Deep dive into popular GitHub open source project noop</description>
+    </item>
+    <item>
+      <title>vimhjkl: learn vim from your terminal with spaced repetition</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-s-sigdel-vimhjkl/</link>
+      <pubDate>Sat, 06 Jun 2026 06:05:50 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-s-sigdel-vimhjkl/</guid>
+      <description>Deep dive into popular GitHub open source project vimhjkl</description>
+    </item>
+    <item>
+      <title>TripoSplat: TripoSplat converts a single 2D image into hi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-vast-ai-research-triposplat/</link>
+      <pubDate>Sat, 06 Jun 2026 00:05:57 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-vast-ai-research-triposplat/</guid>
+      <description>Deep dive into popular GitHub open source project TripoSplat</description>
+    </item>
+    <item>
+      <title>sandboxes: Self-hosted dev sandboxes with preview URLs. O...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</link>
+      <pubDate>Fri, 05 Jun 2026 06:06:09 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</guid>
+      <description>Deep dive into popular GitHub open source project sandboxes</description>
+    </item>
+    <item>
+      <title>JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-jd-opensource-joyai-echo/</link>
+      <pubDate>Fri, 05 Jun 2026 00:27:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-jd-opensource-joyai-echo/</guid>
+      <description>Deep dive into popular GitHub open source project JoyAI-Echo</description>
+    </item>
+    <item>
+      <title>ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-matixyo-esp32-plane-radar/</link>
+      <pubDate>Thu, 04 Jun 2026 23:06:25 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-matixyo-esp32-plane-radar/</guid>
+      <description>Deep dive into popular GitHub open source project ESP32-Plane-Radar</description>
+    </item>
+    <item>
+      <title>cli: A command-line tool for Lark/Feishu Open Platform — built...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-30-larksuite-cli/</link>
+      <pubDate>Mon, 30 Mar 2026 20:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-30-larksuite-cli/</guid>
+      <description>Deep dive into the popular GitHub open source project cli, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>meta-lobbying-and-other-findings: </title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</link>
+      <pubDate>Thu, 19 Mar 2026 15:23:24 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</guid>
+      <description>Deep dive into popular GitHub open source project meta-lobbying-and-other-findings</description>
+    </item>
+    <item>
+      <title>Crucix: Your personal intelligence agent. Watches the world from multiple data source...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</link>
+      <pubDate>Thu, 19 Mar 2026 13:09:15 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</guid>
+      <description>Deep dive into popular GitHub open source project Crucix</description>
+    </item>
+    <item>
+      <title>Understand-Anything: Claude code skills that turn any cod...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</link>
+      <pubDate>Thu, 19 Mar 2026 08:22:49 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</guid>
+      <description>Deep dive into popular GitHub open source project Understand-Anything</description>
+    </item>
+    <item>
+      <title>ClawTeam: ClawTeam: agent Swarm Intelligence (One Command...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-hkuds-clawteam/</link>
+      <pubDate>Thu, 19 Mar 2026 08:22:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-hkuds-clawteam/</guid>
+      <description>Deep dive into popular GitHub open source project ClawTeam</description>
+    </item>
+    <item>
+      <title>OpenSquirrel: For people who get distracted by agents. A ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-infatoshi-opensquirrel/</link>
+      <pubDate>Thu, 19 Mar 2026 08:21:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-infatoshi-opensquirrel/</guid>
+      <description>Deep dive into popular GitHub open source project OpenSquirrel</description>
+    </item>
+    <item>
+      <title>tavily-key-generator: Multi-service toolkit for Tavily an...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</link>
+      <pubDate>Thu, 19 Mar 2026 08:20:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</guid>
+      <description>Deep dive into popular GitHub open source project tavily-key-generator</description>
+    </item>
+  </channel>
+</rss>

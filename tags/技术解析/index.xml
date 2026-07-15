@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术解析 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/</link>
+    <description>Recent content in 技术解析 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Mar 2026 08:31:20 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>skills：Claude 代码 skills based on The Minimalist Entrepren...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-27-slavingia-skills/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-27-slavingia-skills/</guid>
+      <description>深度解析 GitHub 热门开源项目 skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>clui-cc：Clui CC — Command Line User Interface for Claude 代码</title>
+      <link>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</guid>
+      <description>深度解析 GitHub 热门开源项目 clui-cc，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codex-manager：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-20-cnlimiter-codex-manager/</link>
+      <pubDate>Fri, 20 Mar 2026 02:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-20-cnlimiter-codex-manager/</guid>
+      <description>深度解析 GitHub 热门开源项目 codex-manager，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codex-register：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-cnlimiter-codex-register/</link>
+      <pubDate>Thu, 19 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-cnlimiter-codex-register/</guid>
+      <description>深度解析 GitHub 热门开源项目 codex-register，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>awesome-codex-subagents：A collection of 130&#43; specialized ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-voltagent-awesome-codex-subagents/</link>
+      <pubDate>Thu, 19 Mar 2026 14:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-voltagent-awesome-codex-subagents/</guid>
+      <description>深度解析 GitHub 热门开源项目 awesome-codex-subagents，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>jobs：A research 工具 for visually exploring Bureau of Labor...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</guid>
+      <description>深度解析 GitHub 热门开源项目 jobs，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>autoresearch：Claude Autoresearch Skill — Autonomous goal-...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-uditgoenka-autoresearch/</link>
+      <pubDate>Thu, 19 Mar 2026 07:59:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-uditgoenka-autoresearch/</guid>
+      <description>深度解析 GitHub 热门开源项目 autoresearch，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>opencli：Make any website your 命令行工具. A powerful, 人工智能-nat...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</guid>
+      <description>深度解析 GitHub 热门开源项目 opencli，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>inkos：Autonomous novel writing 命令行工具 智能体 — 人工智能 agents wr...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</guid>
+      <description>深度解析 GitHub 热门开源项目 inkos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Attention-Residuals：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-moonshotai-attention-residuals/</link>
+      <pubDate>Wed, 18 Mar 2026 19:20:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-moonshotai-attention-residuals/</guid>
+      <description>深度解析 GitHub 热门开源项目 Attention-Residuals，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>chrome-cdp-skill：Give your 人工智能 智能体 access to your live C...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</guid>
+      <description>深度解析 GitHub 热门开源项目 chrome-cdp-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Recordly：A free, open-source Screen Studio alternative th...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</guid>
+      <description>深度解析 GitHub 热门开源项目 Recordly，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>AutoResearchClaw：Fully autonomous &amp; self-evolving researc...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-aiming-lab-autoresearchclaw/</link>
+      <pubDate>Wed, 18 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-aiming-lab-autoresearchclaw/</guid>
+      <description>深度解析 GitHub 热门开源项目 AutoResearchClaw，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>NemoClaw：NVIDIA plugin for secure installation of OpenClaw</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</guid>
+      <description>深度解析 GitHub 热门开源项目 NemoClaw，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Crucix：Your personal intelligence 智能体. Watches the world ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</link>
+      <pubDate>Tue, 17 Mar 2026 20:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</guid>
+      <description>深度解析 GitHub 热门开源项目 Crucix，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>OpenMAIC：Open Multi-智能体 Interactive Classroom — Get an im...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</guid>
+      <description>深度解析 GitHub 热门开源项目 OpenMAIC，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>gstack：Use Garry Tan&#39;s exact Claude Code setup: 10 opinio...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</guid>
+      <description>深度解析 GitHub 热门开源项目 gstack，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

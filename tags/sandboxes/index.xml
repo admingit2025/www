@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sandboxes on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/sandboxes/</link>
+    <description>Recent content in Sandboxes on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Jun 2026 06:06:09 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/sandboxes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sandboxes: Self-hosted dev sandboxes with preview URLs. O...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</link>
+      <pubDate>Fri, 05 Jun 2026 06:06:09 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</guid>
+      <description>Deep dive into popular GitHub open source project sandboxes</description>
+    </item>
+  </channel>
+</rss>

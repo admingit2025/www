@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Rust | 科技观察</title>
+<meta name="keywords" content="">
+<meta name="description" content="关注前沿科技发展，分享最新科技突破">
+<meta name="author" content="科技观察团队">
+<link rel="canonical" href="https://www.git.edu.kg/tags/rust/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4f6144970a41b47163b87a04278cb7543f87dc25f10f7c02021b6a3dac2e3026.css" integrity="sha256-T2FElwpBtHFjuHoEJ4y3VD&#43;H3CXxD3wCAhtqPawuMCY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.git.edu.kg/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.git.edu.kg/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.git.edu.kg/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.git.edu.kg/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.git.edu.kg/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33"><meta property="og:url" content="https://www.git.edu.kg/tags/rust/">
+  <meta property="og:site_name" content="科技观察">
+  <meta property="og:title" content="Rust">
+  <meta property="og:description" content="关注前沿科技发展，分享最新科技突破">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+  <meta name="twitter:title" content="Rust">
+  <meta name="twitter:description" content="关注前沿科技发展，分享最新科技突破">
+<link rel="alternate" type="application/rss+xml" href="https://www.git.edu.kg/tags/rust/index.xml">
+<link rel="alternate" hreflang="zh-cn" href="https://www.git.edu.kg/tags/rust/">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+<link rel="alternate" hreflang="x-default" href="https://www.git.edu.kg/" />
+
+
+
+
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4431699228337677"
+  crossorigin="anonymous">
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.git.edu.kg/" accesskey="h" title="科技观察 (Alt + H)">科技观察</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://www.git.edu.kg/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.git.edu.kg/categories/" title="分类">
+                    <span>分类</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Rust
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/jeff141/meatshell" alt="meatshell">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-mem...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client） 本周 GitHub 最热门开源项目深度解析 项目地址: jeff141/meatshell 生成时间: 2026-06-07 14:31:30
+项目概览 jeff141/meatshell 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @jeff141 编程语言 Rust Star 数 336 ⭐ Fork 数 45 创建时间 2026-06-04 最后更新 2026-06-07 项目简介 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）
+Rust 以内存安全和零成本抽象闻名，是系统编程领域的新星。
+核心特性 根据项目 README 分析，meatshell 的主要特点包括：
+高关注度：336 个 Star，说明开发者社区对此项目高度认可 活跃开发：45 个 Fork，社区参与度高 快速成长：自 2026-06-04 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 meatshell 基于 Rust 技术栈构建：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-07 14:31:30 &#43;0000 UTC">June 7, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-mem..." href="https://www.git.edu.kg/posts/2026-06-07-jeff141-meatshell/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/anomalyco/rift" alt="rift">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">rift: 
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>rift: 本周 GitHub 最热门开源项目深度解析 项目地址: anomalyco/rift 生成时间: 2026-06-03 14:31:37
+项目概览 anomalyco/rift 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @anomalyco 编程语言 Rust Star 数 462 ⭐ Fork 数 5 创建时间 2026-05-31 最后更新 2026-06-03 项目简介 Rust 以内存安全和零成本抽象闻名，是系统编程领域的新星。
+核心特性 根据项目 README 分析，rift 的主要特点包括：
+高关注度：462 个 Star，说明开发者社区对此项目高度认可 活跃开发：5 个 Fork，社区参与度高 快速成长：自 2026-05-31 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 rift 基于 Rust 技术栈构建：
+编程语言：Rust 项目规模：462 个 Star，获得广泛认可 社区活跃度：5 个 Fork，开发者积极参与 README 原文摘要 &gt; **Warning: Experimental repository**&gt;&gt; This repository is experimental and is not ready for use. We are exploring a variety of ideas here, and behavior, interfaces, and implementation details may change without notice.rift: better alternative to git worktrees- copy on write (saves space)- instant (&lt; 0.1s on 10gb folder)- fast cli- use as FFI lib with bun or nodemac and linux with btrfs or reflink-enabled XFS for nowmore support soon## Install````bashnpm install -g rift-snapshot# orbun add -g rift-snapshot Release archives are available from GitHub Releases.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-03 14:31:37 &#43;0000 UTC">June 3, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to rift: " href="https://www.git.edu.kg/posts/2026-06-03-anomalyco-rift/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/b-nnett/goose" alt="goose">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">goose: Goose Swift proof-of-concept README
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>goose: Goose Swift proof-of-concept README 本周 GitHub 最热门开源项目深度解析 项目地址: b-nnett/goose 生成时间: 2026-06-03 02:31:30
+项目概览 b-nnett/goose 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @b-nnett 编程语言 Rust Star 数 475 ⭐ Fork 数 147 创建时间 2026-06-02 最后更新 2026-06-02 项目简介 Goose Swift proof-of-concept README
+Rust 以内存安全和零成本抽象闻名，是系统编程领域的新星。
+核心特性 根据项目 README 分析，goose 的主要特点包括：
+高关注度：475 个 Star，说明开发者社区对此项目高度认可 活跃开发：147 个 Fork，社区参与度高 快速成长：自 2026-06-02 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 goose 基于 Rust 技术栈构建：
+编程语言：Rust 项目规模：475 个 Star，获得广泛认可 社区活跃度：147 个 Fork，开发者积极参与 README 原文摘要 # Goose - Local Companion for WHOOP 5.0**Alpha proof of concept. This build is for developers to evaluate whether a project of this scope is viable. It is not ready to use as an app for tracking personal health data yet.**If you don&#39;t know what Xcode is, or how to build the Rust core, this build is not for you. Come back on 13 June 2026 for the first public beta on TestFlight.![Goose app hero showing a connected WHOOP 5.0 device](docs/assets/readme-hero.png)This prototype targets WHOOP 5.0 only. Other WHOOP generations are not supported in this build.The app and backend have had very little attention put into performance. The app will lag, very considerably. Performance PRs are welcome, or you can wait until I address it in due course.Goose is a local-first WHOOP 5.0 data and health metrics project. The iOS app connects to WHOOP 5.0 bands, routes packet data through the Goose Rust core, and turns that data into daily health, recovery, sleep, strain, stress, cardio, energy, coach, and debug views.## Project Layout````textGooseSwift/ SwiftUI app sourceGooseWorkoutLiveActivityExtension/ Live Activity widget extensionRust/ iOS static library, headers, per-platform outputsScripts/build_ios_rust.sh Xcode build phase for the Goose Rust coredocs/goose-swift-mvp/ MVP plans, contracts, and data-readiness docsGooseSwift.xcodeproj Xcode project Key Swift entry points:
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-03 02:31:30 &#43;0000 UTC">June 3, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to goose: Goose Swift proof-of-concept README" href="https://www.git.edu.kg/posts/2026-06-03-b-nnett-goose/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/ultraworkers/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: The repo is finally unlocked. enjoy the party! ...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: ultraworkers/claw-code 生成时间: 2026-04-06 20:31:33
+项目概览 ultraworkers/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @ultraworkers 编程语言 Rust Star 数 172530 ⭐ Fork 数 104478 创建时间 2026-03-31 最后更新 2026-04-06 项目简介 The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-06 20:31:33 &#43;0000 UTC">April 6, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: The repo is finally unlocked. enjoy the party! ..." href="https://www.git.edu.kg/posts/2026-04-06-ultraworkers-claw-code/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/ultraworkers/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: The repo is finally unlocked. enjoy the party! ...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: ultraworkers/claw-code 生成时间: 2026-04-05 20:31:31
+项目概览 ultraworkers/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @ultraworkers 编程语言 Rust Star 数 169250 ⭐ Fork 数 102780 创建时间 2026-03-31 最后更新 2026-04-05 项目简介 The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-05 20:31:31 &#43;0000 UTC">April 5, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: The repo is finally unlocked. enjoy the party! ..." href="https://www.git.edu.kg/posts/2026-04-05-ultraworkers-claw-code/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/ultraworkers/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: [Notice] The repo temporarily locked while owne...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: ultraworkers/claw-code 生成时间: 2026-04-04 20:31:36
+项目概览 ultraworkers/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @ultraworkers 编程语言 Rust Star 数 164799 ⭐ Fork 数 100906 创建时间 2026-03-31 最后更新 2026-04-04 项目简介 [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-04 20:31:36 &#43;0000 UTC">April 4, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: [Notice] The repo temporarily locked while owne..." href="https://www.git.edu.kg/posts/2026-04-04-ultraworkers-claw-code/"></a>
+</article>
+<div class="list-ads">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-4431699228337677"
+       data-ad-slot="2848079138"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/ultraworkers/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: [Notice] The repo temporarily locked while owne...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: ultraworkers/claw-code 生成时间: 2026-04-03 20:31:44
+项目概览 ultraworkers/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @ultraworkers 编程语言 Rust Star 数 158093 ⭐ Fork 数 101122 创建时间 2026-03-31 最后更新 2026-04-03 项目简介 [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-03 20:31:44 &#43;0000 UTC">April 3, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: [Notice] The repo temporarily locked while owne..." href="https://www.git.edu.kg/posts/2026-04-03-ultraworkers-claw-code/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/ultraworkers/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: [Notice] The repo temporarily locked while owne...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: ultraworkers/claw-code 生成时间: 2026-04-02 20:32:00
+项目概览 ultraworkers/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @ultraworkers 编程语言 Rust Star 数 139901 ⭐ Fork 数 101581 创建时间 2026-03-31 最后更新 2026-04-02 项目简介 [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-02 20:32:00 &#43;0000 UTC">April 2, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: [Notice] The repo temporarily locked while owne..." href="https://www.git.edu.kg/posts/2026-04-02-ultraworkers-claw-code/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/instructkr/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: The fastest repo in history to surpass 100K sta...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: instructkr/claw-code 生成时间: 2026-04-02 08:31:37
+项目概览 instructkr/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @instructkr 编程语言 Rust Star 数 119935 ⭐ Fork 数 102198 创建时间 2026-03-31 最后更新 2026-04-02 项目简介 The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-02 08:31:37 &#43;0000 UTC">April 2, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: The fastest repo in history to surpass 100K sta..." href="https://www.git.edu.kg/posts/2026-04-02-instructkr-claw-code/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/instructkr/claw-code" alt="claw-code">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">claw-code: The fastest repo in history to surpass 50K star...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>claw-code: The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex. 本周 GitHub 最热门开源项目深度解析 项目地址: instructkr/claw-code 生成时间: 2026-04-01 20:31:28
+项目概览 instructkr/claw-code 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @instructkr 编程语言 Rust Star 数 99008 ⭐ Fork 数 91220 创建时间 2026-03-31 最后更新 2026-04-01 项目简介 The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-04-01 20:31:28 &#43;0000 UTC">April 1, 2026</span>
+&nbsp;·&nbsp;1&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to claw-code: The fastest repo in history to surpass 50K star..." href="https://www.git.edu.kg/posts/2026-04-01-instructkr-claw-code/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://www.git.edu.kg/tags/rust/page/2/">&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="https://www.git.edu.kg/">科技观察</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+    <div class="footer-stats">
+        
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+ 
+    </div>
+</footer> </body>
+
+</html>

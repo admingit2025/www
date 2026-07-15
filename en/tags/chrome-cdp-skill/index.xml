@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chrome-Cdp-Skill on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/tags/chrome-cdp-skill/</link>
+    <description>Recent content in Chrome-Cdp-Skill on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Mar 2026 14:31:19 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/tags/chrome-cdp-skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chrome-cdp-skill: Give your AI agent access to your live ...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-pasky-chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-pasky-chrome-cdp-skill/</guid>
+      <description>Deep dive into the popular GitHub open source project chrome-cdp-skill, exploring its technical architecture and use cases</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>软件发布 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/%E8%BD%AF%E4%BB%B6%E5%8F%91%E5%B8%83/</link>
+    <description>Recent content in 软件发布 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/%E8%BD%AF%E4%BB%B6%E5%8F%91%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor Reg 1.0 发布公告</title>
+      <link>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</guid>
+      <description>Cursor Reg 1.0 工具发布公告，一款注重安全性、易用性和稳定性的 Cursor 注册工具。本文详细介绍了工具的特性、安装使用方法及未来规划。</description>
+    </item>
+  </channel>
+</rss>

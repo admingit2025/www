@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>未知 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/%E6%9C%AA%E7%9F%A5/</link>
+    <description>Recent content in 未知 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 08:31:46 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/%E6%9C%AA%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>parcle-memory: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-parcle-ai-parcle-memory/</link>
+      <pubDate>Wed, 10 Jun 2026 08:31:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-parcle-ai-parcle-memory/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 parcle-memory，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>produck-oss: Great apps are built on good context</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-yuvbindal-produck-oss/</link>
+      <pubDate>Tue, 09 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-yuvbindal-produck-oss/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 produck-oss，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>loupe: A privacy-focused iOS app that raises awareness...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</link>
+      <pubDate>Tue, 09 Jun 2026 00:16:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 loupe，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guard-skills: Guard skills for coding agents, quality gates t...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-amelnagdy-guard-skills/</link>
+      <pubDate>Mon, 08 Jun 2026 08:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-amelnagdy-guard-skills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guard-skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>chinese-buy-us-stock-guide: 美股指南</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-zgwl-chinese-buy-us-stock-guide/</link>
+      <pubDate>Thu, 04 Jun 2026 10:06:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-zgwl-chinese-buy-us-stock-guide/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 chinese-buy-us-stock-guide，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Qwen-VLA: The official repository of Qwen-VLA</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-qwenlm-qwen-vla/</link>
+      <pubDate>Tue, 02 Jun 2026 20:32:01 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-qwenlm-qwen-vla/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Qwen-VLA，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>female-portrait-director: A modular Codex Skill for directing and expandi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-liyue-aigc-female-portrait-director/</link>
+      <pubDate>Tue, 02 Jun 2026 14:05:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-liyue-aigc-female-portrait-director/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 female-portrait-director，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-18-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Mon, 18 May 2026 20:31:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-18-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-17-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Sun, 17 May 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-17-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-16-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Sat, 16 May 2026 20:31:32 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-16-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>hermes-agent-orange-book: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 ...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-13-alchaincyf-hermes-agent-orange-book/</link>
+      <pubDate>Mon, 13 Apr 2026 14:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-13-alchaincyf-hermes-agent-orange-book/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 hermes-agent-orange-book，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

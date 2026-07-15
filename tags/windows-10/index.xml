@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows 10 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/windows-10/</link>
+    <description>Recent content in Windows 10 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10 IoT LTSC/LTSC 2021的下载渠道</title>
+      <link>https://www.git.edu.kg/posts/windows-10-iot-ltsc-2021-download/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/windows-10-iot-ltsc-2021-download/</guid>
+      <description>详细介绍Windows 10 IoT LTSC/LTSC 2021版本的可靠下载渠道，包括MSDN I Tell You、Hello Windows、Archive.org等官方和第三方下载源，以及各版本的优缺点对比和安装注意事项。</description>
+    </item>
+  </channel>
+</rss>

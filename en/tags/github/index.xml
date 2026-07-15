@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Github on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/tags/github/</link>
+    <description>Recent content in Github on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2026 08:31:20 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>skills: Claude Code skills based on The Minimalist Entrep...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-27-slavingia-skills/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-27-slavingia-skills/</guid>
+      <description>Deep dive into the popular GitHub open source project skills, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>clui-cc: Clui CC — Command Line User Interface for Claude...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-20-lcoutodemos-clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-20-lcoutodemos-clui-cc/</guid>
+      <description>Deep dive into the popular GitHub open source project clui-cc, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>codex-manager: </title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-20-cnlimiter-codex-manager/</link>
+      <pubDate>Fri, 20 Mar 2026 02:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-20-cnlimiter-codex-manager/</guid>
+      <description>Deep dive into the popular GitHub open source project codex-manager, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>codex-register: </title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-cnlimiter-codex-register/</link>
+      <pubDate>Thu, 19 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-cnlimiter-codex-register/</guid>
+      <description>Deep dive into the popular GitHub open source project codex-register, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>awesome-codex-subagents: A collection of 130&#43; specialized...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-voltagent-awesome-codex-subagents/</link>
+      <pubDate>Thu, 19 Mar 2026 14:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-voltagent-awesome-codex-subagents/</guid>
+      <description>Deep dive into the popular GitHub open source project awesome-codex-subagents, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>jobs: A research tool for visually exploring Bureau of La...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-karpathy-jobs/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-karpathy-jobs/</guid>
+      <description>Deep dive into the popular GitHub open source project jobs, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>autoresearch: Claude Autoresearch Skill — Autonomous goal...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-uditgoenka-autoresearch/</link>
+      <pubDate>Thu, 19 Mar 2026 07:59:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-uditgoenka-autoresearch/</guid>
+      <description>Deep dive into the popular GitHub open source project autoresearch, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>opencli: Make any website your CLI. A powerful, AI-native...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-jackwener-opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-jackwener-opencli/</guid>
+      <description>Deep dive into the popular GitHub open source project opencli, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>inkos: Autonomous novel writing CLI agent — AI agents wri...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-narcooo-inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-narcooo-inkos/</guid>
+      <description>Deep dive into the popular GitHub open source project inkos, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>Attention-Residuals: </title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-moonshotai-attention-residuals/</link>
+      <pubDate>Wed, 18 Mar 2026 19:20:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-moonshotai-attention-residuals/</guid>
+      <description>Deep dive into the popular GitHub open source project Attention-Residuals, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>chrome-cdp-skill: Give your AI agent access to your live ...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-pasky-chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-pasky-chrome-cdp-skill/</guid>
+      <description>Deep dive into the popular GitHub open source project chrome-cdp-skill, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>Recordly: A free, open-source Screen Studio alternative t...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-webadderall-recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-webadderall-recordly/</guid>
+      <description>Deep dive into the popular GitHub open source project Recordly, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>AutoResearchClaw: Fully autonomous &amp; self-evolving resear...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-aiming-lab-autoresearchclaw/</link>
+      <pubDate>Wed, 18 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-aiming-lab-autoresearchclaw/</guid>
+      <description>Deep dive into the popular GitHub open source project AutoResearchClaw, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>NemoClaw: NVIDIA plugin for secure installation of OpenClaw</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-nvidia-nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-nvidia-nemoclaw/</guid>
+      <description>Deep dive into the popular GitHub open source project NemoClaw, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>Crucix: Your personal intelligence agent. Watches the wor...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-calesthio-crucix/</link>
+      <pubDate>Tue, 17 Mar 2026 20:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-calesthio-crucix/</guid>
+      <description>Deep dive into the popular GitHub open source project Crucix, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>OpenMAIC: Open Multi-Agent Interactive Classroom — Get an...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-thu-maic-openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-thu-maic-openmaic/</guid>
+      <description>Deep dive into the popular GitHub open source project OpenMAIC, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>gstack: Use Garry Tan&#39;s exact Claude Code setup: 10 opini...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-garrytan-gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-garrytan-gstack/</guid>
+      <description>Deep dive into the popular GitHub open source project gstack, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-03-17</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-github-trending/</link>
+      <pubDate>Tue, 17 Mar 2026 15:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-github-trending/</guid>
+      <description>Auto-generated GitHub trending repositories report featuring today&amp;#39;s hottest open source projects</description>
+    </item>
+  </channel>
+</rss>

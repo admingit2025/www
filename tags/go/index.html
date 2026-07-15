@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Go | 科技观察</title>
+<meta name="keywords" content="">
+<meta name="description" content="关注前沿科技发展，分享最新科技突破">
+<meta name="author" content="科技观察团队">
+<link rel="canonical" href="https://www.git.edu.kg/tags/go/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4f6144970a41b47163b87a04278cb7543f87dc25f10f7c02021b6a3dac2e3026.css" integrity="sha256-T2FElwpBtHFjuHoEJ4y3VD&#43;H3CXxD3wCAhtqPawuMCY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.git.edu.kg/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.git.edu.kg/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.git.edu.kg/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.git.edu.kg/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.git.edu.kg/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33"><meta property="og:url" content="https://www.git.edu.kg/tags/go/">
+  <meta property="og:site_name" content="科技观察">
+  <meta property="og:title" content="Go">
+  <meta property="og:description" content="关注前沿科技发展，分享最新科技突破">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+  <meta name="twitter:title" content="Go">
+  <meta name="twitter:description" content="关注前沿科技发展，分享最新科技突破">
+<link rel="alternate" type="application/rss+xml" href="https://www.git.edu.kg/tags/go/index.xml">
+<link rel="alternate" hreflang="zh-cn" href="https://www.git.edu.kg/tags/go/">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+<link rel="alternate" hreflang="x-default" href="https://www.git.edu.kg/" />
+
+
+
+
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4431699228337677"
+  crossorigin="anonymous">
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.git.edu.kg/" accesskey="h" title="科技观察 (Alt + H)">科技观察</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://www.git.edu.kg/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.git.edu.kg/categories/" title="分类">
+                    <span>分类</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Go
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/tastyeffectco/sandboxd" alt="sandboxd">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">sandboxd: Self-hosted dev sandboxes with preview URLs. On...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>sandboxd: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories 本周 GitHub 最热门开源项目深度解析 项目地址: tastyeffectco/sandboxd 生成时间: 2026-06-08 02:06:17
+项目概览 tastyeffectco/sandboxd 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @tastyeffectco 编程语言 Go Star 数 487 ⭐ Fork 数 10 创建时间 2026-06-03 最后更新 2026-06-07 项目简介 Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+Go 语言以高性能、高并发著称，是云原生和后端服务开发的热门选择。
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-08 02:06:17 &#43;0000 UTC">June 8, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to sandboxd: Self-hosted dev sandboxes with preview URLs. On..." href="https://www.git.edu.kg/posts/2026-06-08-tastyeffectco-sandboxd/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/tastyeffectco/sandboxes" alt="sandboxes">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">sandboxes: Self-hosted dev sandboxes with preview URLs. O...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>sandboxes: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perf… Deep dive into this week’s trending GitHub open source project Repository: tastyeffectco/sandboxes Generated: 2026-06-05 06:06:09
+Project Overview tastyeffectco/sandboxes is one of the most popular open source projects on GitHub this week.
+Basic Information Author: @tastyeffectco Language: Go Stars: 369 Forks: 6 Created: 2026-06-03 Last Updated: 2026-06-04 Introduction Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perf…
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-05 06:06:09 &#43;0000 UTC">June 5, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to sandboxes: Self-hosted dev sandboxes with preview URLs. O..." href="https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">SenPaiScanner：轻量级 Cloudflare IP 扫描器，让代理连接不再掉线
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>项目概览 信息 详情 项目 SenPaiScanner 作者 MatinSenPai Stars 597 ⭐ Forks 41 语言 Go 许可证 MIT 最新版本 v0.5.0 创建时间 2026-05-28 项目简介 SenPaiScanner 是一款用 Go 编写的轻量级 Cloudflare IP 扫描器，内置终端 UI（TUI），专为网络延迟不可预测、连接频繁掉线的场景设计。用户只需粘贴 VLESS 或 Trojan 配置，选择参数，即可自动寻找真正可用的 Cloudflare IP——无需记忆任何命令行参数。
+下载资源 源码：GitHub 仓库 最新 Release：v0.5.0 下载 支持平台：Linux (x86_64/ARM64)、macOS (Intel/Apple Silicon)、Windows (x86_64) 核心功能分析 双阶段扫描架构 SenPaiScanner 的工作流程分为两个阶段：
+Phase 1 — 连通性扫描
+从 Cloudflare 官方 IP 段中随机选取候选 IP（或从自定义文件读取） 根据用户配置 URL 自动提取 SNI、Host、WebSocket Path、端口等参数 对每个候选 IP 执行 HTTP/TLS 探测，验证 trace 可达性 对 WebSocket 类型配置，额外检测 TLS 连接是否能抵御 DPI 干扰 支持 1,000 / 5,000 / 20,000 / 自定义数量 IP，50 / 100 / 200 / 自定义并发数 Phase 2 — xray 端到端验证
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-31 00:00:00 &#43;0000 UTC">May 31, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending 深度解析
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to SenPaiScanner：轻量级 Cloudflare IP 扫描器，让代理连接不再掉线" href="https://www.git.edu.kg/posts/2026-05-31-matinsenpai-senpaiscanner/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/perplexityai/bumblebee" alt="bumblebee">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">bumblebee: Read-only developer endpoint scanner for on-dis...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>bumblebee: Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. 本周 GitHub 最热门开源项目深度解析 项目地址: perplexityai/bumblebee 生成时间: 2026-05-26 20:31:51
+项目概览 perplexityai/bumblebee 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @perplexityai 编程语言 Go Star 数 2817 ⭐ Fork 数 218 创建时间 2026-05-20 最后更新 2026-05-26 项目简介 Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-26 20:31:51 &#43;0000 UTC">May 26, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to bumblebee: Read-only developer endpoint scanner for on-dis..." href="https://www.git.edu.kg/posts/2026-05-26-perplexityai-bumblebee/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/perplexityai/bumblebee" alt="bumblebee">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">bumblebee: Read-only developer endpoint scanner for on-dis...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>bumblebee: Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. 本周 GitHub 最热门开源项目深度解析 项目地址: perplexityai/bumblebee 生成时间: 2026-05-25 20:31:30
+项目概览 perplexityai/bumblebee 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @perplexityai 编程语言 Go Star 数 2380 ⭐ Fork 数 188 创建时间 2026-05-20 最后更新 2026-05-25 项目简介 Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-25 20:31:30 &#43;0000 UTC">May 25, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to bumblebee: Read-only developer endpoint scanner for on-dis..." href="https://www.git.edu.kg/posts/2026-05-25-perplexityai-bumblebee/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/perplexityai/bumblebee" alt="bumblebee">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">bumblebee: Read-only developer endpoint scanner for on-dis...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>bumblebee: Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. 本周 GitHub 最热门开源项目深度解析 项目地址: perplexityai/bumblebee 生成时间: 2026-05-24 20:31:31
+项目概览 perplexityai/bumblebee 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @perplexityai 编程语言 Go Star 数 1794 ⭐ Fork 数 131 创建时间 2026-05-20 最后更新 2026-05-24 项目简介 Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-24 20:31:31 &#43;0000 UTC">May 24, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to bumblebee: Read-only developer endpoint scanner for on-dis..." href="https://www.git.edu.kg/posts/2026-05-24-perplexityai-bumblebee/"></a>
+</article>
+<div class="list-ads">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-4431699228337677"
+       data-ad-slot="2848079138"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/larksuite/cli" alt="cli">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">cli: The official Lark/Feishu CLI tool, maintained b...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>cli: The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 19 AI Agent Skills. 本周 GitHub 最热门开源项目深度解析 项目地址: larksuite/cli 生成时间: 2026-03-31 14:31:33
+项目概览 larksuite/cli 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @larksuite 编程语言 Go Star 数 5007 ⭐ Fork 数 239 创建时间 2026-03-25 最后更新 2026-03-31 项目简介 The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 19 AI Agent Skills.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-03-31 14:31:33 &#43;0000 UTC">March 31, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to cli: The official Lark/Feishu CLI tool, maintained b..." href="https://www.git.edu.kg/posts/2026-03-31-larksuite-cli/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/larksuite%2Fcli" alt="cli">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">cli: A command-line tool for Lark/Feishu Open Platform — built...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>cli: A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200&#43; commands and 19 AI Agent Skills. Deep dive into this week’s trending GitHub open source project Repository: larksuite/cli Generated: 2026-03-30 20:31:29
+Project Overview larksuite/cli is one of the most talked-about open source projects on GitHub this week.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-03-30 20:31:29 &#43;0000 UTC">March 30, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to cli: A command-line tool for Lark/Feishu Open Platform — built..." href="https://www.git.edu.kg/posts/2026-03-30-larksuite-cli/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="https://www.git.edu.kg/">科技观察</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+    <div class="footer-stats">
+        
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+ 
+    </div>
+</footer> </body>
+
+</html>

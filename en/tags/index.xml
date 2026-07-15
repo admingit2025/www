@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/tags/</link>
+    <description>Recent content in Tags on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2026 11:28:27 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://www.git.edu.kg/en/tags/ai/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum-Computing</title>
+      <link>https://www.git.edu.kg/en/tags/quantum-computing/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>https://www.git.edu.kg/en/tags/space/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech-News</title>
+      <link>https://www.git.edu.kg/en/tags/tech-news/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/tech-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trending</title>
+      <link>https://www.git.edu.kg/en/tags/trending/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/trending/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twitter</title>
+      <link>https://www.git.edu.kg/en/tags/twitter/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/twitter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>X</title>
+      <link>https://www.git.edu.kg/en/tags/x/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://www.git.edu.kg/en/tags/github/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Source</title>
+      <link>https://www.git.edu.kg/en/tags/open-source/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>https://www.git.edu.kg/en/tags/skills/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech-Analysis</title>
+      <link>https://www.git.edu.kg/en/tags/tech-analysis/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/tech-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clui-Cc</title>
+      <link>https://www.git.edu.kg/en/tags/clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/clui-cc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TypeScript</title>
+      <link>https://www.git.edu.kg/en/tags/typescript/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codex-Manager</title>
+      <link>https://www.git.edu.kg/en/tags/codex-manager/</link>
+      <pubDate>Fri, 20 Mar 2026 02:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/codex-manager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://www.git.edu.kg/en/tags/python/</link>
+      <pubDate>Fri, 20 Mar 2026 02:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codex-Register</title>
+      <link>https://www.git.edu.kg/en/tags/codex-register/</link>
+      <pubDate>Thu, 19 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/codex-register/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awesome-Codex-Subagents</title>
+      <link>https://www.git.edu.kg/en/tags/awesome-codex-subagents/</link>
+      <pubDate>Thu, 19 Mar 2026 14:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/awesome-codex-subagents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://www.git.edu.kg/en/tags/html/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jobs</title>
+      <link>https://www.git.edu.kg/en/tags/jobs/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autoresearch</title>
+      <link>https://www.git.edu.kg/en/tags/autoresearch/</link>
+      <pubDate>Thu, 19 Mar 2026 07:59:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/autoresearch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>https://www.git.edu.kg/en/tags/shell/</link>
+      <pubDate>Thu, 19 Mar 2026 07:59:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opencli</title>
+      <link>https://www.git.edu.kg/en/tags/opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/opencli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inkos</title>
+      <link>https://www.git.edu.kg/en/tags/inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/inkos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Attention-Residuals</title>
+      <link>https://www.git.edu.kg/en/tags/attention-residuals/</link>
+      <pubDate>Wed, 18 Mar 2026 19:20:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/attention-residuals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chrome-Cdp-Skill</title>
+      <link>https://www.git.edu.kg/en/tags/chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/chrome-cdp-skill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://www.git.edu.kg/en/tags/javascript/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recordly</title>
+      <link>https://www.git.edu.kg/en/tags/recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/recordly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AutoResearchClaw</title>
+      <link>https://www.git.edu.kg/en/tags/autoresearchclaw/</link>
+      <pubDate>Wed, 18 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/autoresearchclaw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NemoClaw</title>
+      <link>https://www.git.edu.kg/en/tags/nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/nemoclaw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crucix</title>
+      <link>https://www.git.edu.kg/en/tags/crucix/</link>
+      <pubDate>Tue, 17 Mar 2026 20:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/crucix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenMAIC</title>
+      <link>https://www.git.edu.kg/en/tags/openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/openmaic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gstack</title>
+      <link>https://www.git.edu.kg/en/tags/gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/gstack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Repositories</title>
+      <link>https://www.git.edu.kg/en/tags/repositories/</link>
+      <pubDate>Tue, 17 Mar 2026 15:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/repositories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Agents</title>
+      <link>https://www.git.edu.kg/en/tags/ai-agents/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/ai-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Coding</title>
+      <link>https://www.git.edu.kg/en/tags/ai-coding/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/ai-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude Code</title>
+      <link>https://www.git.edu.kg/en/tags/claude-code/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/claude-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Productivity</title>
+      <link>https://www.git.edu.kg/en/tags/developer-productivity/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/developer-productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Agent Systems</title>
+      <link>https://www.git.edu.kg/en/tags/multi-agent-systems/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/multi-agent-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Agency</title>
+      <link>https://www.git.edu.kg/en/tags/the-agency/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/the-agency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Y Combinator</title>
+      <link>https://www.git.edu.kg/en/tags/y-combinator/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/y-combinator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AutoAgent</title>
+      <link>https://www.git.edu.kg/en/tags/autoagent/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/autoagent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automated Trading</title>
+      <link>https://www.git.edu.kg/en/tags/automated-trading/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/automated-trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goofish</title>
+      <link>https://www.git.edu.kg/en/tags/goofish/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/goofish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robot</title>
+      <link>https://www.git.edu.kg/en/tags/robot/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/robot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Management</title>
+      <link>https://www.git.edu.kg/en/tags/web-management/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/web-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XianYu</title>
+      <link>https://www.git.edu.kg/en/tags/xianyu/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/xianyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Programming</title>
+      <link>https://www.git.edu.kg/en/tags/ai-programming/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/ai-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cursor</title>
+      <link>https://www.git.edu.kg/en/tags/cursor/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/cursor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development Tools</title>
+      <link>https://www.git.edu.kg/en/tags/development-tools/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/development-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDE</title>
+      <link>https://www.git.edu.kg/en/tags/ide/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/ide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Registration Tool</title>
+      <link>https://www.git.edu.kg/en/tags/registration-tool/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/registration-tool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Release</title>
+      <link>https://www.git.edu.kg/en/tags/software-release/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/tags/software-release/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cursor on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/cursor/</link>
+    <description>Recent content in Cursor on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/cursor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor Reg 1.0 发布公告</title>
+      <link>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</guid>
+      <description>Cursor Reg 1.0 工具发布公告，一款注重安全性、易用性和稳定性的 Cursor 注册工具。本文详细介绍了工具的特性、安装使用方法及未来规划。</description>
+    </item>
+    <item>
+      <title>Cursor IDE 2024深度评测：AI驱动的开发利器还是昙花一现？</title>
+      <link>https://www.git.edu.kg/posts/cursor-ide-review-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/cursor-ide-review-2024/</guid>
+      <description>深入分析 Cursor IDE 的优缺点、使用体验及未来发展前景，帮助开发者做出选择。</description>
+    </item>
+  </channel>
+</rss>

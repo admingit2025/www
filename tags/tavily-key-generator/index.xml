@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tavily-Key-Generator on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/tavily-key-generator/</link>
+    <description>Recent content in Tavily-Key-Generator on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 19 Mar 2026 08:20:17 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/tavily-key-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tavily-key-generator: Multi-service toolkit for Tavily an...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</link>
+      <pubDate>Thu, 19 Mar 2026 08:20:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</guid>
+      <description>Deep dive into popular GitHub open source project tavily-key-generator</description>
+    </item>
+  </channel>
+</rss>

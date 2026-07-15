@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Duel-Agents on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/duel-agents/</link>
+    <description>Recent content in Duel-Agents on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2026 16:05:26 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/duel-agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</link>
+      <pubDate>Sun, 31 May 2026 16:05:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Duel-Agents，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xiaohu-Video-Translate on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/xiaohu-video-translate/</link>
+    <description>Recent content in Xiaohu-Video-Translate on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 14:31:45 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/xiaohu-video-translate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xiaohu-video-translate: 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-xiaohuailabs-xiaohu-video-translate/</link>
+      <pubDate>Wed, 10 Jun 2026 14:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-xiaohuailabs-xiaohu-video-translate/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 xiaohu-video-translate，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

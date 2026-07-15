@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>JavaScript | 科技观察</title>
+<meta name="keywords" content="">
+<meta name="description" content="关注前沿科技发展，分享最新科技突破">
+<meta name="author" content="科技观察团队">
+<link rel="canonical" href="https://www.git.edu.kg/tags/javascript/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4f6144970a41b47163b87a04278cb7543f87dc25f10f7c02021b6a3dac2e3026.css" integrity="sha256-T2FElwpBtHFjuHoEJ4y3VD&#43;H3CXxD3wCAhtqPawuMCY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.git.edu.kg/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.git.edu.kg/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.git.edu.kg/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.git.edu.kg/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.git.edu.kg/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33"><meta property="og:url" content="https://www.git.edu.kg/tags/javascript/">
+  <meta property="og:site_name" content="科技观察">
+  <meta property="og:title" content="JavaScript">
+  <meta property="og:description" content="关注前沿科技发展，分享最新科技突破">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+  <meta name="twitter:title" content="JavaScript">
+  <meta name="twitter:description" content="关注前沿科技发展，分享最新科技突破">
+<link rel="alternate" type="application/rss+xml" href="https://www.git.edu.kg/tags/javascript/index.xml">
+<link rel="alternate" hreflang="zh-cn" href="https://www.git.edu.kg/tags/javascript/">
+<link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/tags/javascript/">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/tags/javascript/" />
+
+<link rel="alternate" hreflang="x-default" href="https://www.git.edu.kg/" />
+
+
+
+
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4431699228337677"
+  crossorigin="anonymous">
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.git.edu.kg/" accesskey="h" title="科技观察 (Alt + H)">科技观察</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://www.git.edu.kg/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.git.edu.kg/categories/" title="分类">
+                    <span>分类</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    JavaScript
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/JimLiu/baoyu-design" alt="baoyu-design">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">baoyu-design: Run Claude Design locally as an Agent Skill — C...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claude Code &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8. 本周 GitHub 最热门开源项目深度解析 项目地址: JimLiu/baoyu-design 生成时间: 2026-06-08 14:31:30
+项目概览 JimLiu/baoyu-design 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @JimLiu 编程语言 JavaScript Star 数 376 ⭐ Fork 数 23 创建时间 2026-06-07 最后更新 2026-06-08 项目简介 Run Claude Design locally as an Agent Skill — Cursor, Claude Code &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-08 14:31:30 &#43;0000 UTC">June 8, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to baoyu-design: Run Claude Design locally as an Agent Skill — C..." href="https://www.git.edu.kg/posts/2026-06-08-jimliu-baoyu-design/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/nevertoday/zhongguo-traditional-colors" alt="zhongguo-traditional-colors">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目 本周 GitHub 最热门开源项目深度解析 项目地址: nevertoday/zhongguo-traditional-colors 生成时间: 2026-06-08 02:31:28
+项目概览 nevertoday/zhongguo-traditional-colors 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @nevertoday 编程语言 JavaScript Star 数 319 ⭐ Fork 数 41 创建时间 2026-06-03 最后更新 2026-06-07 项目简介 中华传统色演示、色卡浏览与颜色知识科普开源项目
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，zhongguo-traditional-colors 的主要特点包括：
+高关注度：319 个 Star，说明开发者社区对此项目高度认可 活跃开发：41 个 Fork，社区参与度高 快速成长：自 2026-06-03 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 zhongguo-traditional-colors 基于 JavaScript 技术栈构建：
+编程语言：JavaScript 项目规模：319 个 Star，获得广泛认可 社区活跃度：41 个 Fork，开发者积极参与 README 原文摘要 # 中国传统配色如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以下载 ZIP，把它当作自己的传统色素材库。## 快速入口- [在线浏览色卡](https://nevertoday.github.io/zhongguo-traditional-colors/)- [下载全部高清图片 ZIP](https://github.com/nevertoday/zhongguo-traditional-colors/releases/latest/download/zhongguo-traditional-colors-images.zip)- [完整图片包 Release 下载](https://github.com/nevertoday/zhongguo-traditional-colors/releases/tag/v0.1.0)- [原始 742 色清单](docs/chinese-color-master-list.md)- [作者 X 主页](https://x.com/xiaoxiaodong01)## 这个项目能帮你什么| 你需要 | 这里提供 || --- | --- || 快速找中国色参考 | 742 张高清 PNG 色卡 || 做设计和内容配图 | 可直接点击下载原图 || 搭建色彩资料库 | 文件名与 742 色清单一一对应 || 做网页、PPT、海报、课程素材 | README 全量预览，ZIP 一次下载 || 校对色名和色值 | 色名、HEX、RGB、CMYK 集中整理 |原图约 998 MB。ZIP 文件作为 GitHub Release 附件提供，不直接提交进仓库。## 全部色卡下面是完整 742 色预览，点击任意一张可以打开高清 PNG 原图。&lt;!-- gallery:start --&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;images/001-乳白.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-001.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 001-乳白&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/002-杏仁黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-002.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 002-杏仁黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/003-茉莉黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-003.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 003-茉莉黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/004-麦秆黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-004.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 004-麦秆黄&#34;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;images/005-油菜花黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-005.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 005-油菜花黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/006-佛手黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-006.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 006-佛手黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/007-篾黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-007.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 007-篾黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/008-葵扇黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-008.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 008-葵扇黄&#34;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;images/009-柠檬黄.png&#34;&gt;&lt;img src=&#34;thumbnails/color-card-009.jpg&#34; width=&#34;180&#34; alt=&#34;中国传统色 009-柠檬黄&#34;&gt;&lt;/a&gt;&lt;a href=&#34;images/010-金瓜黄.png&#34;&gt;&lt;img 最近更新记录 2026-06-07: Add remembered color copy formats 2026-06-07: Tighten dark hover and support section 2026-06-07: Improve archive interactions and layout 2026-06-07: Make open section user-focused 2026-06-07: Center the support panel layout 适用场景 zhongguo-traditional-colors 适合以下用户：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-08 02:31:28 &#43;0000 UTC">June 8, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目" href="https://www.git.edu.kg/posts/2026-06-08-nevertoday-zhongguo-traditional-colors/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/BlackCandleLab/polymarket-trading-bot" alt="polymarket-trading-bot">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">polymarket-trading-bot: polymarket trading bot, polymarket trading bot,...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>polymarket-trading-bot: polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, 本周 GitHub 最热门开源项目深度解析 项目地址: BlackCandleLab/polymarket-trading-bot 生成时间: 2026-06-01 11:05:33
+项目概览 BlackCandleLab/polymarket-trading-bot 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @BlackCandleLab 编程语言 JavaScript Star 数 384 ⭐ Fork 数 1821 创建时间 2026-05-28 最后更新 2026-06-01 项目简介 polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-01 11:05:33 &#43;0000 UTC">June 1, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to polymarket-trading-bot: polymarket trading bot, polymarket trading bot,..." href="https://www.git.edu.kg/posts/2026-06-01-blackcandlelab-polymarket-trading-bot/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/pewdiepie-archdaemon/odysseus" alt="odysseus">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">odysseus: Self-hosted AI workspace. 
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>odysseus: Self-hosted AI workspace. 本周 GitHub 最热门开源项目深度解析 项目地址: pewdiepie-archdaemon/odysseus 生成时间: 2026-06-01 02:31:45
+项目概览 pewdiepie-archdaemon/odysseus 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @pewdiepie-archdaemon 编程语言 JavaScript Star 数 3289 ⭐ Fork 数 473 创建时间 2026-05-31 最后更新 2026-05-31 项目简介 Self-hosted AI workspace.
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，odysseus 的主要特点包括：
+高关注度：3289 个 Star，说明开发者社区对此项目高度认可 活跃开发：473 个 Fork，社区参与度高 快速成长：自 2026-05-31 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 odysseus 基于 JavaScript 技术栈构建：
+编程语言：JavaScript 项目规模：3289 个 Star，获得广泛认可 社区活跃度：473 个 Fork，开发者积极参与 README 原文摘要 # Odysseus───────────────────────────────────────────────⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ Odysseus vers. 1.0───────────────────────────────────────────────![Odysseus](docs/odysseus.jpg)A self-hosted AI workspace -- meant to be the self-hosted version of the UI experience you get from ChatGPT and Claude. But with more jank and fun. Running on your own hardware, with your own data -- local-first, privacy-first, and no trojan.## Features- **Chat** -- chat with any local model or API; adding them is super simple.&lt;br&gt;　&lt;sub&gt;vLLM · llama.cpp · Ollama · OpenRouter · OpenAI&lt;/sub&gt;- **Agent** -- hand it tools and let it run the whole task itself.&lt;br&gt;　&lt;sub&gt;built on [opencode](https://github.com/anomalyco/opencode) · MCP · web · files · shell · skills · memory&lt;/sub&gt;- **Cookbook** -- Scans your hardware, recommends models, click to download and serve.. easy!&lt;br&gt;　&lt;sub&gt;built on [llmfit](https://github.com/AlexsJones/llmfit) · VRAM-aware · GGUF / FP8 / AWQ · fit scoring · vLLM / llama.cpp serving&lt;/sub&gt;- **Deep Research** -- multi-step runs that gather, read, and synthesize sources into a nice visual report.&lt;br&gt;　&lt;sub&gt;adapted from [Tongyi DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)&lt;/sub&gt;- **Compare** -- a fun tool to compare models side by side. Test completely blind, no bias!&lt;br&gt;　&lt;sub&gt;multi-model · blind test · synthesis&lt;/sub&gt;- **Documents** -- YOU write the text, AI is there to assist, not the opposite.&lt;br&gt;　&lt;sub&gt;multi-tab editor · markdown · HTML · CSV · syntax highlighting · AI edits · suggestions&lt;/sub&gt;- **Memory / Skills** -- Persistent memory and skills, your agent evolves over time as it better understands you and your tasks!&lt;br&gt;　&lt;sub&gt;ChromaDB · fastembed (ONNX) · vector &#43; keyword retrieval · import/export&lt;/sub&gt;- **Email** -- IMAP/SMTP inbox with AI triage built in: urgency reminders, auto-tag, auto-summary, auto-reply drafts, auto-spam.&lt;br&gt;　&lt;sub&gt;IMAP · SMTP · per-account routing · CalDAV-aware&lt;/sub&gt;- **Notes &amp; Tasks** -- Quick notes with 最近更新记录 暂无提交记录 适用场景 odysseus 适合以下用户：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-06-01 02:31:45 &#43;0000 UTC">June 1, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to odysseus: Self-hosted AI workspace. " href="https://www.git.edu.kg/posts/2026-06-01-pewdiepie-archdaemon-odysseus/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/withkynam/vibecode-pro-max-kit" alt="vibecode-pro-max-kit">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven co...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp; Codex. Any stack. 30 seconds 本周 GitHub 最热门开源项目深度解析 项目地址: withkynam/vibecode-pro-max-kit 生成时间: 2026-05-31 08:31:36
+项目概览 withkynam/vibecode-pro-max-kit 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @withkynam 编程语言 JavaScript Star 数 589 ⭐ Fork 数 146 创建时间 2026-05-27 最后更新 2026-05-31 项目简介 Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp; Codex. Any stack. 30 seconds
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-31 08:31:36 &#43;0000 UTC">May 31, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven co..." href="https://www.git.edu.kg/posts/2026-05-31-withkynam-vibecode-pro-max-kit/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/open-gsd/get-shit-done-redux" alt="get-shit-done-redux">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">get-shit-done-redux: Getting Shit Done, the Aftermath
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>get-shit-done-redux: Getting Shit Done, the Aftermath 本周 GitHub 最热门开源项目深度解析 项目地址: open-gsd/get-shit-done-redux 生成时间: 2026-05-28 20:31:45
+项目概览 open-gsd/get-shit-done-redux 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @open-gsd 编程语言 JavaScript Star 数 1463 ⭐ Fork 数 84 创建时间 2026-05-22 最后更新 2026-05-28 项目简介 Getting Shit Done, the Aftermath
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，get-shit-done-redux 的主要特点包括：
+高关注度：1463 个 Star，说明开发者社区对此项目高度认可 活跃开发：84 个 Fork，社区参与度高 快速成长：自 2026-05-22 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 get-shit-done-redux 基于 JavaScript 技术栈构建：
+编程语言：JavaScript 项目规模：1463 个 Star，获得广泛认可 社区活跃度：84 个 Fork，开发者积极参与 README 原文摘要 最近更新记录 适用场景 get-shit-done-redux 适合以下用户：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-28 20:31:45 &#43;0000 UTC">May 28, 2026</span>
+&nbsp;·&nbsp;1&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to get-shit-done-redux: Getting Shit Done, the Aftermath" href="https://www.git.edu.kg/posts/2026-05-28-open-gsd-get-shit-done-redux/"></a>
+</article>
+<div class="list-ads">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-4431699228337677"
+       data-ad-slot="2848079138"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/open-gsd/get-shit-done-redux" alt="get-shit-done-redux">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">get-shit-done-redux: Getting Shit Done, the Aftermath
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>get-shit-done-redux: Getting Shit Done, the Aftermath 本周 GitHub 最热门开源项目深度解析 项目地址: open-gsd/get-shit-done-redux 生成时间: 2026-05-27 20:31:42
+项目概览 open-gsd/get-shit-done-redux 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @open-gsd 编程语言 JavaScript Star 数 1229 ⭐ Fork 数 72 创建时间 2026-05-22 最后更新 2026-05-27 项目简介 Getting Shit Done, the Aftermath
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，get-shit-done-redux 的主要特点包括：
+高关注度：1229 个 Star，说明开发者社区对此项目高度认可 活跃开发：72 个 Fork，社区参与度高 快速成长：自 2026-05-22 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 get-shit-done-redux 基于 JavaScript 技术栈构建：
+编程语言：JavaScript 项目规模：1229 个 Star，获得广泛认可 社区活跃度：72 个 Fork，开发者积极参与 README 原文摘要 最近更新记录 适用场景 get-shit-done-redux 适合以下用户：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-27 20:31:42 &#43;0000 UTC">May 27, 2026</span>
+&nbsp;·&nbsp;1&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to get-shit-done-redux: Getting Shit Done, the Aftermath" href="https://www.git.edu.kg/posts/2026-05-27-open-gsd-get-shit-done-redux/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/Doorman11991/smallcode" alt="smallcode">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">smallcode: AI coding agent optimized for small LLMs. 87% b...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>smallcode: AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. 本周 GitHub 最热门开源项目深度解析 项目地址: Doorman11991/smallcode 生成时间: 2026-05-24 08:31:47
+项目概览 Doorman11991/smallcode 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @Doorman11991 编程语言 JavaScript Star 数 1313 ⭐ Fork 数 95 创建时间 2026-05-18 最后更新 2026-05-24 项目简介 AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，smallcode 的主要特点包括：
+高关注度：1313 个 Star，说明开发者社区对此项目高度认可 活跃开发：95 个 Fork，社区参与度高 快速成长：自 2026-05-18 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 smallcode 基于 JavaScript 技术栈构建：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-24 08:31:47 &#43;0000 UTC">May 24, 2026</span>
+&nbsp;·&nbsp;1&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to smallcode: AI coding agent optimized for small LLMs. 87% b..." href="https://www.git.edu.kg/posts/2026-05-24-doorman11991-smallcode/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/Doorman11991/smallcode" alt="smallcode">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">smallcode: AI coding agent optimized for small LLMs. 87% b...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>smallcode: AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. 本周 GitHub 最热门开源项目深度解析 项目地址: Doorman11991/smallcode 生成时间: 2026-05-23 20:31:33
+项目概览 Doorman11991/smallcode 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @Doorman11991 编程语言 JavaScript Star 数 1256 ⭐ Fork 数 91 创建时间 2026-05-18 最后更新 2026-05-23 项目简介 AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，smallcode 的主要特点包括：
+高关注度：1256 个 Star，说明开发者社区对此项目高度认可 活跃开发：91 个 Fork，社区参与度高 快速成长：自 2026-05-18 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 smallcode 基于 JavaScript 技术栈构建：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-23 20:31:33 &#43;0000 UTC">May 23, 2026</span>
+&nbsp;·&nbsp;1&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to smallcode: AI coding agent optimized for small LLMs. 87% b..." href="https://www.git.edu.kg/posts/2026-05-23-doorman11991-smallcode/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://opengraph.githubassets.com/1/Doorman11991/smallcode" alt="smallcode">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">smallcode: AI coding agent optimized for small LLMs. 87% b...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>smallcode: AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. 本周 GitHub 最热门开源项目深度解析 项目地址: Doorman11991/smallcode 生成时间: 2026-05-22 20:31:35
+项目概览 Doorman11991/smallcode 是本周 GitHub 上最受关注的开源项目之一，在短时间内积累了大量关注。
+基本信息 指标 数据 作者 @Doorman11991 编程语言 JavaScript Star 数 1166 ⭐ Fork 数 83 创建时间 2026-05-18 最后更新 2026-05-22 项目简介 AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+JavaScript 是 Web 开发的核心语言，支持前后端全栈开发，生态极为丰富。
+核心特性 根据项目 README 分析，smallcode 的主要特点包括：
+高关注度：1166 个 Star，说明开发者社区对此项目高度认可 活跃开发：83 个 Fork，社区参与度高 快速成长：自 2026-05-18 创建以来持续获得关注 开源免费：完全开源，可自由使用和二次开发 技术架构 smallcode 基于 JavaScript 技术栈构建：
+...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-05-22 20:31:35 &#43;0000 UTC">May 22, 2026</span>
+&nbsp;·&nbsp;3&nbsp;min&nbsp;·&nbsp;GitHub Trending Bot
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to smallcode: AI coding agent optimized for small LLMs. 87% b..." href="https://www.git.edu.kg/posts/2026-05-22-doorman11991-smallcode/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://www.git.edu.kg/tags/javascript/page/2/">&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="https://www.git.edu.kg/">科技观察</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+    <div class="footer-stats">
+        
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+ 
+    </div>
+</footer> </body>
+
+</html>

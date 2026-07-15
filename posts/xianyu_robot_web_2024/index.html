@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>XianYu机器人Web管理系统：简化自动化交易的部署与管理 | 科技观察</title>
+<meta name="keywords" content="XianYu, 自动化交易, Web管理, 机器人, 闲鱼, 人工智能, AutoAgent, 交易机器人, 自动化工具, 远程管理">
+<meta name="description" content="XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。">
+<meta name="author" content="技术团队">
+<link rel="canonical" href="https://www.git.edu.kg/posts/xianyu_robot_web_2024/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4f6144970a41b47163b87a04278cb7543f87dc25f10f7c02021b6a3dac2e3026.css" integrity="sha256-T2FElwpBtHFjuHoEJ4y3VD&#43;H3CXxD3wCAhtqPawuMCY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.git.edu.kg/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.git.edu.kg/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.git.edu.kg/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.git.edu.kg/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.git.edu.kg/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33"><meta property="og:url" content="https://www.git.edu.kg/posts/xianyu_robot_web_2024/">
+  <meta property="og:site_name" content="科技观察">
+  <meta property="og:title" content="XianYu机器人Web管理系统：简化自动化交易的部署与管理">
+  <meta property="og:description" content="XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-07-08T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-07-08T00:00:00+00:00">
+    <meta property="article:tag" content="XianYu">
+    <meta property="article:tag" content="自动化交易">
+    <meta property="article:tag" content="Web管理">
+    <meta property="article:tag" content="机器人">
+    <meta property="article:tag" content="闲鱼">
+    <meta property="article:tag" content="人工智能">
+    <meta property="og:image" content="https://www.git.edu.kg/images/goofish_bot_web_1.0/login.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.git.edu.kg/images/goofish_bot_web_1.0/login.png">
+  <meta name="twitter:title" content="XianYu机器人Web管理系统：简化自动化交易的部署与管理">
+  <meta name="twitter:description" content="XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://www.git.edu.kg/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "XianYu机器人Web管理系统：简化自动化交易的部署与管理",
+      "item": "https://www.git.edu.kg/posts/xianyu_robot_web_2024/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "XianYu机器人Web管理系统：简化自动化交易的部署与管理",
+  "name": "XianYu机器人Web管理系统：简化自动化交易的部署与管理",
+  "description": "XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。",
+  "keywords": [
+    "XianYu", "自动化交易", "Web管理", "机器人", "闲鱼", "人工智能", "AutoAgent", "交易机器人", "自动化工具", "远程管理"
+  ],
+  "articleBody": "\rXianYu机器人Web管理系统：简化自动化交易的部署与管理 最后更新: 2025-07-08 | 阅读时间: 约10分钟 | 分类: [软件工具](/categories/软件工具)\rXianYu机器人Web管理系统是一款专门设计用于管理XianyuAutoAgent机器人的Web界面工具。该系统的主要目标是简化token提取过程，提供直观的Web界面，使机器人管理变得简单高效。本文将详细介绍该系统的安装、配置和使用方法。\n1. 系统特点与优势 图1: XianYu机器人Web管理系统登录界面\r图形化Web界面，操作简单直观 自动化token管理，无需手动提取 远程管理功能，随时随地操控机器人 安全的用户认证系统 灵活的配置选项 2. 安装配置指南 系统的安装过程非常简单，只需几个步骤即可完成：\n下载项目代码： 1 2 git clone https://github.com/admingit2025/goofishbot-web.git cd goofishbot-web 确保使用最新版本的XianyuAutoAgent（已预置） 安装依赖包： 1 pip install -r requirement.txt 启动系统： 1 python run2.py 3. 使用说明 基本操作流程 访问系统：\n打开浏览器，访问 http://localhost:5000 默认登录凭据：用户名 admin，密码 admin 启动步骤：\n图2: 启动登录按钮\r点击\"启动登录\"按钮 等待登录成功提示, 登录成功后，登录进程自动退出 图3: 启动机器人界面\r点击\"启动机器人\"开始运行 高级配置 如需修改系统配置，可以编辑 /config/settings.py 文件：\n修改登录密码 更改服务端口 调整其他系统参数 4. 常见问题与解决方案 图4: 系统主页界面\r为了帮助用户更好地使用系统，我们提供了常见问题解答：\nQ: 如何修改默认端口？ A: 在 /config/settings.py 中修改端口配置\nQ: 忘记密码怎么办？ A: 可以直接修改配置文件中的密码设置\nQ: 遇到问题如何获取帮助？ A: 可以在项目页面留言，我们会及时处理和回复\n未来展望 我们将持续改进和优化XianYu机器人Web管理系统，计划添加更多功能：\n数据统计和分析 更丰富的可视化界面 多机器人协同管理 自动化策略配置 技术支持 如果您在使用过程中遇到任何问题，请通过以下方式获取支持：\n在项目页面提交Issue 查看在线文档 联系技术支持团队 参考资源 XianyuAutoAgent官方文档 Python Web开发最佳实践 Flask框架文档 Web安全指南 相关文章\r自动化工具对比：XianYu机器人vs其他解决方案\rWeb自动化最佳实践指南\rToken管理完全指南\r",
+  "wordCount" : "912",
+  "inLanguage": "zh-cn",
+  "image":"https://www.git.edu.kg/images/goofish_bot_web_1.0/login.png","datePublished": "2025-07-08T00:00:00Z",
+  "dateModified": "2025-07-08T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "技术团队"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.git.edu.kg/posts/xianyu_robot_web_2024/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "科技观察",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.git.edu.kg/favicon.ico"
+    }
+  }
+}
+</script><link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/posts/xianyu_robot_web_2024/">
+<link rel="alternate" hreflang="zh-cn" href="https://www.git.edu.kg/posts/xianyu_robot_web_2024/">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/posts/xianyu_robot_web_2024/" />
+
+<link rel="alternate" hreflang="x-default" href="https://www.git.edu.kg/" />
+
+
+
+
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4431699228337677"
+  crossorigin="anonymous">
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.git.edu.kg/" accesskey="h" title="科技观察 (Alt + H)">科技观察</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://www.git.edu.kg/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.git.edu.kg/categories/" title="分类">
+                    <span>分类</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://www.git.edu.kg/">Home</a>&nbsp;»&nbsp;<a href="https://www.git.edu.kg/posts/">Posts</a></div>
+    <h1 class="post-title entry-hint-parent">
+      XianYu机器人Web管理系统：简化自动化交易的部署与管理
+    </h1>
+    <div class="post-description">
+      XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。
+    </div>
+    <div class="post-meta">
+<span title="2025-07-08 00:00:00 &#43;0000 UTC">July 8, 2025</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;技术团队
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  &nbsp;|&nbsp;Translations:
+<ul class="i18n_list">
+    <li>
+        <a href="https://www.git.edu.kg/en/posts/xianyu_robot_web_2024/">En</a>
+    </li>
+</ul>
+
+</div>
+  </header> 
+
+  <div class="post-ads post-ads--top">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-4431699228337677"
+         data-ad-slot="2848079138"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  <div class="post-content"><article aria-label="XianYu机器人Web管理系统介绍文章">
+<h1 id="introduction">XianYu机器人Web管理系统：简化自动化交易的部署与管理<a hidden class="anchor" aria-hidden="true" href="#introduction">#</a></h1>
+<div class="article-meta" aria-label="文章元信息">
+最后更新: 2025-07-08 | 阅读时间: 约10分钟 | 分类: [软件工具](/categories/软件工具)
+</div>
+<p>XianYu机器人Web管理系统是一款专门设计用于管理XianyuAutoAgent机器人的Web界面工具。该系统的主要目标是简化token提取过程，提供直观的Web界面，使机器人管理变得简单高效。本文将详细介绍该系统的安装、配置和使用方法。</p>
+<h2 id="features">1. 系统特点与优势<a hidden class="anchor" aria-hidden="true" href="#features">#</a></h2>
+<figure role="group" aria-label="系统登录界面">
+    <img src="/images/goofish_bot_web_1.0/login.png" 
+         alt="XianYu机器人Web管理系统登录界面，展示了简洁的登录表单和现代化的设计风格" 
+         width="800" 
+         height="450"
+         loading="lazy">
+    <figcaption>图1: XianYu机器人Web管理系统登录界面</figcaption>
+</figure>
+<ul>
+<li>图形化Web界面，操作简单直观</li>
+<li>自动化token管理，无需手动提取</li>
+<li>远程管理功能，随时随地操控机器人</li>
+<li>安全的用户认证系统</li>
+<li>灵活的配置选项</li>
+</ul>
+<h2 id="installation">2. 安装配置指南<a hidden class="anchor" aria-hidden="true" href="#installation">#</a></h2>
+<div class="installation-guide" role="region" aria-label="安装步骤说明">
+<p>系统的安装过程非常简单，只需几个步骤即可完成：</p>
+<ol>
+<li>下载项目代码：
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone https://github.com/admingit2025/goofishbot-web.git
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> goofishbot-web
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+<li>确保使用最新版本的XianyuAutoAgent（已预置）</li>
+<li>安装依赖包：
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pip install -r requirement.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+<li>启动系统：
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">python run2.py
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ol>
+</div>
+<h2 id="usage-guide">3. 使用说明<a hidden class="anchor" aria-hidden="true" href="#usage-guide">#</a></h2>
+<h3 id="basic-operations">基本操作流程<a hidden class="anchor" aria-hidden="true" href="#basic-operations">#</a></h3>
+<div class="operation-steps" role="region" aria-label="基本操作步骤">
+<ol>
+<li>
+<p>访问系统：</p>
+<ul>
+<li>打开浏览器，访问 <a href="http://localhost:5000" aria-label="访问本地系统地址">http://localhost:5000</a></li>
+<li>默认登录凭据：用户名 <code>admin</code>，密码 <code>admin</code></li>
+</ul>
+</li>
+<li>
+<p>启动步骤：</p>
+<figure role="group" aria-label="启动登录按钮展示">
+    <img src="/images/goofish_bot_web_1.0/startxy.png" 
+         alt="系统启动登录按钮界面，显示绿色启动按钮" 
+         width="400" 
+         height="200"
+         loading="lazy">
+    <figcaption>图2: 启动登录按钮</figcaption>
+</figure>
+<ul>
+<li>点击&quot;启动登录&quot;按钮</li>
+<li>等待登录成功提示, 登录成功后，登录进程自动退出</li>
+</ul>
+<figure role="group" aria-label="启动机器人界面">
+    <img src="/images/goofish_bot_web_1.0/startbot.png" 
+         alt="机器人启动界面，展示启动状态和控制按钮" 
+         width="600" 
+         height="300"
+         loading="lazy">
+    <figcaption>图3: 启动机器人界面</figcaption>
+</figure>
+<ul>
+<li>点击&quot;启动机器人&quot;开始运行</li>
+</ul>
+</li>
+</ol>
+</div>
+<h3 id="advanced-configuration">高级配置<a hidden class="anchor" aria-hidden="true" href="#advanced-configuration">#</a></h3>
+<div class="advanced-config" role="region" aria-label="高级配置说明">
+<p>如需修改系统配置，可以编辑 <code>/config/settings.py</code> 文件：</p>
+<ul>
+<li>修改登录密码</li>
+<li>更改服务端口</li>
+<li>调整其他系统参数</li>
+</ul>
+</div>
+<h2 id="faq">4. 常见问题与解决方案<a hidden class="anchor" aria-hidden="true" href="#faq">#</a></h2>
+<div class="faq-section" role="region" aria-label="常见问题解答">
+<figure role="group" aria-label="系统主页界面">
+    <img src="/images/goofish_bot_web_1.0/index.png" 
+         alt="XianYu机器人Web管理系统主页，展示系统状态和主要功能区" 
+         width="800" 
+         height="450"
+         loading="lazy">
+    <figcaption>图4: 系统主页界面</figcaption>
+</figure>
+<p>为了帮助用户更好地使用系统，我们提供了常见问题解答：</p>
+<ul>
+<li>
+<p><strong>Q: 如何修改默认端口？</strong>
+A: 在 <code>/config/settings.py</code> 中修改端口配置</p>
+</li>
+<li>
+<p><strong>Q: 忘记密码怎么办？</strong>
+A: 可以直接修改配置文件中的密码设置</p>
+</li>
+<li>
+<p><strong>Q: 遇到问题如何获取帮助？</strong>
+A: 可以在<a href="https://github.com/admingit2025/goofishbot-web/issues">项目页面</a>留言，我们会及时处理和回复</p>
+</li>
+</ul>
+</div>
+<h2 id="future-plans">未来展望<a hidden class="anchor" aria-hidden="true" href="#future-plans">#</a></h2>
+<div class="future-plans" role="region" aria-label="未来发展计划">
+<p>我们将持续改进和优化XianYu机器人Web管理系统，计划添加更多功能：</p>
+<ul>
+<li>数据统计和分析</li>
+<li>更丰富的可视化界面</li>
+<li>多机器人协同管理</li>
+<li>自动化策略配置</li>
+</ul>
+</div>
+<h2 id="technical-support">技术支持<a hidden class="anchor" aria-hidden="true" href="#technical-support">#</a></h2>
+<div class="support-info" role="region" aria-label="技术支持信息">
+<p>如果您在使用过程中遇到任何问题，请通过以下方式获取支持：</p>
+<ul>
+<li>在<a href="https://github.com/admingit2025/goofishbot-web">项目页面</a>提交Issue</li>
+<li>查看<a href="https://www.git.edu.kg/docs/xianyu-robot/">在线文档</a></li>
+<li><a href="mailto:support@git.edu.kg">联系技术支持团队</a></li>
+</ul>
+</div>
+<h2 id="references">参考资源<a hidden class="anchor" aria-hidden="true" href="#references">#</a></h2>
+<div class="references" role="region" aria-label="参考资源列表">
+<ul>
+<li><a href="https://www.git.edu.kg/docs/xianyuautoagent/">XianyuAutoAgent官方文档</a></li>
+<li><a href="https://www.git.edu.kg/blog/python-web-best-practices/">Python Web开发最佳实践</a></li>
+<li><a href="https://flask.palletsprojects.com/">Flask框架文档</a></li>
+<li><a href="https://www.git.edu.kg/blog/web-security-guide/">Web安全指南</a></li>
+</ul>
+</div>
+<nav class="article-navigation" aria-label="相关文章导航">
+<h2>相关文章</h2>
+<ul>
+    <li><a href="/posts/automation-tools-comparison/">自动化工具对比：XianYu机器人vs其他解决方案</a></li>
+    <li><a href="/posts/web-automation-best-practices/">Web自动化最佳实践指南</a></li>
+    <li><a href="/posts/token-management-guide/">Token管理完全指南</a></li>
+</ul>
+</nav>
+</article> 
+
+  </div>
+
+  <div class="post-ads post-ads--bottom">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-4431699228337677"
+         data-ad-slot="7796321871"
+         data-ad-format="fluid"
+         data-ad-layout-key="-6t+ed+2i-1n-4w"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://www.git.edu.kg/tags/xianyu/">XianYu</a></li>
+      <li><a href="https://www.git.edu.kg/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%A4%E6%98%93/">自动化交易</a></li>
+      <li><a href="https://www.git.edu.kg/tags/web%E7%AE%A1%E7%90%86/">Web管理</a></li>
+      <li><a href="https://www.git.edu.kg/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/">机器人</a></li>
+      <li><a href="https://www.git.edu.kg/tags/%E9%97%B2%E9%B1%BC/">闲鱼</a></li>
+      <li><a href="https://www.git.edu.kg/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能</a></li>
+      <li><a href="https://www.git.edu.kg/tags/autoagent/">AutoAgent</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="https://www.git.edu.kg/posts/windows-10-iot-ltsc-2021-download/">
+    <span class="title">« </span>
+    <br>
+    <span>Windows 10 IoT LTSC/LTSC 2021的下载渠道</span>
+  </a>
+  <a class="next" href="https://www.git.edu.kg/posts/cursor-reg-release-1.0/">
+    <span class="title"> »</span>
+    <br>
+    <span>Cursor Reg 1.0 发布公告</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="https://www.git.edu.kg/">科技观察</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+    <div class="footer-stats">
+        
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+ 
+    </div>
+</footer> </body>
+
+</html>

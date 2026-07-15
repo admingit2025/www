@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/html/</link>
+    <description>Recent content in HTML on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 14:31:44 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>edulab: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-wy51ai-edulab/</link>
+      <pubDate>Tue, 09 Jun 2026 14:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-wy51ai-edulab/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 edulab，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaohong...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-30-op7418-guizang-social-card-skill/</link>
+      <pubDate>Sat, 30 May 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-30-op7418-guizang-social-card-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-social-card-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaohong...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-29-op7418-guizang-social-card-skill/</link>
+      <pubDate>Fri, 29 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-29-op7418-guizang-social-card-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-social-card-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-29-op7418-guizang-ppt-skill/</link>
+      <pubDate>Wed, 29 Apr 2026 20:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-29-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-28-op7418-guizang-ppt-skill/</link>
+      <pubDate>Tue, 28 Apr 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-28-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-27-op7418-guizang-ppt-skill/</link>
+      <pubDate>Mon, 27 Apr 2026 20:31:32 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-27-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Kami: 👩‍🚒 Good content deserves good paper.</title>
+      <link>https://www.git.edu.kg/posts/2026-04-26-tw93-kami/</link>
+      <pubDate>Sun, 26 Apr 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-26-tw93-kami/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Kami，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>huashu-design: Huashu Design · HTML-native design skill for Cl...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-25-alchaincyf-huashu-design/</link>
+      <pubDate>Sat, 25 Apr 2026 20:31:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-25-alchaincyf-huashu-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 huashu-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>meta-lobbying-and-other-findings: </title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</link>
+      <pubDate>Thu, 19 Mar 2026 15:23:24 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</guid>
+      <description>Deep dive into popular GitHub open source project meta-lobbying-and-other-findings</description>
+    </item>
+    <item>
+      <title>jobs：A research 工具 for visually exploring Bureau of Labor...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</guid>
+      <description>深度解析 GitHub 热门开源项目 jobs，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

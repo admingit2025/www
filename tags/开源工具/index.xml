@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>开源工具 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 开源工具 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gstack：Y Combinator CEO 打造的 AI 编程团队操作系统，一周斩获 18000 Star</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-gstack-ai-coding-os/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-gstack-ai-coding-os/</guid>
+      <description>深度解析 GitHub 本周最热项目 gstack —— 由 Y Combinator CEO Garry Tan 开源的 Claude Code 专家技能集，将 AI 编程助手从单一模式升级为多角色专家团队。</description>
+    </item>
+    <item>
+      <title>The Agency：拥有144个专业AI智能体的&#34;梦之队&#34;，GitHub星标数破5万</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-agency-agents/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-agency-agents/</guid>
+      <description>深度解析GitHub最热门开源项目The Agency——一个包含144个专业AI智能体的&amp;#34;梦之队&amp;#34;，涵盖工程、设计、营销、销售等12个部门</description>
+    </item>
+  </channel>
+</rss>

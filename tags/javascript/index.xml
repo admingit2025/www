@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/javascript/</link>
+    <description>Recent content in JavaScript on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Jun 2026 14:31:30 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baoyu-design: Run Claude Design locally as an Agent Skill — C...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-jimliu-baoyu-design/</link>
+      <pubDate>Mon, 08 Jun 2026 14:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-jimliu-baoyu-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 baoyu-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-nevertoday-zhongguo-traditional-colors/</link>
+      <pubDate>Mon, 08 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-nevertoday-zhongguo-traditional-colors/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zhongguo-traditional-colors，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>polymarket-trading-bot: polymarket trading bot, polymarket trading bot,...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-blackcandlelab-polymarket-trading-bot/</link>
+      <pubDate>Mon, 01 Jun 2026 11:05:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-blackcandlelab-polymarket-trading-bot/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 polymarket-trading-bot，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>odysseus: Self-hosted AI workspace. </title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-pewdiepie-archdaemon-odysseus/</link>
+      <pubDate>Mon, 01 Jun 2026 02:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-pewdiepie-archdaemon-odysseus/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 odysseus，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven co...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-withkynam-vibecode-pro-max-kit/</link>
+      <pubDate>Sun, 31 May 2026 08:31:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-withkynam-vibecode-pro-max-kit/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 vibecode-pro-max-kit，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>get-shit-done-redux: Getting Shit Done, the Aftermath</title>
+      <link>https://www.git.edu.kg/posts/2026-05-28-open-gsd-get-shit-done-redux/</link>
+      <pubDate>Thu, 28 May 2026 20:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-28-open-gsd-get-shit-done-redux/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 get-shit-done-redux，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>get-shit-done-redux: Getting Shit Done, the Aftermath</title>
+      <link>https://www.git.edu.kg/posts/2026-05-27-open-gsd-get-shit-done-redux/</link>
+      <pubDate>Wed, 27 May 2026 20:31:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-27-open-gsd-get-shit-done-redux/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 get-shit-done-redux，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-24-doorman11991-smallcode/</link>
+      <pubDate>Sun, 24 May 2026 08:31:47 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-24-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-23-doorman11991-smallcode/</link>
+      <pubDate>Sat, 23 May 2026 20:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-23-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-22-doorman11991-smallcode/</link>
+      <pubDate>Fri, 22 May 2026 20:31:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-22-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>3DCellForge: AI-powered interactive 3D model generation, ins...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-15-huangserva-3dcellforge/</link>
+      <pubDate>Fri, 15 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-15-huangserva-3dcellforge/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 3DCellForge，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>deepclaude: Use Claude Code&#39;s autonomous agent loop with De...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-08-aattaran-deepclaude/</link>
+      <pubDate>Fri, 08 May 2026 14:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-08-aattaran-deepclaude/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 deepclaude，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>awesome-persona-distill-skills: 同事.skill, 女娲.skill, 前任.skill… Curated list of A...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-12-xixu-me-awesome-persona-distill-skills/</link>
+      <pubDate>Sun, 12 Apr 2026 20:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-12-xixu-me-awesome-persona-distill-skills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 awesome-persona-distill-skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>career-ops: AI-powered job search system built on Claude Co...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-08-santifer-career-ops/</link>
+      <pubDate>Wed, 08 Apr 2026 08:31:39 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-08-santifer-career-ops/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 career-ops，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Crucix: Your personal intelligence agent. Watches the world from multiple data source...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</link>
+      <pubDate>Thu, 19 Mar 2026 13:09:15 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</guid>
+      <description>Deep dive into popular GitHub open source project Crucix</description>
+    </item>
+    <item>
+      <title>chrome-cdp-skill：Give your 人工智能 智能体 access to your live C...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</guid>
+      <description>深度解析 GitHub 热门开源项目 chrome-cdp-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Crucix：Your personal intelligence 智能体. Watches the world ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</link>
+      <pubDate>Tue, 17 Mar 2026 20:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</guid>
+      <description>深度解析 GitHub 热门开源项目 Crucix，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

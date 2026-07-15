@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DeltaForce-OBS-Locker on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/deltaforce-obs-locker/</link>
+    <description>Recent content in DeltaForce-OBS-Locker on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 07:05:27 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/deltaforce-obs-locker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-ace-trump-tech-deltaforce-obs-locker/</link>
+      <pubDate>Mon, 01 Jun 2026 07:05:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-ace-trump-tech-deltaforce-obs-locker/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 DeltaForce-OBS-Locker，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TypeScript on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/tags/typescript/</link>
+    <description>Recent content in TypeScript on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Mar 2026 08:31:17 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clui-cc: Clui CC — Command Line User Interface for Claude...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-20-lcoutodemos-clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-20-lcoutodemos-clui-cc/</guid>
+      <description>Deep dive into the popular GitHub open source project clui-cc, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>opencli: Make any website your CLI. A powerful, AI-native...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-19-jackwener-opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-19-jackwener-opencli/</guid>
+      <description>Deep dive into the popular GitHub open source project opencli, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>inkos: Autonomous novel writing CLI agent — AI agents wri...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-narcooo-inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-narcooo-inkos/</guid>
+      <description>Deep dive into the popular GitHub open source project inkos, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>Recordly: A free, open-source Screen Studio alternative t...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-18-webadderall-recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-18-webadderall-recordly/</guid>
+      <description>Deep dive into the popular GitHub open source project Recordly, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>NemoClaw: NVIDIA plugin for secure installation of OpenClaw</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-nvidia-nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-nvidia-nemoclaw/</guid>
+      <description>Deep dive into the popular GitHub open source project NemoClaw, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>OpenMAIC: Open Multi-Agent Interactive Classroom — Get an...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-thu-maic-openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-thu-maic-openmaic/</guid>
+      <description>Deep dive into the popular GitHub open source project OpenMAIC, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>gstack: Use Garry Tan&#39;s exact Claude Code setup: 10 opini...</title>
+      <link>https://www.git.edu.kg/en/posts/2026-03-17-garrytan-gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/2026-03-17-garrytan-gstack/</guid>
+      <description>Deep dive into the popular GitHub open source project gstack, exploring its technical architecture and use cases</description>
+    </item>
+  </channel>
+</rss>

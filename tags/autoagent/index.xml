@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AutoAgent on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/autoagent/</link>
+    <description>Recent content in AutoAgent on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/autoagent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XianYu机器人Web管理系统：简化自动化交易的部署与管理</title>
+      <link>https://www.git.edu.kg/posts/xianyu_robot_web_2024/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/xianyu_robot_web_2024/</guid>
+      <description>XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。</description>
+    </item>
+  </channel>
+</rss>

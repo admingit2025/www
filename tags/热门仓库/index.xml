@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>热门仓库 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/%E7%83%AD%E9%97%A8%E4%BB%93%E5%BA%93/</link>
+    <description>Recent content in 热门仓库 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 Mar 2026 14:14:35 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/%E7%83%AD%E9%97%A8%E4%BB%93%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-03-17</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-github-trending/</link>
+      <pubDate>Tue, 17 Mar 2026 14:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-github-trending/</guid>
+      <description>自动生成的 GitHub 热门仓库报告，包含今日最热门的开源项目</description>
+    </item>
+  </channel>
+</rss>

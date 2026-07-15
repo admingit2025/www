@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Y Combinator | 科技观察</title>
+<meta name="keywords" content="">
+<meta name="description" content="关注前沿科技发展，分享最新科技突破">
+<meta name="author" content="科技观察团队">
+<link rel="canonical" href="https://www.git.edu.kg/tags/y-combinator/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4f6144970a41b47163b87a04278cb7543f87dc25f10f7c02021b6a3dac2e3026.css" integrity="sha256-T2FElwpBtHFjuHoEJ4y3VD&#43;H3CXxD3wCAhtqPawuMCY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.git.edu.kg/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.git.edu.kg/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.git.edu.kg/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.git.edu.kg/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.git.edu.kg/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33"><meta property="og:url" content="https://www.git.edu.kg/tags/y-combinator/">
+  <meta property="og:site_name" content="科技观察">
+  <meta property="og:title" content="Y Combinator">
+  <meta property="og:description" content="关注前沿科技发展，分享最新科技突破">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.git.edu.kg/images/site-feature-image.jpg">
+  <meta name="twitter:title" content="Y Combinator">
+  <meta name="twitter:description" content="关注前沿科技发展，分享最新科技突破">
+<link rel="alternate" type="application/rss+xml" href="https://www.git.edu.kg/tags/y-combinator/index.xml">
+<link rel="alternate" hreflang="zh-cn" href="https://www.git.edu.kg/tags/y-combinator/">
+<link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/tags/y-combinator/">
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+<link rel="alternate" hreflang="en" href="https://www.git.edu.kg/en/tags/y-combinator/" />
+
+<link rel="alternate" hreflang="x-default" href="https://www.git.edu.kg/" />
+
+
+
+
+
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4431699228337677"
+  crossorigin="anonymous">
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.git.edu.kg/" accesskey="h" title="科技观察 (Alt + H)">科技观察</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                    <li>
+                        <a href="https://www.git.edu.kg/en/" title="En"
+                            aria-label="En">En</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.git.edu.kg/categories/" title="分类">
+                    <span>分类</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/tags/" title="标签">
+                    <span>标签</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.git.edu.kg/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Y Combinator
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200" alt="AI编程工具">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">gstack：Y Combinator CEO 打造的 AI 编程团队操作系统，一周斩获 18000 Star
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>gstack：Y Combinator CEO 打造的 AI 编程团队操作系统 本周 GitHub 上最受关注的开源项目，不是某个新框架，也不是新的大模型——而是一套让 AI 编程助手&#34;切换大脑&#34;的技能集。
+gstack 由 Y Combinator 总裁兼 CEO Garry Tan 亲自开源，短短一周内斩获超过 18,000 Star，成为本周 GitHub 增速最快的项目之一。
+它解决了什么问题？ 使用过 Claude Code 或类似 AI 编程工具的开发者都有一个共同感受：AI 助手太&#34;万金油&#34;了。
+你让它做产品规划，它会顺手帮你写代码；你让它做代码审查，它又开始天马行空地提功能建议。规划、审查、发布、测试——这些工作需要完全不同的思维模式，但 AI 总是用同一种&#34;模糊的通用模式&#34;来应对所有任务。
+Garry Tan 的解法是：给 AI 装上不同的&#34;大脑&#34;，按需切换。
+12 个专家角色，覆盖完整开发流程 gstack 提供了 12 个精心设计的 slash 命令，每个命令对应一种专家角色：
+命令 角色 核心能力 /plan-ceo-review 创始人 / CEO 跳出字面需求，找到真正的产品方向 /plan-eng-review 工程经理 锁定架构、数据流、边界条件和测试矩阵 /plan-design-review 高级产品设计师 80 项设计审查清单，检测 AI 生成痕迹 /review 偏执的资深工程师 找出能通过 CI 但会在生产环境爆炸的 Bug /ship 发布工程师 同步主干、跑测试、推送、开 PR，一气呵成 /browse QA 工程师 给 AI 装上眼睛，自动点击测试你的应用 /qa QA 主管 读取 git diff，自动识别受影响页面并测试 /retro 工程经理 分析提交历史，生成团队复盘报告 /document-release 技术写作 发布后自动更新 README、架构文档等 最令人惊艳的功能：给 AI 装上眼睛 ...</p>
+  </div>
+  <footer class="entry-footer">
+<span title="2026-03-17 00:00:00 &#43;0000 UTC">March 17, 2026</span>
+&nbsp;·&nbsp;2&nbsp;min&nbsp;·&nbsp;科技观察团队
+
+&nbsp;·&nbsp;
+
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+  </footer>
+  <a class="entry-link" aria-label="post link to gstack：Y Combinator CEO 打造的 AI 编程团队操作系统，一周斩获 18000 Star" href="https://www.git.edu.kg/posts/2026-03-17-gstack-ai-coding-os/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="https://www.git.edu.kg/">科技观察</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+    <div class="footer-stats">
+        
+<span class="post-stats" title="页面访问量">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+    <span id="busuanzi_value_page_pv">-</span>
+</span>
+
+ 
+    </div>
+</footer> </body>
+
+</html>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/categories/</link>
+    <description>Recent content in Categories on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2026 11:28:27 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech News</title>
+      <link>https://www.git.edu.kg/en/categories/tech-news/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/tech-news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trending</title>
+      <link>https://www.git.edu.kg/en/categories/trending/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/trending/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://www.git.edu.kg/en/categories/open-source/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://www.git.edu.kg/en/categories/artificial-intelligence/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Tools</title>
+      <link>https://www.git.edu.kg/en/categories/developer-tools/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/developer-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://www.git.edu.kg/en/categories/automation/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Tools</title>
+      <link>https://www.git.edu.kg/en/categories/software-tools/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/software-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>https://www.git.edu.kg/en/categories/software-development/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/software-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tool Release</title>
+      <link>https://www.git.edu.kg/en/categories/tool-release/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/categories/tool-release/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ds4 on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/ds4/</link>
+    <description>Recent content in Ds4 on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 12 May 2026 20:31:31 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/ds4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Met...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-12-antirez-ds4/</link>
+      <pubDate>Tue, 12 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-12-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-11-antirez-ds4/</link>
+      <pubDate>Mon, 11 May 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-11-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-10-antirez-ds4/</link>
+      <pubDate>Sun, 10 May 2026 20:31:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-10-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-09-antirez-ds4/</link>
+      <pubDate>Sat, 09 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-09-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-08-antirez-ds4/</link>
+      <pubDate>Fri, 08 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-08-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prompt-Engineering on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/prompt-engineering/</link>
+    <description>Recent content in Prompt-Engineering on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2026 08:03:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADHD Agent: 让 AI 编程 Agent 拥有发散思维的技能框架</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</link>
+      <pubDate>Sun, 31 May 2026 08:03:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ADHD Agent，探索并行发散思维如何解决 AI Agent 的过早收敛问题</description>
+    </item>
+  </channel>
+</rss>

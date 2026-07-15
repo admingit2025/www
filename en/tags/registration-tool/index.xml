@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Registration Tool on Tech Observation</title>
+    <link>https://www.git.edu.kg/en/tags/registration-tool/</link>
+    <description>Recent content in Registration Tool on Tech Observation</description>
+    <image>
+      <title>Tech Observation</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/en/tags/registration-tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor Reg 1.0 Release Announcement</title>
+      <link>https://www.git.edu.kg/en/posts/cursor-reg-release-1.0/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/en/posts/cursor-reg-release-1.0/</guid>
+      <description>Announcing Cursor Reg 1.0, a secure, user-friendly, and stable Cursor registration tool. This article details the tool&amp;#39;s features, installation guide, and future plans.</description>
+    </item>
+  </channel>
+</rss>

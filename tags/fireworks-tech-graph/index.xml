@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fireworks-Tech-Graph on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/fireworks-tech-graph/</link>
+    <description>Recent content in Fireworks-Tech-Graph on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Apr 2026 14:31:27 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/fireworks-tech-graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fireworks-tech-graph: Claude Code skill for generating production-qua...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-16-yizhiyanhua-ai-fireworks-tech-graph/</link>
+      <pubDate>Thu, 16 Apr 2026 14:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-16-yizhiyanhua-ai-fireworks-tech-graph/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 fireworks-tech-graph，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>fireworks-tech-graph: Claude Code skill for generating production-qua...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-15-yizhiyanhua-ai-fireworks-tech-graph/</link>
+      <pubDate>Wed, 15 Apr 2026 20:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-15-yizhiyanhua-ai-fireworks-tech-graph/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 fireworks-tech-graph，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>

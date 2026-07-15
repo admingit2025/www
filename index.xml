@@ -1,0 +1,3002 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科技观察</title>
+    <link>https://www.git.edu.kg/</link>
+    <description>Recent content on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jun 2026 14:31:45 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xiaohu-video-translate: 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-xiaohuailabs-xiaohu-video-translate/</link>
+      <pubDate>Wed, 10 Jun 2026 14:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-xiaohuailabs-xiaohu-video-translate/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 xiaohu-video-translate，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-10</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-x-news-top3/</link>
+      <pubDate>Wed, 10 Jun 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>coreai-models: Model export recipes, Python primitives, a...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-apple-coreai-models/</link>
+      <pubDate>Wed, 10 Jun 2026 09:06:54 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-apple-coreai-models/</guid>
+      <description>Deep dive into popular GitHub open source project coreai-models</description>
+    </item>
+    <item>
+      <title>parcle-memory: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-parcle-ai-parcle-memory/</link>
+      <pubDate>Wed, 10 Jun 2026 08:31:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-parcle-ai-parcle-memory/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 parcle-memory，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Neo3dEngine: A minimalist CPU-based 3D console engine in C# ...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-ivansobolev-neo3dengine/</link>
+      <pubDate>Wed, 10 Jun 2026 02:31:43 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-ivansobolev-neo3dengine/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Neo3dEngine，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>dots.tts: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-10-rednote-hilab-dots.tts/</link>
+      <pubDate>Wed, 10 Jun 2026 01:08:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-10-rednote-hilab-dots.tts/</guid>
+      <description>Deep dive into popular GitHub open source project dots.tts</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-09</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-x-news-top3/</link>
+      <pubDate>Tue, 09 Jun 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>performativeUI: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-vorpus-performativeui/</link>
+      <pubDate>Tue, 09 Jun 2026 20:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-vorpus-performativeui/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 performativeUI，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>edulab: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-wy51ai-edulab/</link>
+      <pubDate>Tue, 09 Jun 2026 14:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-wy51ai-edulab/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 edulab，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Microsoft-Office-Activated: 📊 Microsoft Office Professional Edition — Compl...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-unicornronote-microsoft-office-activated/</link>
+      <pubDate>Tue, 09 Jun 2026 08:31:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-unicornronote-microsoft-office-activated/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Microsoft-Office-Activated，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>lottie: Open-source skill and harness for generating pr...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-diffusionstudio-lottie/</link>
+      <pubDate>Tue, 09 Jun 2026 08:09:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-diffusionstudio-lottie/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 lottie，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>produck-oss: Great apps are built on good context</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-yuvbindal-produck-oss/</link>
+      <pubDate>Tue, 09 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-yuvbindal-produck-oss/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 produck-oss，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GordenSuperPPTSkills: AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-gordensun-gordensuperpptskills/</link>
+      <pubDate>Tue, 09 Jun 2026 00:20:39 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-gordensun-gordensuperpptskills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 GordenSuperPPTSkills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>loupe: A privacy-focused iOS app that raises awareness...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</link>
+      <pubDate>Tue, 09 Jun 2026 00:16:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 loupe，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-08</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-x-news-top3/</link>
+      <pubDate>Mon, 08 Jun 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>align-dev: AlignDev helps AI-assisted frontend teams gener...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-razr001-align-dev/</link>
+      <pubDate>Mon, 08 Jun 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-razr001-align-dev/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 align-dev，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>noop: Offline WHOOP companion — pair your strap over Blue...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-noopapp-noop/</link>
+      <pubDate>Mon, 08 Jun 2026 17:21:13 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-noopapp-noop/</guid>
+      <description>Deep dive into popular GitHub open source project noop</description>
+    </item>
+    <item>
+      <title>baoyu-design: Run Claude Design locally as an Agent Skill — C...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-jimliu-baoyu-design/</link>
+      <pubDate>Mon, 08 Jun 2026 14:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-jimliu-baoyu-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 baoyu-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>guard-skills: Guard skills for coding agents, quality gates t...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-amelnagdy-guard-skills/</link>
+      <pubDate>Mon, 08 Jun 2026 08:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-amelnagdy-guard-skills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guard-skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>zhongguo-traditional-colors: 中华传统色演示、色卡浏览与颜色知识科普开源项目</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-nevertoday-zhongguo-traditional-colors/</link>
+      <pubDate>Mon, 08 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-nevertoday-zhongguo-traditional-colors/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zhongguo-traditional-colors，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>sandboxd: Self-hosted dev sandboxes with preview URLs. On...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-08-tastyeffectco-sandboxd/</link>
+      <pubDate>Mon, 08 Jun 2026 02:06:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-08-tastyeffectco-sandboxd/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 sandboxd，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-07</title>
+      <link>https://www.git.edu.kg/posts/2026-06-07-x-news-top3/</link>
+      <pubDate>Sun, 07 Jun 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-07-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>9drive: 9Drive is a storage gateway web app for connect...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-07-zenhosta-9drive/</link>
+      <pubDate>Sun, 07 Jun 2026 20:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-07-zenhosta-9drive/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 9drive，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-06-07</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-07-en/</link>
+      <pubDate>Sun, 07 Jun 2026 18:05:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-07-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-06-07&#34;&gt;GitHub Trending Repositories - 2026-06-07&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-06-07 02:05:04&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-goose&#34;&gt;1. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,227&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 517&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-skylight&#34;&gt;2. &lt;a href=&#34;https://github.com/cpaczek/skylight&#34;&gt;skylight&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cpaczek&#34;&gt;@cpaczek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,214&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 220&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-joyai-echo&#34;&gt;3. &lt;a href=&#34;https://github.com/jd-opensource/JoyAI-Echo&#34;&gt;JoyAI-Echo&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/jd-opensource&#34;&gt;@jd-opensource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 820&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 53&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-chokepoint-atlas&#34;&gt;4. &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas&#34;&gt;chokepoint-atlas&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud&#34;&gt;@qiuqiubuchongle-cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 599&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 126&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-triposplat&#34;&gt;5. &lt;a href=&#34;https://github.com/VAST-AI-Research/TripoSplat&#34;&gt;TripoSplat&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/VAST-AI-Research&#34;&gt;@VAST-AI-Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 516&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 48&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-sandboxd&#34;&gt;6. &lt;a href=&#34;https://github.com/tastyeffectco/sandboxd&#34;&gt;sandboxd&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/tastyeffectco&#34;&gt;@tastyeffectco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 487&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 10&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-reg-factory&#34;&gt;7. &lt;a href=&#34;https://github.com/tiantianGPU/reg-factory&#34;&gt;reg-factory&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/tiantianGPU&#34;&gt;@tiantianGPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 475&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 232&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-xiaoer-videolab&#34;&gt;8. &lt;a href=&#34;https://github.com/Jane-xiaoer/xiaoer-videolab&#34;&gt;xiaoer-videolab&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Jane-xiaoer&#34;&gt;@Jane-xiaoer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 462&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: One click on the toolbar grabs the current page&amp;rsquo;s video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-vimhjkl&#34;&gt;9. &lt;a href=&#34;https://github.com/S-Sigdel/vimhjkl&#34;&gt;vimhjkl&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/S-Sigdel&#34;&gt;@S-Sigdel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 398&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 6&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: learn vim from your terminal with spaced repetition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-anima&#34;&gt;10. &lt;a href=&#34;https://github.com/Fullive-AI/Anima&#34;&gt;Anima&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Fullive-AI&#34;&gt;@Fullive-AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 393&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 9&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 6 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-06-07</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-07-zh/</link>
+      <pubDate>Sun, 07 Jun 2026 18:05:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-07-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-06-07&#34;&gt;GitHub 热门仓库精选 - 2026-06-07&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-06-07 02:05:04&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-goose&#34;&gt;1. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,227&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 517&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-skylight&#34;&gt;2. &lt;a href=&#34;https://github.com/cpaczek/skylight&#34;&gt;skylight&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cpaczek&#34;&gt;@cpaczek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,214&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 220&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-joyai-echo&#34;&gt;3. &lt;a href=&#34;https://github.com/jd-opensource/JoyAI-Echo&#34;&gt;JoyAI-Echo&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/jd-opensource&#34;&gt;@jd-opensource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 820&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 53&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-chokepoint-atlas&#34;&gt;4. &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas&#34;&gt;chokepoint-atlas&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud&#34;&gt;@qiuqiubuchongle-cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 599&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 126&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-triposplat&#34;&gt;5. &lt;a href=&#34;https://github.com/VAST-AI-Research/TripoSplat&#34;&gt;TripoSplat&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/VAST-AI-Research&#34;&gt;@VAST-AI-Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 516&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 48&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-sandboxd&#34;&gt;6. &lt;a href=&#34;https://github.com/tastyeffectco/sandboxd&#34;&gt;sandboxd&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/tastyeffectco&#34;&gt;@tastyeffectco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 487&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 10&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-reg-factory&#34;&gt;7. &lt;a href=&#34;https://github.com/tiantianGPU/reg-factory&#34;&gt;reg-factory&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/tiantianGPU&#34;&gt;@tiantianGPU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 475&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 232&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-xiaoer-videolab&#34;&gt;8. &lt;a href=&#34;https://github.com/Jane-xiaoer/xiaoer-videolab&#34;&gt;xiaoer-videolab&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Jane-xiaoer&#34;&gt;@Jane-xiaoer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 462&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: One click on the toolbar grabs the current page&amp;rsquo;s video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-vimhjkl&#34;&gt;9. &lt;a href=&#34;https://github.com/S-Sigdel/vimhjkl&#34;&gt;vimhjkl&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/S-Sigdel&#34;&gt;@S-Sigdel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 398&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 6&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: learn vim from your terminal with spaced repetition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-anima&#34;&gt;10. &lt;a href=&#34;https://github.com/Fullive-AI/Anima&#34;&gt;Anima&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Fullive-AI&#34;&gt;@Fullive-AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 393&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 9&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 6 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>meatshell: 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-mem...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-07-jeff141-meatshell/</link>
+      <pubDate>Sun, 07 Jun 2026 14:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-07-jeff141-meatshell/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 meatshell，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Anima: Make Every Hardware Intelligent — an open-sourc...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-07-fullive-ai-anima/</link>
+      <pubDate>Sun, 07 Jun 2026 08:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-07-fullive-ai-anima/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Anima，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-06</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-x-news-top3/</link>
+      <pubDate>Sat, 06 Jun 2026 11:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>vimhjkl: learn vim from your terminal with spaced repetition</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-s-sigdel-vimhjkl/</link>
+      <pubDate>Sat, 06 Jun 2026 06:05:50 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-s-sigdel-vimhjkl/</guid>
+      <description>Deep dive into popular GitHub open source project vimhjkl</description>
+    </item>
+    <item>
+      <title>xiaoer-videolab: One click on the toolbar grabs the current page...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-jane-xiaoer-xiaoer-videolab/</link>
+      <pubDate>Sat, 06 Jun 2026 03:07:56 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-jane-xiaoer-xiaoer-videolab/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 xiaoer-videolab，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>QMAI: 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-mochocyang-qmai/</link>
+      <pubDate>Sat, 06 Jun 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-mochocyang-qmai/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 QMAI，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>TripoSplat: TripoSplat converts a single 2D image into hi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-06-vast-ai-research-triposplat/</link>
+      <pubDate>Sat, 06 Jun 2026 00:05:57 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-06-vast-ai-research-triposplat/</guid>
+      <description>Deep dive into popular GitHub open source project TripoSplat</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-05</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-x-news-top3/</link>
+      <pubDate>Fri, 05 Jun 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-06-05</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-05-en/</link>
+      <pubDate>Fri, 05 Jun 2026 08:07:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-05-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-06-05&#34;&gt;GitHub Trending Repositories - 2026-06-05&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-06-05 16:07:03&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 52,649&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 6,190&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-chinese-buy-us-stock-guide&#34;&gt;2. &lt;a href=&#34;https://github.com/zgwl/chinese-buy-us-stock-guide&#34;&gt;chinese-buy-us-stock-guide&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/zgwl&#34;&gt;@zgwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 3,023&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 465&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 美股指南&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-goose&#34;&gt;3. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,997&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 474&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-abaiautoplus&#34;&gt;4. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,499&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 692&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-skylight&#34;&gt;5. &lt;a href=&#34;https://github.com/cpaczek/skylight&#34;&gt;skylight&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cpaczek&#34;&gt;@cpaczek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,299&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 87&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-memory-os&#34;&gt;6. &lt;a href=&#34;https://github.com/ClaudioDrews/memory-os&#34;&gt;memory-os&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ClaudioDrews&#34;&gt;@ClaudioDrews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 840&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 83&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-chokepoint-atlas&#34;&gt;7. &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas&#34;&gt;chokepoint-atlas&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud&#34;&gt;@qiuqiubuchongle-cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 566&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 122&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-rift&#34;&gt;8. &lt;a href=&#34;https://github.com/anomalyco/rift&#34;&gt;rift&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/anomalyco&#34;&gt;@anomalyco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 513&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 8&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-female-portrait-director&#34;&gt;9. &lt;a href=&#34;https://github.com/liyue-aigc/female-portrait-director&#34;&gt;female-portrait-director&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/liyue-aigc&#34;&gt;@liyue-aigc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 511&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-joyai-echo&#34;&gt;10. &lt;a href=&#34;https://github.com/jd-opensource/JoyAI-Echo&#34;&gt;JoyAI-Echo&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/jd-opensource&#34;&gt;@jd-opensource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 471&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 29&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 5 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-06-05</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-05-zh/</link>
+      <pubDate>Fri, 05 Jun 2026 08:07:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-05-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-06-05&#34;&gt;GitHub 热门仓库精选 - 2026-06-05&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-06-05 16:07:03&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 52,649&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 6,190&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-chinese-buy-us-stock-guide&#34;&gt;2. &lt;a href=&#34;https://github.com/zgwl/chinese-buy-us-stock-guide&#34;&gt;chinese-buy-us-stock-guide&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/zgwl&#34;&gt;@zgwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 3,023&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 465&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 美股指南&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-goose&#34;&gt;3. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,997&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 474&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-abaiautoplus&#34;&gt;4. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,499&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 692&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-skylight&#34;&gt;5. &lt;a href=&#34;https://github.com/cpaczek/skylight&#34;&gt;skylight&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/cpaczek&#34;&gt;@cpaczek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,299&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 87&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-memory-os&#34;&gt;6. &lt;a href=&#34;https://github.com/ClaudioDrews/memory-os&#34;&gt;memory-os&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ClaudioDrews&#34;&gt;@ClaudioDrews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 840&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 83&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-chokepoint-atlas&#34;&gt;7. &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas&#34;&gt;chokepoint-atlas&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/qiuqiubuchongle-cloud&#34;&gt;@qiuqiubuchongle-cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 566&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 122&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-rift&#34;&gt;8. &lt;a href=&#34;https://github.com/anomalyco/rift&#34;&gt;rift&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/anomalyco&#34;&gt;@anomalyco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 513&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 8&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-female-portrait-director&#34;&gt;9. &lt;a href=&#34;https://github.com/liyue-aigc/female-portrait-director&#34;&gt;female-portrait-director&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/liyue-aigc&#34;&gt;@liyue-aigc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 511&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-joyai-echo&#34;&gt;10. &lt;a href=&#34;https://github.com/jd-opensource/JoyAI-Echo&#34;&gt;JoyAI-Echo&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/jd-opensource&#34;&gt;@jd-opensource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 471&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 29&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 5 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>sandboxes: Self-hosted dev sandboxes with preview URLs. O...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</link>
+      <pubDate>Fri, 05 Jun 2026 06:06:09 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-tastyeffectco-sandboxes/</guid>
+      <description>Deep dive into popular GitHub open source project sandboxes</description>
+    </item>
+    <item>
+      <title>Void-Tools-v2.0: Python terminal multitool — OSINT, Discord, web...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-v0id-v2-void-tools-v2.0/</link>
+      <pubDate>Fri, 05 Jun 2026 02:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-v0id-v2-void-tools-v2.0/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Void-Tools-v2.0，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>JoyAI-Echo: JoyAI-Echo: Pushing the Frontier of Long Audi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-05-jd-opensource-joyai-echo/</link>
+      <pubDate>Fri, 05 Jun 2026 00:27:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-05-jd-opensource-joyai-echo/</guid>
+      <description>Deep dive into popular GitHub open source project JoyAI-Echo</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-04</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-x-news-top3/</link>
+      <pubDate>Thu, 04 Jun 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-matixyo-esp32-plane-radar/</link>
+      <pubDate>Thu, 04 Jun 2026 23:06:25 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-matixyo-esp32-plane-radar/</guid>
+      <description>Deep dive into popular GitHub open source project ESP32-Plane-Radar</description>
+    </item>
+    <item>
+      <title>reg-factory: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-tiantiangpu-reg-factory/</link>
+      <pubDate>Thu, 04 Jun 2026 14:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-tiantiangpu-reg-factory/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 reg-factory，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>chinese-buy-us-stock-guide: 美股指南</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-zgwl-chinese-buy-us-stock-guide/</link>
+      <pubDate>Thu, 04 Jun 2026 10:06:03 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-zgwl-chinese-buy-us-stock-guide/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 chinese-buy-us-stock-guide，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>nbd-vram: Use your NVIDIA GPU&#39;s VRAM as swap space on Lin...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-c0dejedi-nbd-vram/</link>
+      <pubDate>Thu, 04 Jun 2026 08:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-c0dejedi-nbd-vram/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 nbd-vram，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>tab-labeler: Rename browser tabs locally and bring order to ...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-senhorh-tab-labeler/</link>
+      <pubDate>Thu, 04 Jun 2026 02:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-senhorh-tab-labeler/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 tab-labeler，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>skylight: Project the aircraft passing overhead onto your...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-04-cpaczek-skylight/</link>
+      <pubDate>Thu, 04 Jun 2026 01:07:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-04-cpaczek-skylight/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 skylight，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-03</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-x-news-top3/</link>
+      <pubDate>Wed, 03 Jun 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>chokepoint-atlas: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-qiuqiubuchongle-cloud-chokepoint-atlas/</link>
+      <pubDate>Wed, 03 Jun 2026 20:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-qiuqiubuchongle-cloud-chokepoint-atlas/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 chokepoint-atlas，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-06-03</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-03-en/</link>
+      <pubDate>Wed, 03 Jun 2026 17:06:08 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-03-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-06-03&#34;&gt;GitHub Trending Repositories - 2026-06-03&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-06-03 01:06:08&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 40,862&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 4,758&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-wechatoncloud&#34;&gt;2. &lt;a href=&#34;https://github.com/Gloridust/WechatOnCloud&#34;&gt;WechatOnCloud&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Gloridust&#34;&gt;@Gloridust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,890&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 529&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 云微WOC，云微信，自由连接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-abaiautoplus&#34;&gt;3. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,350&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 638&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-goose&#34;&gt;4. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,337&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 389&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,336&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 341&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-senpaiscanner&#34;&gt;6. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 962&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 63&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-pi-dynamic-workflows&#34;&gt;7. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 763&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 39&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-memory-os&#34;&gt;8. &lt;a href=&#34;https://github.com/ClaudioDrews/memory-os&#34;&gt;memory-os&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ClaudioDrews&#34;&gt;@ClaudioDrews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 722&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 68&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-duel-agents&#34;&gt;9. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 695&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 19&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-female-portrait-director&#34;&gt;10. &lt;a href=&#34;https://github.com/liyue-aigc/female-portrait-director&#34;&gt;female-portrait-director&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/liyue-aigc&#34;&gt;@liyue-aigc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 502&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-06-03</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-03-zh/</link>
+      <pubDate>Wed, 03 Jun 2026 17:06:08 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-03-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-06-03&#34;&gt;GitHub 热门仓库精选 - 2026-06-03&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-06-03 01:06:08&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 40,862&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 4,758&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-wechatoncloud&#34;&gt;2. &lt;a href=&#34;https://github.com/Gloridust/WechatOnCloud&#34;&gt;WechatOnCloud&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Gloridust&#34;&gt;@Gloridust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,890&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 529&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 云微WOC，云微信，自由连接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-abaiautoplus&#34;&gt;3. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,350&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 638&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-goose&#34;&gt;4. &lt;a href=&#34;https://github.com/b-nnett/goose&#34;&gt;goose&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/b-nnett&#34;&gt;@b-nnett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Rust&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,337&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 389&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Goose Swift proof-of-concept README&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,336&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 341&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-senpaiscanner&#34;&gt;6. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 962&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 63&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-pi-dynamic-workflows&#34;&gt;7. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 763&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 39&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-memory-os&#34;&gt;8. &lt;a href=&#34;https://github.com/ClaudioDrews/memory-os&#34;&gt;memory-os&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ClaudioDrews&#34;&gt;@ClaudioDrews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 722&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 68&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-duel-agents&#34;&gt;9. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 695&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 19&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-female-portrait-director&#34;&gt;10. &lt;a href=&#34;https://github.com/liyue-aigc/female-portrait-director&#34;&gt;female-portrait-director&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/liyue-aigc&#34;&gt;@liyue-aigc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 502&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 74&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A modular Codex Skill for directing and expanding detailed AI female portrait prompts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rust&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rift: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-anomalyco-rift/</link>
+      <pubDate>Wed, 03 Jun 2026 14:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-anomalyco-rift/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 rift，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>WechatOnCloud: 云微WOC，云微信，自由连接</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-gloridust-wechatoncloud/</link>
+      <pubDate>Wed, 03 Jun 2026 08:31:52 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-gloridust-wechatoncloud/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 WechatOnCloud，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>skills: AI agent skills created by me: Dan McAteer</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-dannymac180-skills/</link>
+      <pubDate>Wed, 03 Jun 2026 05:06:24 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-dannymac180-skills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>goose: Goose Swift proof-of-concept README</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-b-nnett-goose/</link>
+      <pubDate>Wed, 03 Jun 2026 02:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-b-nnett-goose/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 goose，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>memory-os: A 7-layer memory operating system for Hermes Ag...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-03-claudiodrews-memory-os/</link>
+      <pubDate>Wed, 03 Jun 2026 02:06:39 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-03-claudiodrews-memory-os/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 memory-os，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-02</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-x-news-top3/</link>
+      <pubDate>Tue, 02 Jun 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>Qwen-VLA: The official repository of Qwen-VLA</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-qwenlm-qwen-vla/</link>
+      <pubDate>Tue, 02 Jun 2026 20:32:01 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-qwenlm-qwen-vla/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Qwen-VLA，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-06-02</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-02-en/</link>
+      <pubDate>Tue, 02 Jun 2026 15:06:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-02-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-06-02&#34;&gt;GitHub Trending Repositories - 2026-06-02&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-06-02 23:06:30&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 27,548&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 3,327&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-guizang-social-card-skill&#34;&gt;2. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,553&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 251&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-ian-xiaohei-illustrations&#34;&gt;3. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,719&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 154&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-gordenpptskill&#34;&gt;4. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,536&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 137&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,215&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 312&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-wechatoncloud&#34;&gt;6. &lt;a href=&#34;https://github.com/Gloridust/WechatOnCloud&#34;&gt;WechatOnCloud&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Gloridust&#34;&gt;@Gloridust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,178&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 362&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 云微WOC，云微信，自由连接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-senpaiscanner&#34;&gt;7. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 881&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 58&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-abaiautoplus&#34;&gt;8. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 864&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 491&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-pi-dynamic-workflows&#34;&gt;9. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 731&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 38&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-vibecode-pro-max-kit&#34;&gt;10. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 713&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 169&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-06-02</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-02-zh/</link>
+      <pubDate>Tue, 02 Jun 2026 15:06:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-02-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-06-02&#34;&gt;GitHub 热门仓库精选 - 2026-06-02&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-06-02 23:06:30&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 27,548&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 3,327&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-guizang-social-card-skill&#34;&gt;2. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,553&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 251&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-ian-xiaohei-illustrations&#34;&gt;3. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,719&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 154&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-gordenpptskill&#34;&gt;4. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,536&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 137&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,215&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 312&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-wechatoncloud&#34;&gt;6. &lt;a href=&#34;https://github.com/Gloridust/WechatOnCloud&#34;&gt;WechatOnCloud&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Gloridust&#34;&gt;@Gloridust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,178&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 362&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 云微WOC，云微信，自由连接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-senpaiscanner&#34;&gt;7. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 881&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 58&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-abaiautoplus&#34;&gt;8. &lt;a href=&#34;https://github.com/asz798838958/aBaiAutoplus&#34;&gt;aBaiAutoplus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/asz798838958&#34;&gt;@asz798838958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 864&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 491&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-pi-dynamic-workflows&#34;&gt;9. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 731&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 38&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-vibecode-pro-max-kit&#34;&gt;10. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 713&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 169&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>specification.website: Website specification — HTML, accessibility, se...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-jdevalk-specification.website/</link>
+      <pubDate>Tue, 02 Jun 2026 14:31:38 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-jdevalk-specification.website/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 specification.website，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>female-portrait-director: A modular Codex Skill for directing and expandi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-liyue-aigc-female-portrait-director/</link>
+      <pubDate>Tue, 02 Jun 2026 14:05:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-liyue-aigc-female-portrait-director/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 female-portrait-director，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>aBaiAutoplus: 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus</title>
+      <link>https://www.git.edu.kg/posts/2026-06-02-asz798838958-abaiautoplus/</link>
+      <pubDate>Tue, 02 Jun 2026 08:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-02-asz798838958-abaiautoplus/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 aBaiAutoplus，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-06-01</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-x-news-top3/</link>
+      <pubDate>Mon, 01 Jun 2026 17:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>pi-dynamic-workflows: </title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-michaelliv-pi-dynamic-workflows/</link>
+      <pubDate>Mon, 01 Jun 2026 16:04:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-michaelliv-pi-dynamic-workflows/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 pi-dynamic-workflows，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>weather-prediction-bot: polymarket trading bot polymarket trading bot p...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-signal-trade-core-weather-prediction-bot/</link>
+      <pubDate>Mon, 01 Jun 2026 15:05:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-signal-trade-core-weather-prediction-bot/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 weather-prediction-bot，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>forza-horizon-6-spotify-radio: forza horizon 6 spotify radio FH 6 spotify radi...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-stellarwolf001-forza-horizon-6-spotify-radio/</link>
+      <pubDate>Mon, 01 Jun 2026 14:31:43 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-stellarwolf001-forza-horizon-6-spotify-radio/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 forza-horizon-6-spotify-radio，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Claude-Mythos-AI-Anthropic-App: claude mythos ai anthropic app github open sour...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-zhristophe-claude-mythos-ai-anthropic-app/</link>
+      <pubDate>Mon, 01 Jun 2026 12:05:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-zhristophe-claude-mythos-ai-anthropic-app/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Claude-Mythos-AI-Anthropic-App，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>polymarket-trading-bot: polymarket trading bot, polymarket trading bot,...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-blackcandlelab-polymarket-trading-bot/</link>
+      <pubDate>Mon, 01 Jun 2026 11:05:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-blackcandlelab-polymarket-trading-bot/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 polymarket-trading-bot，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>flashlib: Fast and memory-efficient classical machine lea...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-flashml-org-flashlib/</link>
+      <pubDate>Mon, 01 Jun 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-flashml-org-flashlib/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 flashlib，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>DeltaForce-OBS-Locker: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-ace-trump-tech-deltaforce-obs-locker/</link>
+      <pubDate>Mon, 01 Jun 2026 07:05:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-ace-trump-tech-deltaforce-obs-locker/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 DeltaForce-OBS-Locker，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-06-01</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-01-en/</link>
+      <pubDate>Mon, 01 Jun 2026 07:05:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-01-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-06-01&#34;&gt;GitHub Trending Repositories - 2026-06-01&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-06-01 15:05:00&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 10,693&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 1,431&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-guizang-social-card-skill&#34;&gt;2. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,214&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 221&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-ian-xiaohei-illustrations&#34;&gt;3. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,514&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 132&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-gordenpptskill&#34;&gt;4. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,183&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 112&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 957&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 244&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-senpaiscanner&#34;&gt;6. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 809&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 55&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-vibecode-pro-max-kit&#34;&gt;7. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 679&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 162&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-pi-dynamic-workflows&#34;&gt;8. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 646&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 37&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-duel-agents&#34;&gt;9. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 586&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 16&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-deltaforce-obs-locker&#34;&gt;10. &lt;a href=&#34;https://github.com/ace-trump-tech/DeltaForce-OBS-Locker&#34;&gt;DeltaForce-OBS-Locker&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ace-trump-tech&#34;&gt;@ace-trump-tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 516&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 499&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 2 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-06-01</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-06-01-zh/</link>
+      <pubDate>Mon, 01 Jun 2026 07:05:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-06-01-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-06-01&#34;&gt;GitHub 热门仓库精选 - 2026-06-01&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-06-01 15:05:00&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-odysseus&#34;&gt;1. &lt;a href=&#34;https://github.com/pewdiepie-archdaemon/odysseus&#34;&gt;odysseus&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pewdiepie-archdaemon&#34;&gt;@pewdiepie-archdaemon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 10,693&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 1,431&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Self-hosted AI workspace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-guizang-social-card-skill&#34;&gt;2. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 2,214&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 221&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-ian-xiaohei-illustrations&#34;&gt;3. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,514&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 132&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-gordenpptskill&#34;&gt;4. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,183&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 112&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-gemini-web2api&#34;&gt;5. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 957&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 244&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-senpaiscanner&#34;&gt;6. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 809&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 55&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-vibecode-pro-max-kit&#34;&gt;7. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 679&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 162&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-pi-dynamic-workflows&#34;&gt;8. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 646&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 37&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-duel-agents&#34;&gt;9. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 586&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 16&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-deltaforce-obs-locker&#34;&gt;10. &lt;a href=&#34;https://github.com/ace-trump-tech/DeltaForce-OBS-Locker&#34;&gt;DeltaForce-OBS-Locker&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ace-trump-tech&#34;&gt;@ace-trump-tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 516&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 499&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 2 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>odysseus: Self-hosted AI workspace. </title>
+      <link>https://www.git.edu.kg/posts/2026-06-01-pewdiepie-archdaemon-odysseus/</link>
+      <pubDate>Mon, 01 Jun 2026 02:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-01-pewdiepie-archdaemon-odysseus/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 odysseus，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-31</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-x-news-top3/</link>
+      <pubDate>Sun, 31 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>GordenPPTSkill: AI-friendly PPT builder skill: 17 hand-polished...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-gordensun-gordenpptskill/</link>
+      <pubDate>Sun, 31 May 2026 20:31:32 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-gordensun-gordenpptskill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 GordenPPTSkill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Duel-Agents: CLI, SDK, and IDE plugins for Duel Agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</link>
+      <pubDate>Sun, 31 May 2026 16:05:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-2arons-duel-agents/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Duel-Agents，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>aimili-vpngate: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-baoweise-bot-aimili-vpngate/</link>
+      <pubDate>Sun, 31 May 2026 14:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-baoweise-bot-aimili-vpngate/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 aimili-vpngate，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>gemini-web2api: Convert Google Gemini web into OpenAI-compatibl...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-sophomoresty-gemini-web2api/</link>
+      <pubDate>Sun, 31 May 2026 12:08:09 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-sophomoresty-gemini-web2api/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 gemini-web2api，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub Trending Repositories - 2026-05-31</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-05-31-en/</link>
+      <pubDate>Sun, 31 May 2026 11:05:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-05-31-en/</guid>
+      <description>&lt;h1 id=&#34;github-trending-repositories---2026-05-31&#34;&gt;GitHub Trending Repositories - 2026-05-31&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Auto-generated GitHub Trending Repositories Report
+Generated at: 2026-05-31 19:05:51&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;todays-top-10-trending-repositories&#34;&gt;Today&amp;rsquo;s Top 10 Trending Repositories&lt;/h2&gt;
+&lt;h3 id=&#34;1-guizang-social-card-skill&#34;&gt;1. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,849&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 193&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-ian-xiaohei-illustrations&#34;&gt;2. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Unknown&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,285&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 111&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-gemini-web2api&#34;&gt;3. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 707&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 208&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-senpaiscanner&#34;&gt;4. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 685&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 47&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-vibecode-pro-max-kit&#34;&gt;5. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 636&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 156&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-adhd&#34;&gt;6. &lt;a href=&#34;https://github.com/UditAkhourii/adhd&#34;&gt;adhd&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/UditAkhourii&#34;&gt;@UditAkhourii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 631&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 28&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp;amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-pi-dynamic-workflows&#34;&gt;7. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 608&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 34&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: No description available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-aimili-vpngate&#34;&gt;8. &lt;a href=&#34;https://github.com/baoweise-bot/aimili-vpngate&#34;&gt;aimili-vpngate&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/baoweise-bot&#34;&gt;@baoweise-bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 551&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 215&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-gordenpptskill&#34;&gt;9. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 533&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 60&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-duel-agents&#34;&gt;10. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Author&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 513&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 13&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;Description&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trend-analysis&#34;&gt;Trend Analysis&lt;/h2&gt;
+&lt;h3 id=&#34;programming-language-distribution&#34;&gt;Programming Language Distribution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 3 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 repositories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hot-topics&#34;&gt;Hot Topics&lt;/h3&gt;
+&lt;p&gt;Based on today&amp;rsquo;s trending repositories, the following areas are gaining attention:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-05-31</title>
+      <link>https://www.git.edu.kg/posts/github-trending-2026-05-31-zh/</link>
+      <pubDate>Sun, 31 May 2026 11:05:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/github-trending-2026-05-31-zh/</guid>
+      <description>&lt;h1 id=&#34;github-热门仓库精选---2026-05-31&#34;&gt;GitHub 热门仓库精选 - 2026-05-31&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自动生成的 GitHub 热门仓库报告
+生成时间：2026-05-31 19:05:51&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;今日热门仓库-top-10&#34;&gt;今日热门仓库 Top 10&lt;/h2&gt;
+&lt;h3 id=&#34;1-guizang-social-card-skill&#34;&gt;1. &lt;a href=&#34;https://github.com/op7418/guizang-social-card-skill&#34;&gt;guizang-social-card-skill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/op7418&#34;&gt;@op7418&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: HTML&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,849&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 193&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels &amp;amp; WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-ian-xiaohei-illustrations&#34;&gt;2. &lt;a href=&#34;https://github.com/helloianneo/ian-xiaohei-illustrations&#34;&gt;ian-xiaohei-illustrations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/helloianneo&#34;&gt;@helloianneo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: 未知&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 1,285&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 111&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-gemini-web2api&#34;&gt;3. &lt;a href=&#34;https://github.com/Sophomoresty/gemini-web2api&#34;&gt;gemini-web2api&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Sophomoresty&#34;&gt;@Sophomoresty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 707&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 208&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-senpaiscanner&#34;&gt;4. &lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;SenPaiScanner&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/MatinSenPai&#34;&gt;@MatinSenPai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Go&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 685&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 47&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: A light-weight scanner for Cloudflare IPs, written in Golang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-vibecode-pro-max-kit&#34;&gt;5. &lt;a href=&#34;https://github.com/withkynam/vibecode-pro-max-kit&#34;&gt;vibecode-pro-max-kit&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/withkynam&#34;&gt;@withkynam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: JavaScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 636&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 156&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code &amp;amp; Codex. Any stack. 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-adhd&#34;&gt;6. &lt;a href=&#34;https://github.com/UditAkhourii/adhd&#34;&gt;adhd&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/UditAkhourii&#34;&gt;@UditAkhourii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 631&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 28&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp;amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-pi-dynamic-workflows&#34;&gt;7. &lt;a href=&#34;https://github.com/Michaelliv/pi-dynamic-workflows&#34;&gt;pi-dynamic-workflows&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Michaelliv&#34;&gt;@Michaelliv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 608&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 34&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: 暂无描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-aimili-vpngate&#34;&gt;8. &lt;a href=&#34;https://github.com/baoweise-bot/aimili-vpngate&#34;&gt;aimili-vpngate&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/baoweise-bot&#34;&gt;@baoweise-bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 551&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 215&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-gordenpptskill&#34;&gt;9. &lt;a href=&#34;https://github.com/GordenSun/GordenPPTSkill&#34;&gt;GordenPPTSkill&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/GordenSun&#34;&gt;@GordenSun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 533&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 60&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-duel-agents&#34;&gt;10. &lt;a href=&#34;https://github.com/2aronS/Duel-Agents&#34;&gt;Duel-Agents&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: &lt;a href=&#34;https://github.com/2aronS&#34;&gt;@2aronS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;: TypeScript&lt;/li&gt;
+&lt;li&gt;⭐ &lt;strong&gt;Stars&lt;/strong&gt;: 513&lt;/li&gt;
+&lt;li&gt;🍴 &lt;strong&gt;Forks&lt;/strong&gt;: 13&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;描述&lt;/strong&gt;: CLI, SDK, and IDE plugins for Duel Agents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;趋势分析&#34;&gt;趋势分析&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言分布&#34;&gt;编程语言分布&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;: 3 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt;: 1 个仓库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;热门领域&#34;&gt;热门领域&lt;/h3&gt;
+&lt;p&gt;基于今日热门仓库的分析，以下领域受到关注：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vibecode-pro-max-kit: Your AI forgets. This remembers. Spec-driven co...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-withkynam-vibecode-pro-max-kit/</link>
+      <pubDate>Sun, 31 May 2026 08:31:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-withkynam-vibecode-pro-max-kit/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 vibecode-pro-max-kit，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>ADHD Agent: 让 AI 编程 Agent 拥有发散思维的技能框架</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</link>
+      <pubDate>Sun, 31 May 2026 08:03:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-uditakhourii-adhd/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ADHD Agent，探索并行发散思维如何解决 AI Agent 的过早收敛问题</description>
+    </item>
+    <item>
+      <title>Ian Xiaohei Illustrations: 中文小黑怪诞正文配图生成 Skill</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-helloianneo-ian-xiaohei-illustrations/</link>
+      <pubDate>Sun, 31 May 2026 06:03:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-helloianneo-ian-xiaohei-illustrations/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ian-xiaohei-illustrations，探索小黑怪诞正文配图生成技术</description>
+    </item>
+    <item>
+      <title>SenPaiScanner：轻量级 Cloudflare IP 扫描器，让代理连接不再掉线</title>
+      <link>https://www.git.edu.kg/posts/2026-05-31-matinsenpai-senpaiscanner/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-31-matinsenpai-senpaiscanner/</guid>
+      <description>&lt;h2 id=&#34;项目概览&#34;&gt;项目概览&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;信息&lt;/th&gt;
+          &lt;th&gt;详情&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;项目&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;SenPaiScanner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;作者&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;MatinSenPai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Stars&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;597 ⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Forks&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;41&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;语言&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Go&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;许可证&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;MIT&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;最新版本&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;v0.5.0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;创建时间&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;2026-05-28&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;SenPaiScanner 是一款用 Go 编写的轻量级 Cloudflare IP 扫描器，内置终端 UI（TUI），专为网络延迟不可预测、连接频繁掉线的场景设计。用户只需粘贴 VLESS 或 Trojan 配置，选择参数，即可自动寻找真正可用的 Cloudflare IP——无需记忆任何命令行参数。&lt;/p&gt;
+&lt;h2 id=&#34;下载资源&#34;&gt;下载资源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;源码&lt;/strong&gt;：&lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner&#34;&gt;GitHub 仓库&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最新 Release&lt;/strong&gt;：&lt;a href=&#34;https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.5.0&#34;&gt;v0.5.0 下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持平台&lt;/strong&gt;：Linux (x86_64/ARM64)、macOS (Intel/Apple Silicon)、Windows (x86_64)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;核心功能分析&#34;&gt;核心功能分析&lt;/h2&gt;
+&lt;h3 id=&#34;双阶段扫描架构&#34;&gt;双阶段扫描架构&lt;/h3&gt;
+&lt;p&gt;SenPaiScanner 的工作流程分为两个阶段：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phase 1 — 连通性扫描&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从 Cloudflare 官方 IP 段中随机选取候选 IP（或从自定义文件读取）&lt;/li&gt;
+&lt;li&gt;根据用户配置 URL 自动提取 SNI、Host、WebSocket Path、端口等参数&lt;/li&gt;
+&lt;li&gt;对每个候选 IP 执行 HTTP/TLS 探测，验证 trace 可达性&lt;/li&gt;
+&lt;li&gt;对 WebSocket 类型配置，额外检测 TLS 连接是否能抵御 DPI 干扰&lt;/li&gt;
+&lt;li&gt;支持 1,000 / 5,000 / 20,000 / 自定义数量 IP，50 / 100 / 200 / 自定义并发数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Phase 2 — xray 端到端验证&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-30</title>
+      <link>https://www.git.edu.kg/posts/2026-05-30-x-news-top3/</link>
+      <pubDate>Sat, 30 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-30-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaohong...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-30-op7418-guizang-social-card-skill/</link>
+      <pubDate>Sat, 30 May 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-30-op7418-guizang-social-card-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-social-card-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-29</title>
+      <link>https://www.git.edu.kg/posts/2026-05-29-x-news-top3/</link>
+      <pubDate>Fri, 29 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-29-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>guizang-social-card-skill: 🪧 Claude Code / Codex skill — generate Xiaohong...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-29-op7418-guizang-social-card-skill/</link>
+      <pubDate>Fri, 29 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-29-op7418-guizang-social-card-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-social-card-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>awesome-architecture: 🗺️ Think like a software architect, not just a ...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-29-study8677-awesome-architecture/</link>
+      <pubDate>Fri, 29 May 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-29-study8677-awesome-architecture/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 awesome-architecture，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-28</title>
+      <link>https://www.git.edu.kg/posts/2026-05-28-x-news-top3/</link>
+      <pubDate>Thu, 28 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-28-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>get-shit-done-redux: Getting Shit Done, the Aftermath</title>
+      <link>https://www.git.edu.kg/posts/2026-05-28-open-gsd-get-shit-done-redux/</link>
+      <pubDate>Thu, 28 May 2026 20:31:45 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-28-open-gsd-get-shit-done-redux/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 get-shit-done-redux，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-27</title>
+      <link>https://www.git.edu.kg/posts/2026-05-27-x-news-top3/</link>
+      <pubDate>Wed, 27 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-27-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>get-shit-done-redux: Getting Shit Done, the Aftermath</title>
+      <link>https://www.git.edu.kg/posts/2026-05-27-open-gsd-get-shit-done-redux/</link>
+      <pubDate>Wed, 27 May 2026 20:31:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-27-open-gsd-get-shit-done-redux/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 get-shit-done-redux，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-26</title>
+      <link>https://www.git.edu.kg/posts/2026-05-26-x-news-top3/</link>
+      <pubDate>Tue, 26 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-26-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>bumblebee: Read-only developer endpoint scanner for on-dis...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-26-perplexityai-bumblebee/</link>
+      <pubDate>Tue, 26 May 2026 20:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-26-perplexityai-bumblebee/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 bumblebee，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-25</title>
+      <link>https://www.git.edu.kg/posts/2026-05-25-x-news-top3/</link>
+      <pubDate>Mon, 25 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-25-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>bumblebee: Read-only developer endpoint scanner for on-dis...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-25-perplexityai-bumblebee/</link>
+      <pubDate>Mon, 25 May 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-25-perplexityai-bumblebee/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 bumblebee，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-24</title>
+      <link>https://www.git.edu.kg/posts/2026-05-24-x-news-top3/</link>
+      <pubDate>Sun, 24 May 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-24-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>bumblebee: Read-only developer endpoint scanner for on-dis...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-24-perplexityai-bumblebee/</link>
+      <pubDate>Sun, 24 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-24-perplexityai-bumblebee/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 bumblebee，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-24-doorman11991-smallcode/</link>
+      <pubDate>Sun, 24 May 2026 08:31:47 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-24-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-23</title>
+      <link>https://www.git.edu.kg/posts/2026-05-23-x-news-top3/</link>
+      <pubDate>Sat, 23 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-23-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-23-doorman11991-smallcode/</link>
+      <pubDate>Sat, 23 May 2026 20:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-23-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-22</title>
+      <link>https://www.git.edu.kg/posts/2026-05-22-x-news-top3/</link>
+      <pubDate>Fri, 22 May 2026 23:28:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-22-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>smallcode: AI coding agent optimized for small LLMs. 87% b...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-22-doorman11991-smallcode/</link>
+      <pubDate>Fri, 22 May 2026 20:31:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-22-doorman11991-smallcode/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 smallcode，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-21</title>
+      <link>https://www.git.edu.kg/posts/2026-05-21-x-news-top3/</link>
+      <pubDate>Thu, 21 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-21-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>zerolang: The programming language for agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-21-vercel-labs-zerolang/</link>
+      <pubDate>Thu, 21 May 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-21-vercel-labs-zerolang/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zerolang，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-20</title>
+      <link>https://www.git.edu.kg/posts/2026-05-20-x-news-top3/</link>
+      <pubDate>Wed, 20 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-20-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>zerolang: The programming language for agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-20-vercel-labs-zerolang/</link>
+      <pubDate>Wed, 20 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-20-vercel-labs-zerolang/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zerolang，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>zero: The programming language for agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-20-vercel-labs-zero/</link>
+      <pubDate>Wed, 20 May 2026 02:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-20-vercel-labs-zero/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zero，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-19</title>
+      <link>https://www.git.edu.kg/posts/2026-05-19-x-news-top3/</link>
+      <pubDate>Tue, 19 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-19-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>zero: The programming language for agents</title>
+      <link>https://www.git.edu.kg/posts/2026-05-19-vercel-labs-zero/</link>
+      <pubDate>Tue, 19 May 2026 20:31:47 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-19-vercel-labs-zero/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zero，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-18</title>
+      <link>https://www.git.edu.kg/posts/2026-05-18-x-news-top3/</link>
+      <pubDate>Mon, 18 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-18-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-18-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Mon, 18 May 2026 20:31:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-18-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-17</title>
+      <link>https://www.git.edu.kg/posts/2026-05-17-x-news-top3/</link>
+      <pubDate>Sun, 17 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-17-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-17-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Sun, 17 May 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-17-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-16</title>
+      <link>https://www.git.edu.kg/posts/2026-05-16-x-news-top3/</link>
+      <pubDate>Sat, 16 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-16-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>YellowKey: YellowKey Bitlocker Bypass Vulnerability</title>
+      <link>https://www.git.edu.kg/posts/2026-05-16-nightmare-eclipse-yellowkey/</link>
+      <pubDate>Sat, 16 May 2026 20:31:32 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-16-nightmare-eclipse-yellowkey/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 YellowKey，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-15</title>
+      <link>https://www.git.edu.kg/posts/2026-05-15-x-news-top3/</link>
+      <pubDate>Fri, 15 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-15-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>3DCellForge: AI-powered interactive 3D model generation, ins...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-15-huangserva-3dcellforge/</link>
+      <pubDate>Fri, 15 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-15-huangserva-3dcellforge/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 3DCellForge，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-14</title>
+      <link>https://www.git.edu.kg/posts/2026-05-14-x-news-top3/</link>
+      <pubDate>Thu, 14 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-14-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>zero-native: Build desktop &#43; mobile apps with Zig and web UI</title>
+      <link>https://www.git.edu.kg/posts/2026-05-14-vercel-labs-zero-native/</link>
+      <pubDate>Thu, 14 May 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-14-vercel-labs-zero-native/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zero-native，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-13</title>
+      <link>https://www.git.edu.kg/posts/2026-05-13-x-news-top3/</link>
+      <pubDate>Wed, 13 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-13-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>zero-native: Build desktop &#43; mobile apps with Zig and web UI</title>
+      <link>https://www.git.edu.kg/posts/2026-05-13-vercel-labs-zero-native/</link>
+      <pubDate>Wed, 13 May 2026 20:31:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-13-vercel-labs-zero-native/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 zero-native，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-12</title>
+      <link>https://www.git.edu.kg/posts/2026-05-12-x-news-top3/</link>
+      <pubDate>Tue, 12 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-12-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Met...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-12-antirez-ds4/</link>
+      <pubDate>Tue, 12 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-12-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-11</title>
+      <link>https://www.git.edu.kg/posts/2026-05-11-x-news-top3/</link>
+      <pubDate>Mon, 11 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-11-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-11-antirez-ds4/</link>
+      <pubDate>Mon, 11 May 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-11-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-10</title>
+      <link>https://www.git.edu.kg/posts/2026-05-10-x-news-top3/</link>
+      <pubDate>Sun, 10 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-10-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-10-antirez-ds4/</link>
+      <pubDate>Sun, 10 May 2026 20:31:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-10-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-09</title>
+      <link>https://www.git.edu.kg/posts/2026-05-09-x-news-top3/</link>
+      <pubDate>Sat, 09 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-09-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-09-antirez-ds4/</link>
+      <pubDate>Sat, 09 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-09-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-08</title>
+      <link>https://www.git.edu.kg/posts/2026-05-08-x-news-top3/</link>
+      <pubDate>Fri, 08 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-08-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>ds4: DeepSeek 4 Flash local inference engine for Metal</title>
+      <link>https://www.git.edu.kg/posts/2026-05-08-antirez-ds4/</link>
+      <pubDate>Fri, 08 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-08-antirez-ds4/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 ds4，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>deepclaude: Use Claude Code&#39;s autonomous agent loop with De...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-08-aattaran-deepclaude/</link>
+      <pubDate>Fri, 08 May 2026 14:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-08-aattaran-deepclaude/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 deepclaude，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-07</title>
+      <link>https://www.git.edu.kg/posts/2026-05-07-x-news-top3/</link>
+      <pubDate>Thu, 07 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-07-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>whatcable: macOS menu bar app that tells you, in plain Eng...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-07-darrylmorley-whatcable/</link>
+      <pubDate>Thu, 07 May 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-07-darrylmorley-whatcable/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 whatcable，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-06</title>
+      <link>https://www.git.edu.kg/posts/2026-05-06-x-news-top3/</link>
+      <pubDate>Wed, 06 May 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-06-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>whatcable: macOS menu bar app that tells you, in plain Eng...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-06-darrylmorley-whatcable/</link>
+      <pubDate>Wed, 06 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-06-darrylmorley-whatcable/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 whatcable，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-05</title>
+      <link>https://www.git.edu.kg/posts/2026-05-05-x-news-top3/</link>
+      <pubDate>Tue, 05 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-05-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>copy-fail-CVE-2026-31431: Copy Fail (CVE-2026-31431): 9-year-old Linux ke...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-05-theori-io-copy-fail-cve-2026-31431/</link>
+      <pubDate>Tue, 05 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-05-theori-io-copy-fail-cve-2026-31431/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 copy-fail-CVE-2026-31431，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>mike: OSS AI Legal Platform</title>
+      <link>https://www.git.edu.kg/posts/2026-05-05-willchen96-mike/</link>
+      <pubDate>Tue, 05 May 2026 02:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-05-willchen96-mike/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mike，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-04</title>
+      <link>https://www.git.edu.kg/posts/2026-05-04-x-news-top3/</link>
+      <pubDate>Mon, 04 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-04-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-04-nexu-io-open-design/</link>
+      <pubDate>Mon, 04 May 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-04-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-03</title>
+      <link>https://www.git.edu.kg/posts/2026-05-03-x-news-top3/</link>
+      <pubDate>Sun, 03 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-03-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-03-nexu-io-open-design/</link>
+      <pubDate>Sun, 03 May 2026 20:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-03-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-02</title>
+      <link>https://www.git.edu.kg/posts/2026-05-02-x-news-top3/</link>
+      <pubDate>Sat, 02 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-02-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-02-nexu-io-open-design/</link>
+      <pubDate>Sat, 02 May 2026 20:31:25 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-02-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-05-01</title>
+      <link>https://www.git.edu.kg/posts/2026-05-01-x-news-top3/</link>
+      <pubDate>Fri, 01 May 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-01-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-05-01-nexu-io-open-design/</link>
+      <pubDate>Fri, 01 May 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-05-01-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-30</title>
+      <link>https://www.git.edu.kg/posts/2026-04-30-x-news-top3/</link>
+      <pubDate>Thu, 30 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-30-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>open-design: 🎨 Local-first, open-source alternative to Anthr...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-30-nexu-io-open-design/</link>
+      <pubDate>Thu, 30 Apr 2026 20:31:38 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-30-nexu-io-open-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 open-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-29</title>
+      <link>https://www.git.edu.kg/posts/2026-04-29-x-news-top3/</link>
+      <pubDate>Wed, 29 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-29-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-29-op7418-guizang-ppt-skill/</link>
+      <pubDate>Wed, 29 Apr 2026 20:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-29-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-28</title>
+      <link>https://www.git.edu.kg/posts/2026-04-28-x-news-top3/</link>
+      <pubDate>Tue, 28 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-28-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-28-op7418-guizang-ppt-skill/</link>
+      <pubDate>Tue, 28 Apr 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-28-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-27</title>
+      <link>https://www.git.edu.kg/posts/2026-04-27-x-news-top3/</link>
+      <pubDate>Mon, 27 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-27-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>guizang-ppt-skill: A Claude Code Skill that turns prompts into hor...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-27-op7418-guizang-ppt-skill/</link>
+      <pubDate>Mon, 27 Apr 2026 20:31:32 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-27-op7418-guizang-ppt-skill/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 guizang-ppt-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-26</title>
+      <link>https://www.git.edu.kg/posts/2026-04-26-x-news-top3/</link>
+      <pubDate>Sun, 26 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-26-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>Kami: 👩‍🚒 Good content deserves good paper.</title>
+      <link>https://www.git.edu.kg/posts/2026-04-26-tw93-kami/</link>
+      <pubDate>Sun, 26 Apr 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-26-tw93-kami/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 Kami，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-25</title>
+      <link>https://www.git.edu.kg/posts/2026-04-25-x-news-top3/</link>
+      <pubDate>Sat, 25 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-25-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>huashu-design: Huashu Design · HTML-native design skill for Cl...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-25-alchaincyf-huashu-design/</link>
+      <pubDate>Sat, 25 Apr 2026 20:31:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-25-alchaincyf-huashu-design/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 huashu-design，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-24</title>
+      <link>https://www.git.edu.kg/posts/2026-04-24-x-news-top3/</link>
+      <pubDate>Fri, 24 Apr 2026 23:28:25 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-24-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>OpenMythos: A theoretical reconstruction of the Claude Myth...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-24-kyegomez-openmythos/</link>
+      <pubDate>Fri, 24 Apr 2026 20:31:38 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-24-kyegomez-openmythos/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 OpenMythos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-23</title>
+      <link>https://www.git.edu.kg/posts/2026-04-23-x-news-top3/</link>
+      <pubDate>Thu, 23 Apr 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-23-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>OpenMythos: A theoretical reconstruction of the Claude Myth...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-23-kyegomez-openmythos/</link>
+      <pubDate>Thu, 23 Apr 2026 20:31:39 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-23-kyegomez-openmythos/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 OpenMythos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-22</title>
+      <link>https://www.git.edu.kg/posts/2026-04-22-x-news-top3/</link>
+      <pubDate>Wed, 22 Apr 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-22-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>OpenMythos: A theoretical reconstruction of the Claude Myth...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-22-kyegomez-openmythos/</link>
+      <pubDate>Wed, 22 Apr 2026 20:32:53 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-22-kyegomez-openmythos/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 OpenMythos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-21</title>
+      <link>https://www.git.edu.kg/posts/2026-04-21-x-news-top3/</link>
+      <pubDate>Tue, 21 Apr 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-21-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>OpenMythos: A theoretical reconstruction of the Claude Myth...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-21-kyegomez-openmythos/</link>
+      <pubDate>Tue, 21 Apr 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-21-kyegomez-openmythos/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 OpenMythos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-20</title>
+      <link>https://www.git.edu.kg/posts/2026-04-20-x-news-top3/</link>
+      <pubDate>Mon, 20 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-20-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>browser-harness: Self-healing browser harness that enables LLMs ...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-20-browser-use-browser-harness/</link>
+      <pubDate>Mon, 20 Apr 2026 20:32:16 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-20-browser-use-browser-harness/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 browser-harness，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>lingbot-map: A feed-forward 3D foundation model for reconstr...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-20-robbyant-lingbot-map/</link>
+      <pubDate>Mon, 20 Apr 2026 14:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-20-robbyant-lingbot-map/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 lingbot-map，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-19</title>
+      <link>https://www.git.edu.kg/posts/2026-04-19-x-news-top3/</link>
+      <pubDate>Sun, 19 Apr 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-19-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-19-getagentseal-codeburn/</link>
+      <pubDate>Sun, 19 Apr 2026 20:31:41 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-19-getagentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-19-agentseal-codeburn/</link>
+      <pubDate>Sun, 19 Apr 2026 02:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-19-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-18</title>
+      <link>https://www.git.edu.kg/posts/2026-04-18-x-news-top3/</link>
+      <pubDate>Sat, 18 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-18-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-18-agentseal-codeburn/</link>
+      <pubDate>Sat, 18 Apr 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-18-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-17</title>
+      <link>https://www.git.edu.kg/posts/2026-04-17-x-news-top3/</link>
+      <pubDate>Fri, 17 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-17-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>codeburn: See where your AI coding tokens go. Interactive...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-17-agentseal-codeburn/</link>
+      <pubDate>Fri, 17 Apr 2026 20:31:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-17-agentseal-codeburn/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 codeburn，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-16</title>
+      <link>https://www.git.edu.kg/posts/2026-04-16-x-news-top3/</link>
+      <pubDate>Thu, 16 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-16-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>fireworks-tech-graph: Claude Code skill for generating production-qua...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-16-yizhiyanhua-ai-fireworks-tech-graph/</link>
+      <pubDate>Thu, 16 Apr 2026 14:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-16-yizhiyanhua-ai-fireworks-tech-graph/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 fireworks-tech-graph，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-15</title>
+      <link>https://www.git.edu.kg/posts/2026-04-15-x-news-top3/</link>
+      <pubDate>Wed, 15 Apr 2026 23:28:26 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-15-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>fireworks-tech-graph: Claude Code skill for generating production-qua...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-15-yizhiyanhua-ai-fireworks-tech-graph/</link>
+      <pubDate>Wed, 15 Apr 2026 20:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-15-yizhiyanhua-ai-fireworks-tech-graph/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 fireworks-tech-graph，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>hermes-agent-orange-book: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 ...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-13-alchaincyf-hermes-agent-orange-book/</link>
+      <pubDate>Mon, 13 Apr 2026 14:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-13-alchaincyf-hermes-agent-orange-book/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 hermes-agent-orange-book，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-13</title>
+      <link>https://www.git.edu.kg/posts/2026-04-13-x-news-top3/</link>
+      <pubDate>Mon, 13 Apr 2026 11:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-13-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-12</title>
+      <link>https://www.git.edu.kg/posts/2026-04-12-x-news-top3/</link>
+      <pubDate>Sun, 12 Apr 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-12-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>awesome-persona-distill-skills: 同事.skill, 女娲.skill, 前任.skill… Curated list of A...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-12-xixu-me-awesome-persona-distill-skills/</link>
+      <pubDate>Sun, 12 Apr 2026 20:31:40 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-12-xixu-me-awesome-persona-distill-skills/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 awesome-persona-distill-skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-11</title>
+      <link>https://www.git.edu.kg/posts/2026-04-11-x-news-top3/</link>
+      <pubDate>Sat, 11 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-11-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>mempalace: The highest-scoring AI memory system ever bench...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-11-milla-jovovich-mempalace/</link>
+      <pubDate>Sat, 11 Apr 2026 20:31:51 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-11-milla-jovovich-mempalace/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mempalace，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-10</title>
+      <link>https://www.git.edu.kg/posts/2026-04-10-x-news-top3/</link>
+      <pubDate>Fri, 10 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-10-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>mempalace: The highest-scoring AI memory system ever bench...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-10-milla-jovovich-mempalace/</link>
+      <pubDate>Fri, 10 Apr 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-10-milla-jovovich-mempalace/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mempalace，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-09</title>
+      <link>https://www.git.edu.kg/posts/2026-04-09-x-news-top3/</link>
+      <pubDate>Thu, 09 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-09-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>mempalace: The highest-scoring AI memory system ever bench...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-09-milla-jovovich-mempalace/</link>
+      <pubDate>Thu, 09 Apr 2026 20:31:30 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-09-milla-jovovich-mempalace/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mempalace，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-08</title>
+      <link>https://www.git.edu.kg/posts/2026-04-08-x-news-top3/</link>
+      <pubDate>Wed, 08 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-08-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>mempalace: The highest-scoring AI memory system ever bench...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-08-milla-jovovich-mempalace/</link>
+      <pubDate>Wed, 08 Apr 2026 20:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-08-milla-jovovich-mempalace/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 mempalace，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>career-ops: AI-powered job search system built on Claude Co...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-08-santifer-career-ops/</link>
+      <pubDate>Wed, 08 Apr 2026 08:31:39 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-08-santifer-career-ops/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 career-ops，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-07</title>
+      <link>https://www.git.edu.kg/posts/2026-04-07-x-news-top3/</link>
+      <pubDate>Tue, 07 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-07-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>openclaude: Open Claude Is Open-source coding-agent CLI for...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-07-gitlawb-openclaude/</link>
+      <pubDate>Tue, 07 Apr 2026 20:31:43 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-07-gitlawb-openclaude/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 openclaude，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-06</title>
+      <link>https://www.git.edu.kg/posts/2026-04-06-x-news-top3/</link>
+      <pubDate>Mon, 06 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-06-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: The repo is finally unlocked. enjoy the party! ...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-06-ultraworkers-claw-code/</link>
+      <pubDate>Mon, 06 Apr 2026 20:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-06-ultraworkers-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-05</title>
+      <link>https://www.git.edu.kg/posts/2026-04-05-x-news-top3/</link>
+      <pubDate>Sun, 05 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-05-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: The repo is finally unlocked. enjoy the party! ...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-05-ultraworkers-claw-code/</link>
+      <pubDate>Sun, 05 Apr 2026 20:31:31 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-05-ultraworkers-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-04</title>
+      <link>https://www.git.edu.kg/posts/2026-04-04-x-news-top3/</link>
+      <pubDate>Sat, 04 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-04-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: [Notice] The repo temporarily locked while owne...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-04-ultraworkers-claw-code/</link>
+      <pubDate>Sat, 04 Apr 2026 20:31:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-04-ultraworkers-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-03</title>
+      <link>https://www.git.edu.kg/posts/2026-04-03-x-news-top3/</link>
+      <pubDate>Fri, 03 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-03-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: [Notice] The repo temporarily locked while owne...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-03-ultraworkers-claw-code/</link>
+      <pubDate>Fri, 03 Apr 2026 20:31:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-03-ultraworkers-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-02</title>
+      <link>https://www.git.edu.kg/posts/2026-04-02-x-news-top3/</link>
+      <pubDate>Thu, 02 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-02-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: [Notice] The repo temporarily locked while owne...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-02-ultraworkers-claw-code/</link>
+      <pubDate>Thu, 02 Apr 2026 20:32:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-02-ultraworkers-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>claw-code: The fastest repo in history to surpass 100K sta...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-02-instructkr-claw-code/</link>
+      <pubDate>Thu, 02 Apr 2026 08:31:37 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-02-instructkr-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-04-01</title>
+      <link>https://www.git.edu.kg/posts/2026-04-01-x-news-top3/</link>
+      <pubDate>Wed, 01 Apr 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-01-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claw-code: The fastest repo in history to surpass 50K star...</title>
+      <link>https://www.git.edu.kg/posts/2026-04-01-instructkr-claw-code/</link>
+      <pubDate>Wed, 01 Apr 2026 20:31:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-04-01-instructkr-claw-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claw-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-03-31</title>
+      <link>https://www.git.edu.kg/posts/2026-03-31-x-news-top3/</link>
+      <pubDate>Tue, 31 Mar 2026 23:28:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-31-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>claude-code: An independent Python feature port of Claude Co...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-31-instructkr-claude-code/</link>
+      <pubDate>Tue, 31 Mar 2026 20:31:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-31-instructkr-claude-code/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 claude-code，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>cli: The official Lark/Feishu CLI tool, maintained b...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-31-larksuite-cli/</link>
+      <pubDate>Tue, 31 Mar 2026 14:31:33 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-31-larksuite-cli/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 cli，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>X (Twitter) 热门科技资讯 Top 3 - 2026-03-30</title>
+      <link>https://www.git.edu.kg/posts/2026-03-30-x-news-top3/</link>
+      <pubDate>Mon, 30 Mar 2026 23:28:27 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-30-x-news-top3/</guid>
+      <description>精选 X (Twitter) 平台今日最热门的 3 条科技资讯，涵盖人工智能、航天、量子计算等领域</description>
+    </item>
+    <item>
+      <title>cli: A command-line tool for Lark/Feishu Open Platform — built...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-30-larksuite-cli/</link>
+      <pubDate>Mon, 30 Mar 2026 20:31:29 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-30-larksuite-cli/</guid>
+      <description>Deep dive into the popular GitHub open source project cli, exploring its technical architecture and use cases</description>
+    </item>
+    <item>
+      <title>skills：Claude 代码 skills based on The Minimalist Entrepren...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-27-slavingia-skills/</link>
+      <pubDate>Fri, 27 Mar 2026 08:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-27-slavingia-skills/</guid>
+      <description>深度解析 GitHub 热门开源项目 skills，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>clui-cc：Clui CC — Command Line User Interface for Claude 代码</title>
+      <link>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</link>
+      <pubDate>Fri, 20 Mar 2026 08:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-20-lcoutodemos-clui-cc/</guid>
+      <description>深度解析 GitHub 热门开源项目 clui-cc，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codex-manager：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-20-cnlimiter-codex-manager/</link>
+      <pubDate>Fri, 20 Mar 2026 02:31:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-20-cnlimiter-codex-manager/</guid>
+      <description>深度解析 GitHub 热门开源项目 codex-manager，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>codex-register：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-cnlimiter-codex-register/</link>
+      <pubDate>Thu, 19 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-cnlimiter-codex-register/</guid>
+      <description>深度解析 GitHub 热门开源项目 codex-register，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>meta-lobbying-and-other-findings: </title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</link>
+      <pubDate>Thu, 19 Mar 2026 15:23:24 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-upper-up-meta-lobbying-and-other-findings/</guid>
+      <description>Deep dive into popular GitHub open source project meta-lobbying-and-other-findings</description>
+    </item>
+    <item>
+      <title>awesome-codex-subagents：A collection of 130&#43; specialized ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-voltagent-awesome-codex-subagents/</link>
+      <pubDate>Thu, 19 Mar 2026 14:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-voltagent-awesome-codex-subagents/</guid>
+      <description>深度解析 GitHub 热门开源项目 awesome-codex-subagents，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Crucix: Your personal intelligence agent. Watches the world from multiple data source...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</link>
+      <pubDate>Thu, 19 Mar 2026 13:09:15 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-calesthio-crucix/</guid>
+      <description>Deep dive into popular GitHub open source project Crucix</description>
+    </item>
+    <item>
+      <title>jobs：A research 工具 for visually exploring Bureau of Labor...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</link>
+      <pubDate>Thu, 19 Mar 2026 08:31:34 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-karpathy-jobs/</guid>
+      <description>深度解析 GitHub 热门开源项目 jobs，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Understand-Anything: Claude code skills that turn any cod...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</link>
+      <pubDate>Thu, 19 Mar 2026 08:22:49 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-lum1104-understand-anything/</guid>
+      <description>Deep dive into popular GitHub open source project Understand-Anything</description>
+    </item>
+    <item>
+      <title>ClawTeam: ClawTeam: agent Swarm Intelligence (One Command...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-hkuds-clawteam/</link>
+      <pubDate>Thu, 19 Mar 2026 08:22:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-hkuds-clawteam/</guid>
+      <description>Deep dive into popular GitHub open source project ClawTeam</description>
+    </item>
+    <item>
+      <title>OpenSquirrel: For people who get distracted by agents. A ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-infatoshi-opensquirrel/</link>
+      <pubDate>Thu, 19 Mar 2026 08:21:36 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-infatoshi-opensquirrel/</guid>
+      <description>Deep dive into popular GitHub open source project OpenSquirrel</description>
+    </item>
+    <item>
+      <title>tavily-key-generator: Multi-service toolkit for Tavily an...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</link>
+      <pubDate>Thu, 19 Mar 2026 08:20:17 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-skernelx-tavily-key-generator/</guid>
+      <description>Deep dive into popular GitHub open source project tavily-key-generator</description>
+    </item>
+    <item>
+      <title>autoresearch：Claude Autoresearch Skill — Autonomous goal-...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-uditgoenka-autoresearch/</link>
+      <pubDate>Thu, 19 Mar 2026 07:59:42 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-uditgoenka-autoresearch/</guid>
+      <description>深度解析 GitHub 热门开源项目 autoresearch，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>opencli：Make any website your 命令行工具. A powerful, 人工智能-nat...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</link>
+      <pubDate>Thu, 19 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-19-jackwener-opencli/</guid>
+      <description>深度解析 GitHub 热门开源项目 opencli，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>inkos：Autonomous novel writing 命令行工具 智能体 — 人工智能 agents wr...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</link>
+      <pubDate>Wed, 18 Mar 2026 20:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-narcooo-inkos/</guid>
+      <description>深度解析 GitHub 热门开源项目 inkos，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Attention-Residuals：</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-moonshotai-attention-residuals/</link>
+      <pubDate>Wed, 18 Mar 2026 19:20:46 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-moonshotai-attention-residuals/</guid>
+      <description>深度解析 GitHub 热门开源项目 Attention-Residuals，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>chrome-cdp-skill：Give your 人工智能 智能体 access to your live C...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</link>
+      <pubDate>Wed, 18 Mar 2026 14:31:19 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-pasky-chrome-cdp-skill/</guid>
+      <description>深度解析 GitHub 热门开源项目 chrome-cdp-skill，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Recordly：A free, open-source Screen Studio alternative th...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</link>
+      <pubDate>Wed, 18 Mar 2026 08:31:48 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-webadderall-recordly/</guid>
+      <description>深度解析 GitHub 热门开源项目 Recordly，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>AutoResearchClaw：Fully autonomous &amp; self-evolving researc...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-18-aiming-lab-autoresearchclaw/</link>
+      <pubDate>Wed, 18 Mar 2026 02:31:20 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-18-aiming-lab-autoresearchclaw/</guid>
+      <description>深度解析 GitHub 热门开源项目 AutoResearchClaw，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>NemoClaw：NVIDIA plugin for secure installation of OpenClaw</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</link>
+      <pubDate>Tue, 17 Mar 2026 20:31:18 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-nvidia-nemoclaw/</guid>
+      <description>深度解析 GitHub 热门开源项目 NemoClaw，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>Crucix：Your personal intelligence 智能体. Watches the world ...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</link>
+      <pubDate>Tue, 17 Mar 2026 20:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-calesthio-crucix/</guid>
+      <description>深度解析 GitHub 热门开源项目 Crucix，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>OpenMAIC：Open Multi-智能体 Interactive Classroom — Get an im...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</link>
+      <pubDate>Tue, 17 Mar 2026 20:00:28 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-thu-maic-openmaic/</guid>
+      <description>深度解析 GitHub 热门开源项目 OpenMAIC，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>gstack：Use Garry Tan&#39;s exact Claude Code setup: 10 opinio...</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</link>
+      <pubDate>Tue, 17 Mar 2026 19:53:44 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-garrytan-gstack/</guid>
+      <description>深度解析 GitHub 热门开源项目 gstack，探索其技术架构与应用场景</description>
+    </item>
+    <item>
+      <title>GitHub 热门仓库精选 - 2026-03-17</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-github-trending/</link>
+      <pubDate>Tue, 17 Mar 2026 14:14:35 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-github-trending/</guid>
+      <description>自动生成的 GitHub 热门仓库报告，包含今日最热门的开源项目</description>
+    </item>
+    <item>
+      <title>gstack：Y Combinator CEO 打造的 AI 编程团队操作系统，一周斩获 18000 Star</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-gstack-ai-coding-os/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-gstack-ai-coding-os/</guid>
+      <description>深度解析 GitHub 本周最热项目 gstack —— 由 Y Combinator CEO Garry Tan 开源的 Claude Code 专家技能集，将 AI 编程助手从单一模式升级为多角色专家团队。</description>
+    </item>
+    <item>
+      <title>The Agency：拥有144个专业AI智能体的&#34;梦之队&#34;，GitHub星标数破5万</title>
+      <link>https://www.git.edu.kg/posts/2026-03-17-agency-agents/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-03-17-agency-agents/</guid>
+      <description>深度解析GitHub最热门开源项目The Agency——一个包含144个专业AI智能体的&amp;#34;梦之队&amp;#34;，涵盖工程、设计、营销、销售等12个部门</description>
+    </item>
+    <item>
+      <title>Windows 10 IoT LTSC/LTSC 2021的下载渠道</title>
+      <link>https://www.git.edu.kg/posts/windows-10-iot-ltsc-2021-download/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/windows-10-iot-ltsc-2021-download/</guid>
+      <description>详细介绍Windows 10 IoT LTSC/LTSC 2021版本的可靠下载渠道，包括MSDN I Tell You、Hello Windows、Archive.org等官方和第三方下载源，以及各版本的优缺点对比和安装注意事项。</description>
+    </item>
+    <item>
+      <title>XianYu机器人Web管理系统：简化自动化交易的部署与管理</title>
+      <link>https://www.git.edu.kg/posts/xianyu_robot_web_2024/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/xianyu_robot_web_2024/</guid>
+      <description>XianYu机器人Web版本的详细介绍，包括安装配置、使用说明及常见问题解答。本文将帮助您快速掌握XianYu机器人Web管理系统的使用方法，提高自动化交易效率。</description>
+    </item>
+    <item>
+      <title>Cursor Reg 1.0 发布公告</title>
+      <link>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/cursor-reg-release-1.0/</guid>
+      <description>Cursor Reg 1.0 工具发布公告，一款注重安全性、易用性和稳定性的 Cursor 注册工具。本文详细介绍了工具的特性、安装使用方法及未来规划。</description>
+    </item>
+    <item>
+      <title>2025年人工智能爆发：从监管博弈到教育革命</title>
+      <link>https://www.git.edu.kg/posts/ai_exploie/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/ai_exploie/</guid>
+      <description>深度解析2025年全球AI竞争格局：人形机器人量产落地、欧盟监管僵局、教育智能化重构及万亿低空经济崛起</description>
+    </item>
+    <item>
+      <title>2025年AI教育新篇章：个性化学习与未来技能培养</title>
+      <link>https://www.git.edu.kg/posts/ai_education/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/ai_education/</guid>
+      <description>深入探讨2025年人工智能如何重塑教育格局，从个性化学习路径到未来技能培养，解锁AI赋能教育的无限可能。</description>
+    </item>
+    <item>
+      <title>2025年AI驱动的个性化学习：重塑教育的未来</title>
+      <link>https://www.git.edu.kg/posts/ai_personalized_learning_2025/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/ai_personalized_learning_2025/</guid>
+      <description>2025年AI个性化学习技术的突破，探讨如何通过人工智能优化教育体验、提升学习成果并缩小教育差距</description>
+    </item>
+    <item>
+      <title>2025年国际局势最新动态：全球热点事件解析</title>
+      <link>https://www.git.edu.kg/posts/hot2025/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/hot2025/</guid>
+      <description>2025年国际局势风云变幻，从乌克兰冲突升级到中东局势动荡，再到全球经济与气候挑战，本文为您梳理最新国际热点事件，洞悉全球格局变化。</description>
+    </item>
+    <item>
+      <title>2025全球地缘政治前瞻：冲突、合作与新秩序的演变</title>
+      <link>https://www.git.edu.kg/posts/globel-vision2027/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/globel-vision2027/</guid>
+      <description>深入解析2025年国际局势的最新动态，包括地缘政治冲突、大国关系演变、经济民族主义抬头及技术竞争等关键议题，展望全球秩序的未来走向。</description>
+    </item>
+    <item>
+      <title>使用微测评助手下载学生的错题真简单</title>
+      <link>https://www.git.edu.kg/posts/xueshengweiceping/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/xueshengweiceping/</guid>
+      <description>深入解析2025年学生教育，使用微测评帮助家长和考生复习。</description>
+    </item>
+    <item>
+      <title>2024-2025年医疗科技重大突破：从基因治疗到智能药物</title>
+      <link>https://www.git.edu.kg/posts/medical_breakthroughs/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/medical_breakthroughs/</guid>
+      <description>2024-2025年医疗科技领域的重大突破，包括基因治疗、口服胰岛素和抗衰老技术等创新进展</description>
+    </item>
+    <item>
+      <title>2024年火星探索重大突破：从神秘晶体到生命起源</title>
+      <link>https://www.git.edu.kg/posts/mars_discoveries_2024/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/mars_discoveries_2024/</guid>
+      <description>2024年火星探索领域的重大发现，包括新火山、有机物分析和耐极端环境生物研究等突破性进展</description>
+    </item>
+    <item>
+      <title>2024年人工智能重大突破：从通用智能到节能创新</title>
+      <link>https://www.git.edu.kg/posts/ai_breakthroughs/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/ai_breakthroughs/</guid>
+      <description>2024年AI领域的重大突破，包括OpenAI的o3系统、光驱动AI技术和突破性存储技术等创新发展</description>
+    </item>
+    <item>
+      <title>隐藏武器的纳米机器人：癌症治疗的新希望</title>
+      <link>https://www.git.edu.kg/posts/nanorobot_article/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/nanorobot_article/</guid>
+      <description>瑞典科学家开发出创新纳米机器人，能够精确识别并杀死癌细胞，为癌症治疗带来新希望</description>
+    </item>
+    <item>
+      <title>Cursor IDE 2024深度评测：AI驱动的开发利器还是昙花一现？</title>
+      <link>https://www.git.edu.kg/posts/cursor-ide-review-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/cursor-ide-review-2024/</guid>
+      <description>深入分析 Cursor IDE 的优缺点、使用体验及未来发展前景，帮助开发者做出选择。</description>
+    </item>
+  </channel>
+</rss>

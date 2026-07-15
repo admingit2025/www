@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Loupe on 科技观察</title>
+    <link>https://www.git.edu.kg/tags/loupe/</link>
+    <description>Recent content in Loupe on 科技观察</description>
+    <image>
+      <title>科技观察</title>
+      <url>https://www.git.edu.kg/images/site-feature-image.jpg</url>
+      <link>https://www.git.edu.kg/images/site-feature-image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:16:04 +0000</lastBuildDate>
+    <atom:link href="https://www.git.edu.kg/tags/loupe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>loupe: A privacy-focused iOS app that raises awareness...</title>
+      <link>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</link>
+      <pubDate>Tue, 09 Jun 2026 00:16:04 +0000</pubDate>
+      <guid>https://www.git.edu.kg/posts/2026-06-09-mysk-research-loupe/</guid>
+      <description>深度解析本周 GitHub 热门开源项目 loupe，探索其技术架构与应用场景</description>
+    </item>
+  </channel>
+</rss>
