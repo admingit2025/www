@@ -250,3 +250,39 @@ iframe.giscus-frame {
         border-radius: 14px;
     }
 }
+
+/* 归档页面样式优化 */
+.archive-year {
+    margin-top: 40px !important;
+}
+
+.archive-month {
+    display: flex !important;
+    align-items: flex-start !important;
+    padding: 10px 0 !important;
+}
+
+.archive-month-header {
+    margin: 25px 0 !important;
+    width: 200px !important;
+}
+
+.archive-entry {
+    position: relative !important;
+    padding: 5px !important;
+    margin: 10px 0 !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.archive-entry:hover {
+    transform: none !important;
+    border-color: var(--border) !important;
+    box-shadow: none !important;
+}
+
+.archive-posts {
+    width: 100% !important;
+    font-size: 16px !important;
+}

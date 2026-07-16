@@ -1,13 +1,15 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
+# 此工作流已禁用，请使用 hugo.yml 进行构建和部署
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["DISABLED-main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    if: false
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
